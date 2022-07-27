@@ -86,7 +86,7 @@
     {
       "name": "Emmy & Matt's Wedding",
       "author": "Emmy Wilkinson & Matthew Stuart Dunn",
-      "kind": "Medley of 32-bar strathspey and 32-bar reel for three couples in a four-couple longwise set",
+      "kind": "Medley of 32-bar strathspey and 32-bar reel for four couples in a four-couple longwise set",
       "short-kind": "M64 4/4L",
       "tunes": [
         "matt-s-wedding",
@@ -98,8 +98,8 @@
     {
       "name": "Emmy's Wedding",
       "author": "Emmy Wilkinson & Matthew Stuart Dunn",
-      "kind": "40-bar reel for three couples in a four-couple longwise set",
-      "short-kind": "R40 3/4L",
+      "kind": "40-bar reel for four couples in a four-couple longwise set",
+      "short-kind": "R40 4/4L",
       "tunes": [
         "emmy-s-wedding"
       ],
@@ -191,8 +191,8 @@
     {
       "name": "Matt's Wedding",
       "author": "Emmy Wilkinson & Matthew Stuart Dunn",
-      "kind": "32-bar strathspey for three couples in a four-couple longwise set",
-      "short-kind": "S32 3/4L",
+      "kind": "40-bar strathspey for four couples in a four-couple longwise set",
+      "short-kind": "S40 4/4L",
       "tunes": [
         "matt-s-wedding"
       ],
