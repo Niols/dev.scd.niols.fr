@@ -2,8 +2,8 @@ This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**the-wee-journey.tex
-(./the-wee-journey.tex
+**sunday-early-in-the-morning.tex
+(./sunday-early-in-the-morning.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (/usr/share/texlive/texmf
 -dist/tex/latex/memoir/memoir.cls
@@ -1097,8 +1097,8 @@ File: ppxetex.def 2021/01/09 v0.5r Pdfpages driver for XeTeX (AM)
 \WF@everypar=\toks43
 Package: wrapfig 2003/01/31  v 3.6
 )
-No file the-wee-journey.aux.
-\openout1 = `the-wee-journey.aux'.
+No file sunday-early-in-the-morning.aux.
+\openout1 = `sunday-early-in-the-morning.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 249.
 LaTeX Font Info:    ... okay on input line 249.
@@ -1248,7 +1248,7 @@ LaTeX Info: Redefining \ref on input line 249.
 LaTeX Info: Redefining \pageref on input line 249.
 LaTeX Info: Redefining \nameref on input line 249.
 \@outlinefile=\write5
-\openout5 = `the-wee-journey.out'.
+\openout5 = `sunday-early-in-the-morning.out'.
 
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
@@ -1267,27 +1267,47 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 LaTeX Font Info:    Font shape `TU/TrebuchetMS(0)/m/n' will be
 (Font)              scaled to size 18.1318pt on input line 253.
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 271--271
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 270--270
 []\TU/TrebuchetMS(0)/m/n/10.95 16  
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 279--279
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 276--276
  []\TU/TrebuchetMS(0)/m/n/10.95 17
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 279--279
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 276--276
+[]\TU/TrebuchetMS(0)/m/n/10.95 18  
+ []
+
+
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 284--284
+ []\TU/TrebuchetMS(0)/m/n/10.95 19
+ []
+
+
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 284--284
+[]\TU/TrebuchetMS(0)/m/n/10.95 22  
+ []
+
+
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 290--290
+ []\TU/TrebuchetMS(0)/m/n/10.95 23
+ []
+
+
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 290--290
 []\TU/TrebuchetMS(0)/m/n/10.95 24  
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 288--288
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 296--296
  []\TU/TrebuchetMS(0)/m/n/10.95 25
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 288--288
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 296--296
 []\TU/TrebuchetMS(0)/m/n/10.95 32  
  []
 
@@ -1296,23 +1316,24 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ) [1
 
-] (./the-wee-journey.aux)
+] (./sunday-early-in-the-morning.aux)
 
-Package rerunfilecheck Warning: File `the-wee-journey.out' has changed.
+Package rerunfilecheck Warning: File `sunday-early-in-the-morning.out' has chan
+ged.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `the-wee-journey.out':
+Package rerunfilecheck Info: Checksums for `sunday-early-in-the-morning.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  32750 strings out of 479212
- 646739 string characters out of 5875086
- 1022475 words of memory out of 5000000
+ 646847 string characters out of 5875086
+ 1022511 words of memory out of 5000000
  51833 multiletter control sequences out of 15000+600000
  403942 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 98i,11n,120p,482b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,11n,120p,494b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on the-wee-journey.pdf (1 page).
+Output written on sunday-early-in-the-morning.pdf (1 page).
