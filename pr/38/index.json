@@ -317,6 +317,113 @@
       "root": ".."
     },
     {
+      "name": "Spot on",
+      "author": "Shona Holmes",
+      "kind": "32-bar reel for any number of couples in a round-the-room formation. All face in, each man has his partner on his right",
+      "short-kind": "R32",
+      "description": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 4,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All advance and retire.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 5,
+          "ends": 8,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All advance and men retire while women stay in the middle, pulling\nback right shoulder to face their partner. As such, women form an\ninner circle facing out while men form an outer circle facing in.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 12,
+          "contents": [
+            {
+              "type": "text",
+              "content": "Women dance hands round to the left in the inner circle while men\ndance hands round to the left in the outer circle. All finish facing\nnew partners.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 13,
+          "ends": 16,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All turn by the right one and a half to finish with men in the centre\nfacing out and women on the outside facing in.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "contents": [
+            {
+              "type": "text",
+              "content": "Women dance hands round to the right in the outer circle while men\ndance hands round to the right in the inner circle. All finish facing\noriginal partners.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All dance back-to-back.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 28,
+          "contents": [
+            {
+              "type": "text",
+              "content": "Women dance back-to-back with the man to the left of their partner.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 29,
+          "ends": 32,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All take promenade hold and dance round the circle anti-clockwise.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by",
+          "deviser": "Shona Holmes",
+          "more": "in July 2022. Our lovely Unit 2/3 teacher Rachel Shankland started every\nday with a fun warm up dance and often described our better moments in\ndancing and teaching as “Spot on”. Thus, this easy warm up dance was born;\nthe circles in bars 9-12 and 17-20 create perfect spots. Thank you Rachel!\n"
+        }
+      ],
+      "slug": "spot-on",
+      "root": ".."
+    },
+    {
       "name": "Sunday, Early in the Morning",
       "author": "Marie-Laure Barret",
       "kind": "32-bar strathspey for three couples in a three-couple longwise set",
