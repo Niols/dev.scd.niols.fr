@@ -2,8 +2,8 @@ This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**la-ville-lumiere.tex
-(./la-ville-lumiere.tex
+**in-strathspey-time-george-please.tex
+(./in-strathspey-time-george-please.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-01-09> xparse <2020-03-03> (/usr/share/texlive/texmf
 -dist/tex/latex/memoir/memoir.cls
@@ -1097,8 +1097,8 @@ File: ppxetex.def 2021/01/09 v0.5r Pdfpages driver for XeTeX (AM)
 \WF@everypar=\toks43
 Package: wrapfig 2003/01/31  v 3.6
 )
-No file la-ville-lumiere.aux.
-\openout1 = `la-ville-lumiere.aux'.
+No file in-strathspey-time-george-please.aux.
+\openout1 = `in-strathspey-time-george-please.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 237.
 LaTeX Font Info:    ... okay on input line 237.
@@ -1248,7 +1248,7 @@ LaTeX Info: Redefining \ref on input line 237.
 LaTeX Info: Redefining \pageref on input line 237.
 LaTeX Info: Redefining \nameref on input line 237.
 \@outlinefile=\write5
-\openout5 = `la-ville-lumiere.out'.
+\openout5 = `in-strathspey-time-george-please.out'.
 
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
@@ -1267,27 +1267,27 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 LaTeX Font Info:    Font shape `TU/TrebuchetMS(0)/m/n' will be
 (Font)              scaled to size 18.1318pt on input line 241.
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 267--267
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 254--254
 []\TU/TrebuchetMS(0)/m/n/10.95 16  
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 273--273
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 260--260
  []\TU/TrebuchetMS(0)/m/n/10.95 17
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 273--273
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 260--260
 []\TU/TrebuchetMS(0)/m/n/10.95 24  
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 279--279
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 268--268
  []\TU/TrebuchetMS(0)/m/n/10.95 25
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 279--279
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 268--268
 []\TU/TrebuchetMS(0)/m/n/10.95 32  
  []
 
@@ -1296,23 +1296,25 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 
 ) [1
 
-] (./la-ville-lumiere.aux)
+] (./in-strathspey-time-george-please.aux)
 
-Package rerunfilecheck Warning: File `la-ville-lumiere.out' has changed.
+Package rerunfilecheck Warning: File `in-strathspey-time-george-please.out' has
+ changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `la-ville-lumiere.out':
+Package rerunfilecheck Info: Checksums for `in-strathspey-time-george-please.ou
+t':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  32749 strings out of 479212
- 646731 string characters out of 5875087
- 1022418 words of memory out of 5000000
+ 646875 string characters out of 5875087
+ 1021466 words of memory out of 5000000
  51832 multiletter control sequences out of 15000+600000
  403942 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 98i,11n,120p,483b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 98i,11n,120p,499b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on la-ville-lumiere.pdf (1 page).
+Output written on in-strathspey-time-george-please.pdf (1 page).
