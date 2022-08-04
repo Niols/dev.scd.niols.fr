@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2022.8.4)  4 AUG 2022 23:36
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/Debian) (preloaded format=xelatex 2022.8.4)  4 AUG 2022 23:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1267,27 +1267,37 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 LaTeX Font Info:    Font shape `TU/TrebuchetMS(0)/m/n' will be
 (Font)              scaled to size 18.1318pt on input line 241.
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 259--259
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 264--264
+[]\TU/TrebuchetMS(0)/m/n/10.95 14  
+ []
+
+
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 271--271
+ []\TU/TrebuchetMS(0)/m/n/10.95 15
+ []
+
+
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 271--271
 []\TU/TrebuchetMS(0)/m/n/10.95 16  
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 267--267
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 279--279
  []\TU/TrebuchetMS(0)/m/n/10.95 17
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 267--267
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 279--279
 []\TU/TrebuchetMS(0)/m/n/10.95 24  
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 276--276
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 288--288
  []\TU/TrebuchetMS(0)/m/n/10.95 25
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 276--276
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 288--288
 []\TU/TrebuchetMS(0)/m/n/10.95 32  
  []
 
@@ -1309,7 +1319,7 @@ Package rerunfilecheck Info: Checksums for `the-wee-journey.out':
 Here is how much of TeX's memory you used:
  32749 strings out of 479212
  646722 string characters out of 5875087
- 1022415 words of memory out of 5000000
+ 1024415 words of memory out of 5000000
  51832 multiletter control sequences out of 15000+600000
  403942 words of font info for 47 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
