@@ -3,9 +3,6 @@
   "author": "Shona Holmes",
   "kind": "32-bar strathspey or 32-bar jig or 32-bar reel for two couples in a four-couple longwise set",
   "short-kind": "?32 2/4L",
-  "tunes": [
-    "la-ville-lumiere"
-  ],
   "description": [
     {
       "type": "phrase",
@@ -14,7 +11,7 @@
       "contents": [
         {
           "type": "text",
-          "content": "1st and 2nd couple advance, retire and turn one and a half times.\n"
+          "content": "1st and 2nd couples advance, retire and turn one and a half times.\n"
         }
       ]
     },

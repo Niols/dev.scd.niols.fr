@@ -7,11 +7,22 @@
     {
       "type": "phrase",
       "starts": 1,
+      "ends": 2,
+      "contents": [
+        {
+          "type": "text",
+          "content": "1st couple set.\n"
+        }
+      ]
+    },
+    {
+      "type": "phrase",
+      "starts": 3,
       "ends": 8,
       "contents": [
         {
           "type": "text",
-          "content": "1st couple set and dance a figure of eight around 2nd and 3rd couples\non the sidelines in six bars, dancing in and down to begin and\ntouching nearer hands when possible.\n"
+          "content": "1st couple dance a figure of eight around 2nd and 3rd couples on the\nsidelines in six bars, dancing in and down to begin and touching\nnearer hands when possible.\n"
         }
       ]
     },
@@ -55,7 +66,7 @@
       "contents": [
         {
           "type": "text",
-          "content": "1st and 3rd couples dance a poussette right round. On the first bar,\n1st and 3rd couples join both hands turn into a diagonal line with 1st\ncouple above 3rd couple. The rest of the poussette proceeds as normal.\n"
+          "content": "1st and 3rd couples dance a poussette right round. On the first bar,\n1st and 3rd couples join both hands and turn into a diagonal line with\n1st couple above 3rd couple. The rest of the poussette proceeds as\nnormal.\n"
         }
       ]
     },
