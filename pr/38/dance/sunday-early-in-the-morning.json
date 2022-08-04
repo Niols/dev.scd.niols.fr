@@ -77,7 +77,51 @@
       "contents": [
         {
           "type": "text",
-          "content": "3rd and 2nd couples dance the Rose Progression.\n"
+          "content": "3rd and 2nd couples dance the “rose progression”:\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 26,
+          "contents": [
+            {
+              "type": "text",
+              "content": "3rd man and 2nd woman set as 3rd woman and 2nd man change places\nright hand.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 27,
+          "ends": 28,
+          "contents": [
+            {
+              "type": "text",
+              "content": "3rd man and 2nd woman turn with both hands halfway as 3rd woman\nand 2nd man dance into their partner's place.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 29,
+          "ends": 30,
+          "contents": [
+            {
+              "type": "text",
+              "content": "3rd man and 2nd woman cast into each other's original places as\n3rd woman and 2nd man turn with both hands halfway.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 31,
+          "ends": 32,
+          "contents": [
+            {
+              "type": "text",
+              "content": "3rd man and 2nd woman dance across the set as 3rd woman and 2nd\nman, pulling right shoulder back, cast out to the sidelines.\n"
+            }
+          ]
         }
       ]
     },
@@ -88,7 +132,7 @@
     {
       "type": "devised by",
       "deviser": "Marie-Laure Barret",
-      "more": "on July 31st, 2022. At the Saturday's ball at the end of the first week of\nSummer School in St Andrews, a fellow candidate told me that it is planned\nto write dances for our tutor, Rachel Shankland. Thus, on the following\nmorning, at 6.30 AM, I started devising this dance.\n"
+      "more": "on July 31st, 2022: “At the Saturday's ball at the end of the first week\nof Summer School in St Andrews, a fellow candidate told me that it is\nplanned to write dances for our tutor, Rachel Shankland. Thus, on the\nfollowing morning, at 6.30 AM, I started devising this dance.”\n"
     }
   ],
   "slug": "sunday-early-in-the-morning",
