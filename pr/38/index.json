@@ -945,6 +945,85 @@
       "root": ".."
     },
     {
+      "name": "The Waves",
+      "author": "Saskia Frisby",
+      "kind": "32-bar strathspey for three couples in a four-couple longwise set",
+      "short-kind": "S32 3/4L",
+      "description": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st couple set and dance a figure of eight around 2nd and 3rd couples\non the sidelines in six bars, dancing in and down to begin and\ntouching nearer hands when possible.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 2nd couples dance the knot.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 2nd couples, giving left hands, dance four hands across once\nround.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 3rd couples dance four hands round to the left. At the very\nend of this phrase, 1st and 3rd women as well as 1st and 3rd men\nrelease hands while retaining hands with their partner.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 3rd couples dance a poussette right round. On the first bar,\n1st and 3rd couples join both hands turn into a diagonal line with 1st\ncouple above 3rd couple. The rest of the poussette proceeds as normal.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "devised by",
+          "deviser": "Saskia Frisby",
+          "more": "and inspired by the waves in the sea around St. Andrews. For Rachel\nShankland and George Meikle, with heartfelt thanks for their kindness\ntowards and patience with the Units 2/3 class of 2022.\n"
+        },
+        {
+          "type": "recommended tune",
+          "tune": "Highland Whisky",
+          "composer": "Niel Gow"
+        }
+      ],
+      "slug": "the-waves",
+      "root": ".."
+    },
+    {
       "name": "The Wee Journey",
       "author": "Nicolas “Niols” Jeannerod",
       "kind": "32-bar reel for six couples in a six-couple longwise set",
