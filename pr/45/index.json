@@ -1,6 +1,95 @@
 {
   "dances": [
     {
+      "name": "A Wee Journey",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel for six couples in a six-couple longwise set",
+      "short-kind": "R32 6/6L",
+      "description": [
+        {
+          "type": "instruction",
+          "content": "On second chord, 4th, 5th and 6th couples cross.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 6,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All couples dance twelve hands round to the left for 6 bars.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 7,
+          "ends": 8,
+          "contents": [
+            {
+              "type": "text",
+              "content": "5th couple in second place and 2nd couple in fifth place cross,\nfinishing in order 6, 5, 4, 3, 2, 1 with 6th, 4th and 2nd couples on\nown sides facing down and 5th, 3rd and 1st couples on opposite sides\nfacing up.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 14,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All dance reels of six on the sidelines for 6 bars, giving right\nshoulder to being, finishing in order 1, 2, 3, 4, 5, 6, facing in.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 15,
+          "ends": 16,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All turn by the right halfway to finish into allemande hold, 1st, 3rd\nand 5th couples facing up and 2nd, 4th and 6th couples facing down.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st, 2nd and 3rd couples at the top and 6th, 5th and 4th couples at\nthe bottom dance circulating allemandes, finishing in order 3, 2, 1,\n6, 5, 4 with 3rd, 1st and 5th couples on own sides.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All set. 2nd couple cross up while 3rd couple steps down; 5th couple\ncross down while 4th couple steps up; 1st and 6th couples dance half\nright hands across. All turn by the right and finish in order 2, 3, 6,\n1, 4, 5.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by",
+          "deviser": "Nicolas “Niols” Jeannerod",
+          "more": "in July 2022: “This dance is written as a gift for Rachel Shankland and\nGeorge Meikle that took such good care of us during our Units 2 and 3. The\nchanges of direction give many opportunities for the men to flash their\nunderwear as the RSCDS demands for Unit 2.”\n"
+        }
+      ],
+      "slug": "a-wee-journey",
+      "root": ".."
+    },
+    {
       "name": "Drawn in",
       "author": "Shannon Kiernan",
       "scddb-id": 20314,
@@ -81,6 +170,81 @@
         }
       ],
       "slug": "drawn-in",
+      "root": ".."
+    },
+    {
+      "name": "Et voilà !",
+      "author": "Violaine Eysseric",
+      "kind": "Medley of 40-bar strathspey and 40-bar reel for four trios in a square set",
+      "short-kind": "M40 12S",
+      "description": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "contents": [
+            {
+              "type": "text",
+              "content": "The persons in the middle of all trios dance left hands accross in the\nmiddle of the square and right hands accross back to original place\nwhile the other persons dance eight hands round to the left and back.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 3rd trios dance a reel of four accross the set. In each trio,\nthe person in the middle dances in tandem with the person on their\nright; the person in the middle has the lead to start, and the lead\nchanges halfway in the reel. The tandems pass left shoulder to begin.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All trios dance anti-clockwise one place, finishing facing inside the\nsquare.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All trios dance »modified set and link for three«: in each trio, the\nthree persons set; the person on the left dances in to finish facing\nout in the person on the right's position; the person in the middle\nand the person on the right cast off one place to finish in promenade\nhold in the person on the left and the person in the middle's\npositions.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 40,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All dance “Schiehallion reels” all round; the persons in promenade\nhold sticking together as one unit.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "custom",
+          "text": "Repeat as strathspey and then as reel, twice. All trios progress by one\nside of the square each time through as persons in trio get reordered: the\npersons on the left, in the middle and on the right becoming the persons\non the right, on the left and in the middle respectively.\n"
+        },
+        {
+          "type": "devised by",
+          "deviser": "Violaine Eysseric",
+          "more": "during the teaching certificate class in weeks 1 and 2 of Summer School\n2022 as a gift for Rachel Shankland and George Meikle: “The candidates\ndevised dances and created ‘The Doonhamers' Book’. This dance is for\ntwelve dancers as there were twelve of us; it also uses a lot of\nformations included in the dances of Unit 2 – even if not always in the\nusual way!”\n"
+        }
+      ],
+      "slug": "et-voila",
       "root": ".."
     },
     {
@@ -545,44 +709,44 @@
         {
           "type": "phrase",
           "starts": 1,
-          "ends": 2,
-          "contents": [
-            {
-              "type": "text",
-              "content": "1st couple turn halfway with right hands while 2nd and 3rd couples\nset.\n"
-            }
-          ]
-        },
-        {
-          "type": "phrase",
-          "starts": 3,
           "ends": 4,
           "contents": [
             {
               "type": "text",
-              "content": "1st man and 2nd woman cast down one place while 3rd woman dances in\nand up to first place, and 1st woman and 2nd man dance in and down\none place while 3rd man casts up to 1st place.\n"
+              "content": "1st, 2nd and 3rd couples dance ”a unit 3 lesson“ from original\npositions, finishing in order 3, 1, 2 with 1st couple on opposite\nlines.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 1,
+              "ends": 2,
+              "contents": [
+                {
+                  "type": "text",
+                  "content": "1st couple position turn halfway by the right while 2nd and 3rd\ncouple positions set.\n"
+                }
+              ]
+            },
+            {
+              "type": "phrase",
+              "starts": 3,
+              "ends": 4,
+              "contents": [
+                {
+                  "type": "text",
+                  "content": "On the womens' line, 1st and 2nd positions cast down one place\nwhile 3rd position dances in and up to first place. On the mens'\nline, 1st and 2nd positions dance in and down one place while 3rd\nposition casts up to first place.\n"
+                }
+              ]
             }
           ]
         },
         {
           "type": "phrase",
           "starts": 5,
-          "ends": 6,
-          "contents": [
-            {
-              "type": "text",
-              "content": "3rd couple turn halfway with right hands, while 2nd and 3rd couples\nset.\n"
-            }
-          ]
-        },
-        {
-          "type": "phrase",
-          "starts": 7,
           "ends": 8,
           "contents": [
             {
               "type": "text",
-              "content": "3rd and 1st men cast down one place while 2nd woman dances in and up\nto first place, and 3rd and 1st women dance in and down one place\nwhile 2nd man casts up to first place.\n"
+              "content": "2nd, 3rd and 1st couples dance a “unit 3 lesson” again from new\nplaces, finishing in order 2, 3, 1 with 3rd and 1st couples on\nopposite lines.\n"
             }
           ]
         },
@@ -593,7 +757,7 @@
           "contents": [
             {
               "type": "text",
-              "content": "2nd and 3rd couple turn partner halfway with right hands, and chase\naround clockwise two places. Repeat four bars from these positions\nreturning to position at beginning of bar 9.\n"
+              "content": "2nd and 3rd couple turn partner halfway with right hands, and chase\naround clockwise two places. Repeat four bars from these positions,\nfinishing again in order 2, 3, 1 with 3rd and 1st couples on opposite\nlines.\n"
             }
           ]
         },
@@ -604,51 +768,29 @@
           "contents": [
             {
               "type": "text",
-              "content": "3rd couple, followed by 2nd couple dance a figure of eight around 1st\ncouple and up the sides, finishing 3rd couple in first place and 2nd\ncouple in second place.\n"
+              "content": "3rd couple, followed by 2nd couple dance a figure of eight down around\n1st couple and up the sides, finishing in order 3, 2, 1 with 3rd and\n1st couples on opposite lines.\n"
             }
           ]
         },
         {
           "type": "phrase",
           "starts": 25,
-          "ends": 26,
-          "contents": [
-            {
-              "type": "text",
-              "content": "3rd couple turn halfway with the right hand while 2nd and 1st couples\nset.\n"
-            }
-          ]
-        },
-        {
-          "type": "phrase",
-          "starts": 27,
           "ends": 28,
           "contents": [
             {
               "type": "text",
-              "content": "3rd and 2nd women cast down one place while 1st man dances in and up\nto first place, and 3rd and 2nd men dance in and down one place while\n1st woman casts up to first place.\n"
+              "content": "3rd, 2nd and 1st couples dance a “unit 3 lesson” again from new\nplaces, finishing in order 1, 3, 2 with 1st couple on opposite line.\n"
             }
           ]
         },
         {
           "type": "phrase",
           "starts": 29,
-          "ends": 30,
-          "contents": [
-            {
-              "type": "text",
-              "content": "1st couple turn halfway with right hands while 3rd and 2nd couples\nset.\n"
-            }
-          ]
-        },
-        {
-          "type": "phrase",
-          "starts": 31,
           "ends": 32,
           "contents": [
             {
               "type": "text",
-              "content": "1st and 3rd women cast down one place while 2nd woman dances in and up\nto first place, and 1st and 3rd men dance in and down one place while\n2nd man casts up to first place.\n"
+              "content": "1st, 3rd and 2nd couples dance a “unit 3 lesson” again from new\nplaces, finishing in order 2, 1, 3 with all couples on own line.\n"
             }
           ]
         },
@@ -658,7 +800,7 @@
         },
         {
           "type": "note",
-          "content": "During bars 3-4, 7-8, 27-28 and 31-32, dancers who change place by dancing\nin and up/down curve into place.\n"
+          "content": "During “unit 3 lessons” on bars 3-4, 7-8, 27-28 and 31-32, dancers who\nchange place by dancing in and up/down curve into place.\n"
         },
         {
           "type": "devised by",
