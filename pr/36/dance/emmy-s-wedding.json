@@ -9,8 +9,8 @@
   "description": [
     {
       "type": "phrase",
-      "start": 1,
-      "end": 8,
+      "starts": 1,
+      "ends": 8,
       "contents": [
         {
           "type": "text",
@@ -20,8 +20,8 @@
     },
     {
       "type": "phrase",
-      "start": 9,
-      "end": 16,
+      "starts": 9,
+      "ends": 16,
       "contents": [
         {
           "type": "text",
@@ -31,8 +31,8 @@
     },
     {
       "type": "phrase",
-      "start": 17,
-      "end": 24,
+      "starts": 17,
+      "ends": 24,
       "contents": [
         {
           "type": "text",
@@ -40,8 +40,8 @@
         },
         {
           "type": "phrase",
-          "start": 17,
-          "end": 20,
+          "starts": 17,
+          "ends": 20,
           "contents": [
             {
               "type": "text",
@@ -51,8 +51,8 @@
         },
         {
           "type": "phrase",
-          "start": 21,
-          "end": 24,
+          "starts": 21,
+          "ends": 24,
           "contents": [
             {
               "type": "text",
@@ -64,8 +64,8 @@
     },
     {
       "type": "phrase",
-      "start": 25,
-      "end": 32,
+      "starts": 25,
+      "ends": 32,
       "contents": [
         {
           "type": "text",
@@ -75,8 +75,8 @@
     },
     {
       "type": "phrase",
-      "start": 33,
-      "end": 40,
+      "starts": 33,
+      "ends": 40,
       "contents": [
         {
           "type": "text",
