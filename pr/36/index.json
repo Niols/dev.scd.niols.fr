@@ -1,6 +1,99 @@
 {
   "dances": [
     {
+      "name": "A Wee Journey",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel for six couples in a six-couple longwise set",
+      "short-kind": "R32 6/6L",
+      "description": [
+        {
+          "type": "instruction",
+          "content": "On second chord, 4th, 5th and 6th couples cross.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 6,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All couples dance twelve hands round to the left for 6 bars.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 7,
+          "ends": 8,
+          "contents": [
+            {
+              "type": "text",
+              "content": "5th couple in second place and 2nd couple in fifth place cross,\nfinishing in order 6, 5, 4, 3, 2, 1 with 6th, 4th and 2nd couples on\nown sides facing down and 5th, 3rd and 1st couples on opposite sides\nfacing up.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 14,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All dance reels of six on the sidelines for 6 bars, giving right\nshoulder to being, finishing in order 1, 2, 3, 4, 5, 6, facing in.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 15,
+          "ends": 16,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All turn by the right halfway to finish into allemande hold, 1st, 3rd\nand 5th couples facing up and 2nd, 4th and 6th couples facing down.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st, 2nd and 3rd couples at the top and 6th, 5th and 4th couples at\nthe bottom dance circulating allemandes, finishing in order 3, 2, 1,\n6, 5, 4 with 3rd, 1st and 5th couples on own sides.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All set. 2nd couple cross up while 3rd couple steps down; 5th couple\ncross down while 4th couple steps up; 1st and 6th couples dance half\nright hands across. All turn by the right and finish in order 2, 3, 6,\n1, 4, 5.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by",
+          "deviser": "Nicolas “Niols” Jeannerod",
+          "more": "in July 2022.\n"
+        },
+        {
+          "type": "quote",
+          "content": "This dance is written as a gift for Rachel Shankland and George Meikle\nthat took such good care of us during our Units 2 and 3. The changes of\ndirection give many opportunities for the men to flash their underwear as\nthe RSCDS demands for Unit 2.\n"
+        }
+      ],
+      "slug": "a-wee-journey",
+      "root": ".."
+    },
+    {
       "name": "Drawn in",
       "author": "Shannon Kiernan",
       "scddb-id": 20314,
@@ -124,6 +217,85 @@
         }
       ],
       "slug": "emmy-s-wedding",
+      "root": ".."
+    },
+    {
+      "name": "Et voilà !",
+      "author": "Violaine Eysseric",
+      "kind": "Medley of 40-bar strathspey and 40-bar reel for four trios in a square set",
+      "short-kind": "M40 12S",
+      "description": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "contents": [
+            {
+              "type": "text",
+              "content": "The persons in the middle of all trios dance left hands accross in the\nmiddle of the square and right hands accross back to original place\nwhile the other persons dance eight hands round to the left and back.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 3rd trios dance a reel of four accross the set. In each trio,\nthe person in the middle dances in tandem with the person on their\nright; the person in the middle has the lead to start, and the lead\nchanges halfway in the reel. The tandems pass left shoulder to begin.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All trios dance anti-clockwise one place, finishing facing inside the\nsquare.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All trios dance »modified set and link for three«: in each trio, the\nthree persons set; the person on the left dances in to finish facing\nout in the person on the right's position; the person in the middle\nand the person on the right cast off one place to finish in promenade\nhold in the person on the left and the person in the middle's\npositions.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 40,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All dance “Schiehallion reels” all round; the persons in promenade\nhold sticking together as one unit.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "custom",
+          "text": "Repeat as strathspey and then as reel, twice. All trios progress by one\nside of the square each time through as persons in trio get reordered: the\npersons on the left, in the middle and on the right becoming the persons\non the right, on the left and in the middle respectively.\n"
+        },
+        {
+          "type": "devised by",
+          "deviser": "Violaine Eysseric",
+          "more": "during the teaching certificate class in weeks 1 and 2 of Summer School\n2022 as a gift for Rachel Shankland and George Meikle.\n"
+        },
+        {
+          "type": "quote",
+          "content": "The candidates devised dances and created “The Doonhamers' Book”. This\ndance is for twelve dancers as there were twelve of us; it also uses a lot\nof formations included in the dances of Unit 2 – even if not always in the\nusual way!\n"
+        }
+      ],
+      "slug": "et-voila",
       "root": ".."
     },
     {
