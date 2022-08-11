@@ -413,6 +413,7 @@
     {
       "name": "Praha Matka Měst",
       "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 20992,
       "kind": "Medley of 16-bar strathspey and 16-bar reel for three couples in a three-couple longwise set",
       "short-kind": "M32 3/3L",
       "description": [
@@ -431,7 +432,7 @@
           "contents": [
             {
               "type": "text",
-              "content": "1st couple set advancing and turn both hands, dance down the middle\nand turn halfway with both hands to face down in Promenade hold. 2nd\ncouple step up on bars 5-6. 2nd and 3rd couples join in on bar 8.\n"
+              "content": "1st couple set advancing and turn both hands, dance down the middle\nand turn halfway with both hands to face down in promenade hold. 2nd\ncouple step up on bars 5-6. 2nd and 3rd couples join in on bar 8.\n"
             }
           ]
         },
@@ -442,7 +443,7 @@
           "contents": [
             {
               "type": "text",
-              "content": "2nd, 1st and 3rd couples dance an Allemande down the dance. On bars\n15-16, 1st couple stays in the middle and set advancing to face first\ncorners in third corner position.\n"
+              "content": "2nd, 1st and 3rd couples dance an allemande down the dance. On bars\n15-16, 1st couple stays in the middle and set advancing to face first\ncorners in third corner position.\n"
             }
           ]
         },
@@ -457,7 +458,7 @@
           "contents": [
             {
               "type": "text",
-              "content": "1st couple dance corners pass and turn and cast away: Same as corners\npass and turn, except that corners turn halfway right hand and cast\naway to opposite positions. On bars 23-24, 1st couple slows down to\nfinish in the middle on own sides in Poussette hold; 3rd man curves to\nstay in the middle on own side; 3rd woman joins in in Poussette hold.\n"
+              "content": "1st couple dance corners pass and turn and cast away: Same as corners\npass and turn, except that corners turn halfway right hand and cast\naway to opposite positions. On bars 23-24, 1st couple slow down to\nfinish in the middle on own sides in poussette hold; 3rd man curves to\nstay in the middle on own side; 3rd woman joins in in poussette hold.\n"
             }
           ]
         },
@@ -468,7 +469,7 @@
           "contents": [
             {
               "type": "text",
-              "content": "1st and 3rd couples dance Poussette and petronella: Same five first\nbars as the Poussette. On bar 6, 3rd and 1st couples dance a quarter.\nOn bars 7-8, 3rd and 1st couples dance a petronella turn to opposite\nlines, finishing with 2nd couple in first position, and 3rd and 1st\ncouples improper in second and third position.\n"
+              "content": "1st and 3rd couples dance poussette and petronella: Same five first\nbars as the Poussette. On bar 6, 3rd and 1st couples dance a quarter.\nOn bars 7-8, 3rd and 1st couples dance a petronella turn to opposite\nlines, finishing with 2nd couple in first position, and 3rd and 1st\ncouples improper in second and third position.\n"
             }
           ]
         },
@@ -479,7 +480,7 @@
         {
           "type": "devised by",
           "deviser": "Nicolas “Niols” Jeannerod",
-          "more": "in April 2019."
+          "more": "in Prague in April 2019. The title translates to “Prague, Mother of\nCities” and refers to Prague's motto during the twentieth century. It was\na symbol of the mission of Prague to protect the independence and\nprosperity of the Czecho-Slovakian state.\n"
         },
         {
           "type": "music by",
@@ -639,6 +640,96 @@
         }
       ],
       "slug": "the-reel-of-the-51st-confusion",
+      "root": ".."
+    },
+    {
+      "name": "The Waves",
+      "author": "Saskia Frisby",
+      "kind": "32-bar strathspey for three couples in a four-couple longwise set",
+      "short-kind": "S32 3/4L",
+      "description": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 2,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st couple set.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 3,
+          "ends": 8,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st couple dance a figure of eight around 2nd and 3rd couples on the\nsidelines in six bars, dancing in and down to begin and touching\nnearer hands when possible.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 2nd couples dance the knot, retaining left hands.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "contents": [
+            {
+              "type": "text",
+              "content": "2nd and 1st couples, giving left hands, dance four hands across once\nround.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 3rd couples dance four hands round to the left. At the very\nend of this phrase, 1st and 3rd women as well as 1st and 3rd men\nrelease hands while retaining hands with their partner.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 3rd couples dance a poussette right round. On the first bar,\n1st and 3rd couples join both hands and turn into a diagonal line with\n1st couple above 3rd couple. The rest of the poussette proceeds as\nnormal.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "devised by",
+          "deviser": "Saskia Frisby",
+          "more": "and inspired by the waves in the sea around St. Andrews. For Rachel\nShankland and George Meikle, with heartfelt thanks for their kindness\ntowards and patience with the Units 2/3 class of 2022.\n"
+        },
+        {
+          "type": "recommended tune",
+          "tune": "Highland Whisky",
+          "composer": "Niel Gow"
+        }
+      ],
+      "slug": "the-waves",
       "root": ".."
     },
     {
