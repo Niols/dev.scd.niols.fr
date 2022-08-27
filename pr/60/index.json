@@ -1390,11 +1390,7 @@
       "contents": [
         {
           "type": "dance",
-          "slug": "a-wee-journey"
-        },
-        {
-          "type": "dance",
-          "slug": "spot-on"
+          "slug": "units-2-and-3"
         },
         {
           "type": "dance",
@@ -1402,15 +1398,19 @@
         },
         {
           "type": "dance",
+          "slug": "spot-on"
+        },
+        {
+          "type": "dance",
           "slug": "in-strathspey-time-george-please"
         },
         {
           "type": "dance",
-          "slug": "the-waves"
+          "slug": "a-wee-journey"
         },
         {
           "type": "dance",
-          "slug": "units-2-and-3"
+          "slug": "the-waves"
         },
         {
           "type": "dance",
