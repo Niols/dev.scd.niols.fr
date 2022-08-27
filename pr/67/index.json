@@ -966,6 +966,95 @@
       "root": ".."
     },
     {
+      "name": "The Terrific Twelve",
+      "author": "Kristian Vestli",
+      "kind": "40-bar reel for six couples in a six-couple longwise set",
+      "short-kind": "R40 6/6L",
+      "description": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 4,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st man with 2nd woman, and at the same time 2nd man with 3rd woman,\n3rd man with 4th woman, 4th man with 5th woman and 5th man with 6th\nwoman turn with the right hand.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 5,
+          "ends": 8,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All turn their partner with the right hand ending in allemande hold\nfacing up.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st, 2nd and 3rd couples, and at the same time 4th, 5th and 6th\ncouples dance a three-couple allemande.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "contents": [
+            {
+              "type": "text",
+              "content": "3rd couple with 2nd couple, and at the same time 1st couple with 6th\ncouple and 5th couple with 4th couple, dance right hands across and\nleft hands back, finishing in the middle of the set both hands joined.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "contents": [
+            {
+              "type": "text",
+              "content": "3rd couple with 2nd couple, and at the same time 1st couple with 6th\ncouple and 5th couple with 4th couple, change places with a two-couple\npoussette.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 33,
+          "ends": 40,
+          "contents": [
+            {
+              "type": "text",
+              "content": "All circle twelve hands round and back.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by",
+          "deviser": "Kristian Vestli",
+          "more": "in St Andrews, July 2022."
+        },
+        {
+          "type": "quote",
+          "content": "The team of twelve candidates for our units 2 & 3 were terrific. In this\ndance you hardly get a rest, to remind us of all the hard work we put in,\nbut also all the fun we had with our tutor, Rachel Shankland and our\nmusician, George Meikle.\n"
+        }
+      ],
+      "slug": "the-terrific-twelve",
+      "root": ".."
+    },
+    {
       "name": "The Waves",
       "author": "Saskia Frisby",
       "scddb-id": 20994,
@@ -1291,6 +1380,48 @@
       "date": "2019-03-02T00:00:00Z",
       "content": "\\relative f <<\n  \\new Voice {\n    \\clef treble\n    \\key b \\minor\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        b16 fis'8. fis g16 fis8. e16 d8. cis16 |\n        a16 e'8. e fis16 e8. d16 cis8. ais16 |\n        b16 fis'8. fis g16 fis8. e16 d8. cis16 |\n        \\tuplet 3/2 { a8 cis e } fis8 ais, b4 b4 |\n      } \\break\n\n      fis'16 b8. b cis16 d8. cis16 b8. a16 |\n      g16 b8. b cis16 d8. cis16 b8. a16 |\n      a16 e'8. e fis16 g8. fis16 e8. d16 |\n      \\tuplet 3/2 { cis8 fis, d } \\tuplet 3/2 { b'8 fis d } \\tuplet 3/2 { a'8 fis d } \\tuplet 3/2 { b'8 fis d } |\n      \\break\n\n      fis16 b8. b cis16 d8. cis16 b8. a16 |\n      g16 b8. b cis16 d8. cis16 b8. a16 |\n      a16 e'8. e fis16 g8. fis16 e8. d16 |\n      cis16 b a g fis8 ais b4 b |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      b1:m | a2 fis | b1:m | a4 fis b2:m |\n\n      b1:m | g | a | b:m7 |\n      b1:m | g | a | a4 fis b2:m |\n    }\n  }\n>>\n",
       "slug": "the-translator",
+      "root": ".."
+    }
+  ],
+  "books": [
+    {
+      "title": "The Doonhamers' Book",
+      "summary": "8 Scottish Country Dances written for Rachel Shankland and George Meikle",
+      "contents": [
+        {
+          "type": "dance",
+          "slug": "units-2-and-3"
+        },
+        {
+          "type": "dance",
+          "slug": "sunday-early-in-the-morning"
+        },
+        {
+          "type": "dance",
+          "slug": "spot-on"
+        },
+        {
+          "type": "dance",
+          "slug": "in-strathspey-time-george-please"
+        },
+        {
+          "type": "dance",
+          "slug": "a-wee-journey"
+        },
+        {
+          "type": "dance",
+          "slug": "the-waves"
+        },
+        {
+          "type": "dance",
+          "slug": "et-voila"
+        },
+        {
+          "type": "dance",
+          "slug": "the-terrific-twelve"
+        }
+      ],
+      "slug": "the-doonhamers-book",
       "root": ".."
     }
   ],
