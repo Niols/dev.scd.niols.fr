@@ -292,7 +292,7 @@
       "name": "In Strathspey Time, George, Please!",
       "author": "Shona Holmes",
       "kind": "32-bar strathspey or 32-bar jig or 32-bar reel for two couples in a four-couple longwise set",
-      "short-kind": "?32 2/4L",
+      "short-kind": "X32 2/4L",
       "description": [
         {
           "type": "phrase",
@@ -312,7 +312,7 @@
           "contents": [
             {
               "type": "text",
-              "content": "1st couple, followed by 2nd couple, lead down the middle for three\nsteps. 2nd couple divide to allow 1st couple through and both couples\nlead up. On bars 15-16, retaining right hands, 1st and 2nd couple turn\nby the right to finish on own sides [see note below].\n"
+              "content": "1st couple, followed by 2nd couple, lead down the middle for three\nsteps. 2nd couple divide to allow 1st couple through and both couples\nlead up. On bars 15-16, retaining right hands, 1st and 2nd couple turn\nby the right to finish on own sides. [see note below]\n"
             }
           ]
         },
@@ -330,11 +330,22 @@
         {
           "type": "phrase",
           "starts": 25,
+          "ends": 28,
+          "contents": [
+            {
+              "type": "text",
+              "content": "1st and 2nd couples dance right hands across.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 29,
           "ends": 32,
           "contents": [
             {
               "type": "text",
-              "content": "1st and 2nd couples dance right hands across; 1st couple turn by the\nright to finish in second place on own side while 2nd couple moves up\n[see note below].\n"
+              "content": "1st couple turn by the right to finish in second place on own side.\n2nd couple step up on bars 31-32. [see note below]\n"
             }
           ]
         },
@@ -354,6 +365,11 @@
         {
           "type": "quote",
           "content": "George Meikle played wonderfully for our Units 2 and 3, even if not always\nin the tempo we wanted. This dance can be danced in your choice of tempo\nto reflect this.\n"
+        },
+        {
+          "type": "music by",
+          "tune": "A Strathspey for George",
+          "composer": "Nicolas “Niols” Jeannerod"
         }
       ]
     },
