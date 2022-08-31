@@ -91,7 +91,7 @@ p {
 .tune-preview > img {
   width: 100%; }
 
-.tune-description ul {
+.tune-description li {
   list-style-type: disc; }
 
 .tune-description .dance {
