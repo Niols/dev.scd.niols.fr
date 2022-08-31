@@ -90,3 +90,9 @@ p {
 
 .tune-preview > img {
   width: 100%; }
+
+.tune-description ul {
+  list-style-type: disc; }
+
+.tune-description .dance {
+  font-style: italic; }
