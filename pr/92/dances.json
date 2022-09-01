@@ -10,8 +10,12 @@
       "deviser-details": "This dance is written as a gift for Rachel Shankland and George Meikle that\ntook such good care of us during our Units 2 and 3. The changes of direction\ngive many opportunities for the men to flash their underwear as the RSCDS\ndemands for Unit 2.\n",
       "description": [
         {
-          "type": "instruction",
-          "content": "On second chord, 4th, 5th and 6th couples cross.\n"
+          "type": "two chords",
+          "couples": [
+            "4th",
+            "5th",
+            "6th"
+          ]
         },
         {
           "type": "phrase",
@@ -487,12 +491,15 @@
       "editor-details": "The title translates to “Prague, Mother of Cities” and refers to Prague's\nmotto during the twentieth century. It was a symbol of the mission of Prague\nto protect the independence and prosperity of the Czecho-Slovakian state.\n",
       "description": [
         {
-          "type": "instruction",
-          "content": "On second chord, 2nd and 3rd couples cross.\n"
+          "type": "two chords",
+          "couples": [
+            "2nd",
+            "3rd"
+          ]
         },
         {
-          "type": "instruction",
-          "content": "Strathspey"
+          "type": "kind",
+          "kind": "Strathspey"
         },
         {
           "type": "phrase",
@@ -517,8 +524,8 @@
           ]
         },
         {
-          "type": "instruction",
-          "content": "Reel"
+          "type": "kind",
+          "kind": "Reel"
         },
         {
           "type": "phrase",
