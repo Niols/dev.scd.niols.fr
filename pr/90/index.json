@@ -178,7 +178,7 @@
       "kind": "Medley of 40-bar strathspey and 40-bar reel for four trios in a square set",
       "short-kind": "M40 12S",
       "date": "2022",
-      "date-format": "during the teaching certificate class in weeks 1 and 2 of Summer School %year%\nas a gift for Rachel Shankland and George Meikle.\n",
+      "date-format": "during the teaching certificate class in weeks 1 and 2 of Summer School %year%\nas a gift for Rachel Shankland and George Meikle\n",
       "deviser-details": "The candidates devised dances and created “The Doonhamers' Book”. This dance\nis for twelve dancers as there were twelve of us; it also uses a lot of\nformations included in the dances of Unit 2 – even if not always in the usual\nway!\n",
       "description": [
         {
@@ -408,7 +408,7 @@
     },
     "one-blue-cloud-in-the-grey-sky": {
       "name": "One Blue Cloud in the Grey Sky",
-      "author": "Claire Cunin & Nicolas “Niols” Jeannerod",
+      "author": "Claire Cunin and Nicolas “Niols” Jeannerod",
       "scddb-id": 19198,
       "kind": "40-bar reel for three couples in a three-couple longwise set",
       "short-kind": "R40 3/3L",
@@ -661,7 +661,7 @@
       "author": "Marie-Laure Barret",
       "kind": "32-bar strathspey for three couples in a three-couple longwise set",
       "short-kind": "S32 3/3L",
-      "date": "2022-07-31T00:00:00Z",
+      "date": "2022-07-31",
       "deviser-details": "During the Saturday ball at the end of the first week of Summer School in St.\nAndrews, I was asked if I wanted to write a dance for our tutor Rachel\nShankland and for our musician George Meikle. Thus, on the following morning,\nat 6.30am, I started devising this dance.\n",
       "description": [
         {
@@ -865,12 +865,12 @@
     },
     "the-reel-of-the-51st-confusion": {
       "name": "The Reel of the 51st Confusion",
-      "author": "Anne Lanvin, Corentin Lefèvre, Isabelle Herlant, Louise Baltera, Nicolas “Niols” Jeannerod & Victor Lanvin",
+      "author": "Anne Lanvin, Corentin Lefèvre, Isabelle Herlant, Louise Baltera, Nicolas “Niols” Jeannerod and Victor Lanvin",
       "short-author": "Anne Lanvin et al.",
       "scddb-id": 20993,
       "kind": "32-bar reel for three couples in a three-couple longwise set",
       "short-kind": "R32 3/3L",
-      "date": "2021-08-08T00:00:00Z",
+      "date": "2021-08-08",
       "editor-details": "This dance is a variation of one of the most popular Scottish country dances,\n“The Reel of the 51st Division”.\n",
       "tunes": [
         {
@@ -1119,7 +1119,7 @@
     },
     "two-blue-clouds-in-the-grey-sky": {
       "name": "Two Blue Clouds in the Grey Sky",
-      "author": "Claire Cunin & Nicolas “Niols” Jeannerod",
+      "author": "Claire Cunin and Nicolas “Niols” Jeannerod",
       "scddb-id": 19197,
       "kind": "40-bar reel for five couples in a five-couple longwise set",
       "short-kind": "R40 5/5L",
@@ -1298,7 +1298,7 @@
       "scddb-id": 14008,
       "kind": "40-bar reel",
       "short-kind": "R40",
-      "date": "2018-04-25T00:00:00Z",
+      "date": "2018-04-25",
       "dances": [
         {
           "type": "external",
@@ -1336,7 +1336,7 @@
       "scddb-id": 14826,
       "kind": "32-bar strathspey",
       "short-kind": "S32",
-      "date": "2018-10-19T00:00:00Z",
+      "date": "2018-10-19",
       "dances": [
         {
           "type": "internal",
@@ -1366,7 +1366,7 @@
       "scddb-id": 14452,
       "kind": "32-bar strathspey",
       "short-kind": "S32",
-      "date": "2019-03-02T00:00:00Z",
+      "date": "2019-03-02",
       "dances": [
         {
           "type": "internal",
