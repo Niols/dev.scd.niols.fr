@@ -11,10 +11,7 @@
     "description": [
       {
         "type": "two chords",
-        "couples": [
-          "2nd",
-          "3rd"
-        ]
+        "couples-cross": "2nd and 3rd"
       },
       {
         "type": "kind",

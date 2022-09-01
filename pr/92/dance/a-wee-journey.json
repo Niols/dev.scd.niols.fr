@@ -10,11 +10,7 @@
     "description": [
       {
         "type": "two chords",
-        "couples": [
-          "4th",
-          "5th",
-          "6th"
-        ]
+        "couples-cross": "4th, 5th and 6th"
       },
       {
         "type": "phrase",
