@@ -14,7 +14,7 @@
       "scddb-id": 14008,
       "kind": "40-bar reel",
       "short-kind": "R40",
-      "date": "2018-04-25T00:00:00Z",
+      "date": "2018-04-25",
       "dances": [
         {
           "type": "external",
@@ -60,7 +60,7 @@
       "scddb-id": 14826,
       "kind": "32-bar strathspey",
       "short-kind": "S32",
-      "date": "2018-10-19T00:00:00Z",
+      "date": "2018-10-19",
       "dances": [
         {
           "type": "internal",
@@ -90,7 +90,7 @@
       "scddb-id": 14452,
       "kind": "32-bar strathspey",
       "short-kind": "S32",
-      "date": "2019-03-02T00:00:00Z",
+      "date": "2019-03-02",
       "dances": [
         {
           "type": "internal",
