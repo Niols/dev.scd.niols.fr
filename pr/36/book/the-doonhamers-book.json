@@ -219,7 +219,7 @@
         "matt-s-wedding",
         "emmy-s-wedding"
       ],
-      "description": [
+      "instructions": [
         {
           "type": "devised by"
         },
@@ -570,7 +570,7 @@
       "tunes": [
         "matt-s-wedding"
       ],
-      "description": [
+      "instructions": [
         {
           "type": "devised by"
         },
