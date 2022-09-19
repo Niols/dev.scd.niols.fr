@@ -1,0 +1,59 @@
+{
+  "dance": {
+    "name": "The Terrific Twelve",
+    "author": "Kristian Vestli",
+    "kind": "40-bar reel for six couples in a six-couple longwise set",
+    "short-kind": "R40 6/6L",
+    "date": "2022-07",
+    "date-format": "in St Andrews %at-date%\n",
+    "deviser-details": "The team of twelve candidates for our units 2 & 3 were terrific. In this dance\nyou hardly get a rest, to remind us of all the hard work we put in, but also\nall the fun we had with our tutor, Rachel Shankland and our musician, George\nMeikle.\n",
+    "instructions": [
+      {
+        "type": "phrase",
+        "starts": 1,
+        "ends": 4,
+        "content": "1st man with 2nd woman, and at the same time 2nd man with 3rd woman, 3rd\nman with 4th woman, 4th man with 5th woman and 5th man with 6th woman turn\nwith the right hand.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 5,
+        "ends": 8,
+        "content": "All turn their partner with the right hand ending in allemande hold facing\nup.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 9,
+        "ends": 16,
+        "content": "1st, 2nd and 3rd couples, and at the same time 4th, 5th and 6th couples\ndance a three-couple allemande.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 17,
+        "ends": 24,
+        "content": "3rd couple with 2nd couple, and at the same time 1st couple with 6th\ncouple and 5th couple with 4th couple, dance right hands across and left\nhands back, finishing in the middle of the set both hands joined.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 25,
+        "ends": 32,
+        "content": "3rd couple with 2nd couple, and at the same time 1st couple with 6th\ncouple and 5th couple with 4th couple, change places with a two-couple\npoussette.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 33,
+        "ends": 40,
+        "content": "All circle twelve hands round and back.\n"
+      },
+      {
+        "type": "repeat",
+        "kind": "from new positions"
+      },
+      {
+        "type": "devised by"
+      }
+    ]
+  },
+  "slug": "the-terrific-twelve",
+  "title": "The Terrific Twelve | Dance",
+  "root": ".."
+}
