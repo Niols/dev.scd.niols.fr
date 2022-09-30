@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (Web2C 2021/NixOS.org) (preloaded format=xelatex 1980.1.1)  30 SEP 2022 16:56
+This is XeTeX, Version 3.141592653-2.6-0.999993 (Web2C 2021/NixOS.org) (preloaded format=xelatex 1980.1.1)  30 SEP 2022 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1501,52 +1501,52 @@ Overfull \hbox (0.66443pt too wide) in paragraph at lines 251--251
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 265--265
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 266--266
  []\TU/TrebuchetMS(0)/m/n/10.95 17
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 265--265
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 266--266
 []\TU/TrebuchetMS(0)/m/n/10.95 24  
  []
 
 
-Overfull \hbox (1.54457pt too wide) in paragraph at lines 265--265
+Overfull \hbox (1.54457pt too wide) in paragraph at lines 266--266
  []\TU/TrebuchetMS(0)/m/n/10.95 17
  []
 
 
-Overfull \hbox (1.54457pt too wide) in paragraph at lines 265--265
+Overfull \hbox (1.54457pt too wide) in paragraph at lines 266--266
 []\TU/TrebuchetMS(0)/m/n/10.95 20  
  []
 
 
-Overfull \hbox (1.54457pt too wide) in paragraph at lines 265--265
+Overfull \hbox (1.54457pt too wide) in paragraph at lines 266--266
  []\TU/TrebuchetMS(0)/m/n/10.95 21
  []
 
 
-Overfull \hbox (1.54457pt too wide) in paragraph at lines 265--265
+Overfull \hbox (1.54457pt too wide) in paragraph at lines 266--266
 []\TU/TrebuchetMS(0)/m/n/10.95 24  
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 270--270
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 271--271
  []\TU/TrebuchetMS(0)/m/n/10.95 25
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 270--270
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 271--271
 []\TU/TrebuchetMS(0)/m/n/10.95 32  
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 275--275
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 276--276
  []\TU/TrebuchetMS(0)/m/n/10.95 33
  []
 
 
-Overfull \hbox (0.66443pt too wide) in paragraph at lines 275--275
+Overfull \hbox (0.66443pt too wide) in paragraph at lines 276--276
 []\TU/TrebuchetMS(0)/m/n/10.95 40  
  []
 
@@ -1565,7 +1565,7 @@ Package rerunfilecheck Info: Checksums for `emmy-s-wedding.out':
 Here is how much of TeX's memory you used:
  33667 strings out of 476180
  703933 string characters out of 5785740
- 1044858 words of memory out of 5000000
+ 1045858 words of memory out of 5000000
  53919 multiletter control sequences out of 15000+600000
  469771 words of font info for 48 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
