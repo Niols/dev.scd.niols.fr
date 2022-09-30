@@ -41,7 +41,7 @@
           "type": "phrase",
           "starts": 17,
           "ends": 24,
-          "content": "1st, 2nd and 3rd couples at the top and 6th, 5th and 4th couples at the\nbottom dance circulating allemandes towards the top and the bottom\nrespectively, finishing in order 3, 2, 1, 6, 5, 4 with 3rd, 1st and 5th\ncouples on own sides.\n"
+          "content": "1st, 2nd and 3rd couples at the top and 6th, 5th and 4th couples at the\nbottom dance circulating allemandes towards the top and the bottom\nrespectively, finishing in order 3, 2, 1, 6, 5, 4 with 2nd, 6th and 4th\ncouples on opposite sides.\n"
         },
         {
           "type": "phrase",
@@ -205,6 +205,7 @@
     "et-voila": {
       "name": "Et voilà !",
       "author": "Violaine Eysseric",
+      "scddb-id": 21104,
       "kind": "Medley of 40-bar strathspey and 40-bar reel for four trios in a square set",
       "short-kind": "M40 12S",
       "date": "2022",
@@ -254,6 +255,7 @@
     "in-strathspey-time-george-please": {
       "name": "In Strathspey Time, George, Please!",
       "author": "Shona Holmes",
+      "scddb-id": 21105,
       "kind": "32-bar strathspey or 32-bar jig or 32-bar reel for two couples in a four-couple longwise set",
       "short-kind": "X32 2/4L",
       "date": "2022-08",
@@ -487,6 +489,7 @@
     "spot-on": {
       "name": "Spot on",
       "author": "Shona Holmes",
+      "scddb-id": 21106,
       "kind": "32-bar reel for any number of couples in a circle around the room: women with their partner on their left.",
       "short-kind": "R32",
       "date": "2022-07",
@@ -552,6 +555,7 @@
     "sunday-early-in-the-morning": {
       "name": "Sunday, Early in the Morning",
       "author": "Marie-Laure Barret",
+      "scddb-id": 20996,
       "kind": "32-bar strathspey for three couples in a three-couple longwise set",
       "short-kind": "S32 3/3L",
       "date": "2022-07-31",
@@ -710,13 +714,13 @@
           "type": "phrase",
           "starts": 9,
           "ends": 16,
-          "content": "1st couple set to first corners and turn with right hand halfway with\nthem. first corners give left hands in the middle and 1st couple and first\ncorners balance in line; first corners turn with left hand one and a\nquarter times to end up back to back facing second corners.\n"
+          "content": "1st couple set to first corners and turn by the right halfway with them.\nFirst corners give left hands in the middle and 1st couple and first\ncorners balance in line; first corners turn by the left three quarters to\nend up back to back in the middle, facing second corners.\n"
         },
         {
           "type": "phrase",
           "starts": 17,
           "ends": 24,
-          "content": "Repeat with first and second corners. At the last left-hand turn, finish\non the lines with 1st, 2nd and 3rd women improper in 1st, 2nd and 3rd\nposition and 2nd, 3rd and 1st men improper in 1st, 2nd and 3rd position.\n"
+          "content": "Repeat with first and second corners. On bars 23-24, second corners turn\nby the left one quarter to opposite sides, finishing with 1st, 2nd and 3rd\nwomen on opposite lines in 1st, 2nd and 3rd positions and 2nd, 3rd and 1st\nmen on opposite lines in 1st, 2nd and 3rd positions.\n"
         },
         {
           "type": "phrase",
@@ -746,6 +750,7 @@
     "the-terrific-twelve": {
       "name": "The Terrific Twelve",
       "author": "Kristian Vestli",
+      "scddb-id": 21107,
       "kind": "40-bar reel for six couples in a six-couple longwise set",
       "short-kind": "R40 6/6L",
       "date": "2022-07",
@@ -907,6 +912,7 @@
     "units-2-and-3": {
       "name": "Units 2 and 3",
       "author": "David Osgarby",
+      "scddb-id": 21108,
       "kind": "32-bar jig for three couples in a four-couple longwise set",
       "short-kind": "J32 3/4L",
       "date": "2022-07",
@@ -1094,6 +1100,7 @@
     "the-doonhamers-book": {
       "title": "The Doonhamers' Book",
       "summary": "8 Scottish Country Dances written for Rachel Shankland and George Meikle",
+      "scddb-id": 1660,
       "contents": [
         {
           "type": "dance",
