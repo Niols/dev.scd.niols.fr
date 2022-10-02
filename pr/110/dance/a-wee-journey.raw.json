@@ -1,0 +1,65 @@
+{
+  "dance": {
+    "name": "A Wee Journey",
+    "author": "Nicolas “Niols” Jeannerod",
+    "scddb-id": 20990,
+    "kind": "32-bar jig for six couples in a six-couple longwise set",
+    "short-kind": "J32 6/6L",
+    "date": "2022-07",
+    "deviser-details": "This dance is written as a gift for Rachel Shankland and George Meikle that\ntook such good care of us during our Units 2 and 3. The changes of direction\ngive many opportunities for the men to flash their underwear as the RSCDS\ndemands for Unit 2.\n",
+    "instructions": [
+      {
+        "type": "two chords",
+        "couples-cross": "4th, 5th and 6th"
+      },
+      {
+        "type": "phrase",
+        "starts": 1,
+        "ends": 6,
+        "content": "All couples dance twelve hands round halfway to the left for six bars.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 7,
+        "ends": 8,
+        "content": "5th couple in second place and 2nd couple in fifth place cross by the\nright hand, finishing in order 6, 5, 4, 3, 2, 1 with 6th, 4th and 2nd\ncouples on own sides facing down and 5th, 3rd and 1st couples on opposite\nsides facing up.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 9,
+        "ends": 14,
+        "content": "All dance reels of six on the sidelines for six bars, giving right\nshoulder to begin, finishing in order 1, 2, 3, 4, 5, 6, facing in.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 15,
+        "ends": 16,
+        "content": "All turn by the right halfway to finish into allemande hold, 1st, 3rd and\n5th couples facing up and 2nd, 4th and 6th couples facing down.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 17,
+        "ends": 24,
+        "content": "1st, 2nd and 3rd couples at the top and 6th, 5th and 4th couples at the\nbottom dance circulating allemandes towards the top and the bottom\nrespectively, finishing in order 3, 2, 1, 6, 5, 4 with 2nd, 6th and 4th\ncouples on opposite sides.\n"
+      },
+      {
+        "type": "phrase",
+        "starts": 25,
+        "ends": 32,
+        "content": "All set. 2nd couple cross up while 3rd couple steps down; 5th couple cross\ndown while 4th couple steps up; 1st and 6th couples dance half right hands\nacross. All turn by the right and finish in order 2, 3, 6, 1, 4, 5 with\n1st, 4th and 5th couples on opposite sides.\n"
+      },
+      {
+        "type": "repeat",
+        "kind": "from new positions"
+      },
+      {
+        "type": "note",
+        "content": "A reel of six is similar to a reel of four in that all dancers pass one\nother dancer at each bar and take one additional bar to turn around at the\nend. It takes twelve bars to dance a full reel of six, and six bars to\ndance one halfway.\n"
+      },
+      {
+        "type": "devised by"
+      }
+    ]
+  },
+  "slug": "a-wee-journey"
+}
