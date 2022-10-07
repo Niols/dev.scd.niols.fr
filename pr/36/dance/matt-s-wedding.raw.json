@@ -1,0 +1,21 @@
+{
+  "dance": {
+    "name": "Matt's Wedding",
+    "author": "Emmy Wilkinson and Matthew Stuart Dunn",
+    "kind": "40-bar strathspey for four couples in a four-couple longwise set",
+    "short-kind": "S40 4/4L",
+    "tunes": [
+      "matt-s-wedding"
+    ],
+    "instructions": [
+      {
+        "type": "devised by"
+      },
+      {
+        "type": "music by",
+        "composer": "Nicolas “Niols” Jeannerod"
+      }
+    ]
+  },
+  "slug": "matt-s-wedding"
+}
