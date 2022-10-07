@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (Web2C 2021/NixOS.org) (preloaded format=xelatex 1980.1.1)  6 OCT 2022 10:05
+This is XeTeX, Version 3.141592653-2.6-0.999993 (Web2C 2021/NixOS.org) (preloaded format=xelatex 1980.1.1)  7 OCT 2022 08:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1560,7 +1560,7 @@ Package rerunfilecheck Info: Checksums for `the-mall-in-st-james-s-park.out':
 Here is how much of TeX's memory you used:
  33672 strings out of 476180
  704638 string characters out of 5785740
- 1044180 words of memory out of 5000000
+ 1044179 words of memory out of 5000000
  53924 multiletter control sequences out of 15000+600000
  469771 words of font info for 48 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
