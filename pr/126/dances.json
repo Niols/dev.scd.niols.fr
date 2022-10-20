@@ -303,10 +303,8 @@
       "editor-details": "This dance is a three-couple version of “Two Blue Clouds in the Grey Sky”.\n",
       "tunes": [
         {
-          "type": "external",
-          "name": "Forty Bars of Clouds",
-          "composer": "Nicolas “Niols” Jeannerod",
-          "scddb-id": 14008
+          "type": "internal",
+          "slug": "forty-bars-of-clouds"
         }
       ],
       "instructions": [
