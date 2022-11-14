@@ -28,11 +28,20 @@
              $(".datatable").DataTable({
                  info: false,
                  paging: false,
-                 lengthChange: false
+                 lengthChange: false,
+
+                 
+                 columnDefs: [
+                     { className: "min-mobile-p", targets: 0 },
+                     { className: "min-tablet-l", targets: "_all" }
+                 ]
              });
          });
         </script>
+
+        
     </head>
+
     <body>
         <header>
             <h1><a href="../index.html">Niols’s Collection of
@@ -175,7 +184,11 @@ couple turn right hand in four bars.
 
     
         <div class="music-by">
-            Music by <span class="composer">Nicolas “Niols” Jeannerod</span>: <span class="tune">Forty Bars of Clouds</span>.
+            
+                
+                    <p>Recommended music: <a href="../tune/forty-bars-of-clouds.html"><span class="tune">Forty Bars of Clouds</span></a>,
+        by <span class="composer">Nicolas “Niols” Jeannerod</span>.</p>
+                
             
         </div>
 

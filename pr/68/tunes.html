@@ -28,11 +28,20 @@
              $(".datatable").DataTable({
                  info: false,
                  paging: false,
-                 lengthChange: false
+                 lengthChange: false,
+
+                 
+                 columnDefs: [
+                     { className: "min-mobile-p", targets: 0 },
+                     { className: "min-tablet-l", targets: "_all" }
+                 ]
              });
          });
         </script>
+
+        
     </head>
+
     <body>
         <header>
             <h1><a href="./index.html">Niols’s Collection of
@@ -41,9 +50,47 @@
 
         
     <article>
-        <h1>All Tunes</h1>
+        <h1>Index of the Tunes</h1>
+
         <section>
-            <table class="datatable responsive nowrap">
+            <p>
+        Welcome! I am Nicolas “Niols” Jeannerod; you are here on my
+        domain. This website aims at gathering clean descriptions of
+        Scottish country dances and tunes that would not be made easily
+        available otherwise. I give them a stable, nice, warm home. In
+        particular, it will contain all of my unpublished work. Feel free
+        to <a href="mailto:niols+scd@niols.fr">send me</a> your dances
+        and tunes, if you want them “published”.
+    </p>
+    <p>
+        The goal is <em>not</em> to provide a new database. For this, the
+        <a href="https://my.strathspey.org/dd/index/">Scottish Country
+            Dance Database</a> does the job amazingly well. Therefore, this
+        website will probably remain with very limited indexing
+        capabilities. However, it might very well serve as source of
+        dance descriptions for the SCDDB.
+    </p>
+    <p>
+        Note that the sources of this website are available
+        <a href="https://github.com/Niols/scd.niols.fr">on GitHub</a>
+        and backed up on the
+        <a href="https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Niols/scd.niols.fr">
+            Software Heritage archive</a>. The content of the website itself
+        is backed up on the
+        <a href="https://web.archive.org/web/*/https://scd.niols.fr/">
+            Wayback Machine</a>. This makes this website <em>very</em> public
+        and <em>very</em> stable. (Which, in my opinion, are great
+        things, but heh.)
+    </p>
+            <p>
+                You are here on the index of the tunes. You might want to visit
+                the <a href="dances.html">index of the dances</a> or
+                the <a href="books.html">index of the books</a>.
+            </p>
+        </section>
+
+        <section>
+            <table class="datatable responsive wrap">
                 <thead>
                     <tr>
                         <th>Name</th>
@@ -66,7 +113,7 @@
         <td><a href="tune/donaldson-s-rant.html">Donaldson's Rant</a></td><td>J40</td>
         <td>Saskia Frisby</td>
     </tr><tr>
-        <td><a href="tune/forty-bars-of-cloud.html">Forty Bars of Clouds</a></td><td>R40</td>
+        <td><a href="tune/forty-bars-of-clouds.html">Forty Bars of Clouds</a></td><td>R40</td>
         <td>Nicolas “Niols” Jeannerod</td>
     </tr><tr>
         <td><a href="tune/la-ville-lumiere.html">La Ville Lumière</a></td><td>R32</td>

@@ -28,11 +28,20 @@
              $(".datatable").DataTable({
                  info: false,
                  paging: false,
-                 lengthChange: false
+                 lengthChange: false,
+
+                 
+                 columnDefs: [
+                     { className: "min-mobile-p", targets: 0 },
+                     { className: "min-tablet-l", targets: "_all" }
+                 ]
              });
          });
         </script>
+
+        
     </head>
+
     <body>
         <header>
             <h1><a href="../index.html">Niols’s Collection of
@@ -217,7 +226,10 @@ kindness towards and patience with the Units 2/3 class of 2022.
 
     
         <div class="music-by">
-            Recommended tune: <span class="tune">Highland Whisky</span>, by <span class="composer">Niel Gow</span>.
+            
+                
+                    <p>Recommended music: <span class="tune">Highland Whisky</span>, by <span class="composer">Niel Gow</span> [<a href="https://my.strathspey.org/dd/tune/692/">SCDDB</a>].</p>
+                
             
         </div>
 
