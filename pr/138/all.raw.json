@@ -168,6 +168,46 @@
         }
       ]
     },
+    "hello-goodb": {
+      "name": "Hello, Goodb",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "24-bar reel for three couples in a four-couple longwise set",
+      "short-kind": "R24 3/4L",
+      "date": "2022-11-08",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 6,
+          "content": "1st couple cross by the right, cast off one place and turn by the left to\nfinish facing first corners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 7,
+          "ends": 12,
+          "content": "1st couple set to first corner, set to each other, set to second corner,\nand finish man between the 2nd couple facing down and woman between the\n3rd couple facing up.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 13,
+          "ends": 18,
+          "content": "1st man with 2nd couple and 1st woman with 3rd couple advance for two\nbars, retire for two bars. 1st couple turn three quarters by the right to\nown sides.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 19,
+          "ends": 24,
+          "content": "2nd, 1st and 3rd couples dance six hands round and back.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
     "in-strathspey-time-george-please": {
       "name": "In Strathspey Time, George, Please!",
       "author": "Shona Holmes",
@@ -907,6 +947,23 @@
     }
   },
   "tunes": {
+    "a-jig-so-puzzled": {
+      "name": "A Jig So Puzzled",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14537,
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2020-01-27",
+      "dances": [
+        {
+          "type": "external",
+          "name": "A Jig So Puzzled",
+          "deviser": "Mathias Ferber",
+          "scddb-id": 20320
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\key d \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 a8 |\n      fis4 d8 fis4 a8 |\n      d8 cis b a4 a8 |\n      b8 g b a g fis |\n      e4. a4\n      \\bar \"|\" \\break\n\n      a8 |\n      fis4 d8 fis4 a8 |\n      d8 cis b a4 a8 |\n      b8 g b a g fis |\n      e4. d4\n    } \\break\n\n    e8 |\n    fis4 d8 fis4 fis8 |\n    g8 fis e fis4 fis8 |\n    g8 fis e fis e d |\n    cis a cis e4\n    \\bar \"|\" \\break\n\n    e8 |\n    fis4 d8 fis4 fis8 |\n    g8 fis e fis4 fis8 |\n    g8 fis e fis e d |\n    cis4. b4\n    \\bar \"||\" \\break\n\n    e8 |\n    fis4 d8 fis4 fis8 |\n    g8 fis e fis4 fis8 |\n    g8 fis e fis e d |\n    cis a cis e4\n    \\bar \"|\" \\break\n\n    e8 |\n    fis4 d8 fis4 a8 |\n    d8 cis b a4 a8 |\n    b8 g b a g fis |\n    e4. d4\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      d4. d/cis | b:m a | g d/fis | e:7 a:7 |\n      d4. d/cis | b:m a | g d/fis | a:7 d |\n\n      b2.:m | e4.:m b:m | e:m b:m | a a:7 |\n      b2.:m | e4.:m b:m | e:m b:m | a:7 b:m |\n\n      b2.:m | e4.:m b:m | e:m b:m | a a:7 |\n      d4. d/cis | b:m a | g d/fis | a:7 d4\n    }\n  }\n>>\n"
+    },
     "a-strath-jig-for-george": {
       "name": "A Strath— Jig for George",
       "author": "Nicolas “Niols” Jeannerod",
@@ -1015,6 +1072,23 @@
         }
       ],
       "content": "\\relative a' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 2 {\n      \\partial 4 a4 |\n      d8 a a a e' a, fis' a, |\n      g' b, b b a' b, g' b, |\n      fis' a, a a d a fis' a, |\n      e' a, a a cis d e cis |\n      \\break\n\n      d8 a a a e' a, fis' a, |\n      g' b, b b a' b, g' b, |\n      fis' a, d a e' b cis a |\n    } \\alternative { {\n      \\set Timing.measureLength = #(ly:make-moment 3/4)\n      d a fis' a, d4 |\n    } {\n      \\set Timing.measureLength = #(ly:make-moment 4/4)\n      d8 a b cis d e fis g |\n    } } \\break\n\n    \\repeat volta 2 {\n      fis d d d a d d d |\n      fis d d d b d d d |\n      g d d d b d g b |\n      a a, b cis d e fis g |\n      \\break\n\n      fis d d d a d d d |\n      fis d d d b d d d |\n      g e fis d e cis d b |\n    } \\alternative { {\n      cis a b cis d e fis g |\n    } {\n      cis, a b cis d4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d1 | g | d | a |\n      d1 | g | d2 e4:m a | d2. | d1 |\n\n      d1 | b:m | g | a:7 |\n      d1 | b:m | e4:m d \\move-left 1 a/cis g/b | a1:7 | a2:7 d4\n    }\n  }\n>>\n"
+    },
+    "love-is-in-the-air-48-bars": {
+      "name": "Love is in the Air",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14458,
+      "kind": "48-bar reel",
+      "short-kind": "R48",
+      "date": "2020-02-03",
+      "dances": [
+        {
+          "type": "external",
+          "name": "Love is in the Air",
+          "deviser": "Violaine Eysseric",
+          "scddb-id": 18383
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 3 {\n      \\partial 4 a4 |\n      d,4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d cis b a g fis e |\n      \\break\n\n      d4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d e fis d4\n      \\bar \"||\" \\break\n\n      d8 e |\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis d cis b a |\n      a b cis d e fis g a |\n      \\break\n\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis a b cis e |\n      fis4 d d\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d2 g | a d | b:m e:m | a2 a:7 |\n      d2 g | a d | b:m e:m | a2:7 d4\n\n      s4 |\n      d2 e:m | b1:m | g | a2 a:7 |\n      d2 e:m | b1:m | g2 a:7 | d2.\n    }\n  }\n>>\n"
     },
     "out-of-tune": {
       "name": "Out of Tune",
