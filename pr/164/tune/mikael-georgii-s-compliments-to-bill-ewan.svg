@@ -2,13 +2,13 @@
 <svg
    version="1.2"
    width="180.2066mm"
-   height="80.094337mm"
-   viewBox="0 0 102.54751 45.578101"
-   id="svg1614"
+   height="82.01049mm"
+   viewBox="0 0 102.54751 46.668498"
+   id="svg1618"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1618" />
+     id="defs1622" />
   <style
      type="text/css"
      id="style2"><![CDATA[
@@ -3330,7 +3330,7 @@ tspan { white-space: pre; }
        id="path1318" />
   </g>
   <g
-     transform="translate(83.258012,45.1935)"
+     transform="translate(83.258012,45.6935)"
      id="g1326">
     <text
        font-family="'Source Sans Pro'"
@@ -3341,7 +3341,7 @@ tspan { white-space: pre; }
          id="tspan1322">D</tspan></text>
   </g>
   <g
-     transform="translate(84.862712,45.1935)"
+     transform="translate(84.862712,45.6935)"
      id="g1332">
     <text
        font-family="'Source Sans Pro'"
@@ -3364,7 +3364,7 @@ tspan { white-space: pre; }
        id="rect1334" />
   </g>
   <g
-     transform="translate(58.085812,45.1935)"
+     transform="translate(58.085812,45.6935)"
      id="g1342">
     <text
        font-family="'Source Sans Pro'"
@@ -3372,43 +3372,54 @@ tspan { white-space: pre; }
        text-anchor="start"
        fill="currentColor"
        id="text1340"><tspan
-         id="tspan1338">D</tspan></text>
+         id="tspan1338">A</tspan></text>
   </g>
   <g
-     transform="translate(59.690512,45.1935)"
+     transform="translate(59.519812,44.5042)"
      id="g1348">
     <text
        font-family="'Source Sans Pro'"
-       font-size="2.6163px"
+       font-size="1.85px"
        text-anchor="start"
        fill="currentColor"
        id="text1346"><tspan
-         id="tspan1344">m</tspan></text>
-  </g>
-  <g
-     transform="translate(61.875712,45.1935)"
-     id="g1354">
-    <text
-       font-family="'Source Sans Pro'"
-       font-size="2.6163px"
-       text-anchor="start"
-       fill="currentColor"
-       id="text1352"><tspan
-         id="tspan1350">/</tspan></text>
-  </g>
-  <g
-     transform="translate(62.797612,45.1935)"
-     id="g1360">
-    <text
-       font-family="'Source Sans Pro'"
-       font-size="2.6163px"
-       text-anchor="start"
-       fill="currentColor"
-       id="text1358"><tspan
-         id="tspan1356">A</tspan></text>
+         id="tspan1344">7</tspan></text>
   </g>
   <g
      transform="translate(62.129412,40.779)"
+     id="g1352">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
+       fill="currentColor"
+       id="path1350" />
+  </g>
+  <g
+     transform="translate(59.325012,39.779)"
+     id="g1356">
+    <rect
+       x="-0.064999998"
+       y="-2.8051"
+       width="0.13"
+       height="3.119"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1354" />
+  </g>
+  <g
+     transform="translate(63.368612,39.779)"
+     id="g1360">
+    <rect
+       x="-0.064999998"
+       y="-2.5"
+       width="0.13"
+       height="3.3139"
+       ry="0.039999999"
+       fill="currentColor"
+       id="rect1358" />
+  </g>
+  <g
+     transform="translate(66.173012,41.279)"
      id="g1364">
     <path
        transform="scale(0.004,-0.004)"
@@ -3417,41 +3428,8 @@ tspan { white-space: pre; }
        id="path1362" />
   </g>
   <g
-     transform="translate(59.325012,39.779)"
-     id="g1368">
-    <rect
-       x="-0.064999998"
-       y="-2.8051"
-       width="0.13"
-       height="3.119"
-       ry="0.039999999"
-       fill="currentColor"
-       id="rect1366" />
-  </g>
-  <g
-     transform="translate(63.368612,39.779)"
-     id="g1372">
-    <rect
-       x="-0.064999998"
-       y="-2.5"
-       width="0.13"
-       height="3.3139"
-       ry="0.039999999"
-       fill="currentColor"
-       id="rect1370" />
-  </g>
-  <g
-     transform="translate(66.173012,41.279)"
-     id="g1376">
-    <path
-       transform="scale(0.004,-0.004)"
-       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
-       fill="currentColor"
-       id="path1374" />
-  </g>
-  <g
      transform="translate(67.412212,39.779)"
-     id="g1380">
+     id="g1368">
     <rect
        x="-0.064999998"
        y="-2.1949"
@@ -3459,19 +3437,41 @@ tspan { white-space: pre; }
        height="3.5088"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1378" />
+       id="rect1366" />
   </g>
   <g
      transform="translate(70.216612,41.779)"
-     id="g1384">
+     id="g1372">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1382" />
+       id="path1370" />
   </g>
   <g
-     transform="translate(70.216612,45.1935)"
+     transform="translate(70.216612,45.6935)"
+     id="g1378">
+    <text
+       font-family="'Source Sans Pro'"
+       font-size="2.6163px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1376"><tspan
+         id="tspan1374">A</tspan></text>
+  </g>
+  <g
+     transform="translate(71.650612,44.5042)"
+     id="g1384">
+    <text
+       font-family="'Source Sans Pro'"
+       font-size="1.85px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1382"><tspan
+         id="tspan1380">7</tspan></text>
+  </g>
+  <g
+     transform="translate(72.572512,45.6935)"
      id="g1390">
     <text
        font-family="'Source Sans Pro'"
@@ -3479,33 +3479,30 @@ tspan { white-space: pre; }
        text-anchor="start"
        fill="currentColor"
        id="text1388"><tspan
-         id="tspan1386">A</tspan></text>
+         id="tspan1386">/</tspan></text>
   </g>
   <g
-     transform="translate(71.650612,44.0042)"
+     transform="translate(73.494412,45.6935)"
      id="g1396">
     <text
        font-family="'Source Sans Pro'"
-       font-size="1.85px"
+       font-size="2.6163px"
        text-anchor="start"
        fill="currentColor"
        id="text1394"><tspan
-         id="tspan1392">7</tspan></text>
+         id="tspan1392">C</tspan></text>
+  </g>
+  <g
+     transform="translate(74.996712,45.0935)"
+     id="g1400">
+    <path
+       transform="scale(0.0042,-0.0042)"
+       d="m 216,-312 c 0,-10 -8,-19 -18,-19 -10,0 -19,9 -19,19 v 145 l -83,-31 v -158 c 0,-10 -9,-19 -19,-19 -10,0 -18,9 -18,19 v 145 l -32,-12 c -2,-1 -5,-1 -7,-1 -11,0 -20,9 -20,20 v 60 c 0,8 5,16 13,19 l 46,16 V 51 L 27,40 C 25,39 22,39 20,39 9,39 0,48 0,59 v 60 c 0,8 5,15 13,18 l 46,17 v 158 c 0,10 8,19 18,19 10,0 19,-9 19,-19 V 167 l 83,31 v 158 c 0,10 9,19 19,19 10,0 18,-9 18,-19 V 211 l 32,12 c 2,1 5,1 7,1 11,0 20,-9 20,-20 v -60 c 0,-8 -5,-16 -13,-19 L 216,109 V -51 l 32,11 c 2,1 5,1 7,1 11,0 20,-9 20,-20 v -60 c 0,-8 -5,-15 -13,-18 l -46,-17 z M 96,65 V -95 l 83,30 V 95 Z"
+       fill="currentColor"
+       id="path1398" />
   </g>
   <g
      transform="translate(84.432212,38.779)"
-     id="g1400">
-    <polygon
-       stroke-linejoin="round"
-       stroke-linecap="round"
-       stroke-width="0.08"
-       fill="currentColor"
-       stroke="currentColor"
-       points="0.04,0.2 0.04,-0.2 8.1772,-0.2 8.1772,0.2 "
-       id="polygon1398" />
-  </g>
-  <g
-     transform="translate(71.390812,38.969)"
      id="g1404">
     <polygon
        stroke-linejoin="round"
@@ -3513,11 +3510,11 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.2 0.04,-0.2 8.1772,0.42 8.1772,0.82 "
+       points="0.04,0.2 0.04,-0.2 8.1772,-0.2 8.1772,0.2 "
        id="polygon1402" />
   </g>
   <g
-     transform="translate(59.260012,36.969)"
+     transform="translate(71.390812,38.969)"
      id="g1408">
     <polygon
        stroke-linejoin="round"
@@ -3529,7 +3526,7 @@ tspan { white-space: pre; }
        id="polygon1406" />
   </g>
   <g
-     transform="translate(35.200012,39.969)"
+     transform="translate(59.260012,36.969)"
      id="g1412">
     <polygon
        stroke-linejoin="round"
@@ -3537,11 +3534,11 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.2 0.04,-0.2 8.1772,0.61 8.1772,1.01 "
+       points="0.04,0.2 0.04,-0.2 8.1772,0.42 8.1772,0.82 "
        id="polygon1410" />
   </g>
   <g
-     transform="translate(22.430112,41.589)"
+     transform="translate(35.200012,39.969)"
      id="g1416">
     <polygon
        stroke-linejoin="round"
@@ -3549,11 +3546,11 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.2 0.04,-0.2 8.1772,-0.82 8.1772,-0.42 "
+       points="0.04,0.2 0.04,-0.2 8.1772,0.61 8.1772,1.01 "
        id="polygon1414" />
   </g>
   <g
-     transform="translate(11.473512,37.969)"
+     transform="translate(22.430112,41.589)"
      id="g1420">
     <polygon
        stroke-linejoin="round"
@@ -3561,20 +3558,23 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.2 0.04,-0.2 8.1772,-1.58 8.1772,-1.18 "
+       points="0.04,0.2 0.04,-0.2 8.1772,-0.82 8.1772,-0.42 "
        id="polygon1418" />
   </g>
   <g
-     transform="translate(91.345212,41.779)"
+     transform="translate(11.473512,37.969)"
      id="g1424">
-    <path
-       transform="scale(0.004,-0.004)"
-       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
+    <polygon
+       stroke-linejoin="round"
+       stroke-linecap="round"
+       stroke-width="0.08"
        fill="currentColor"
-       id="path1422" />
+       stroke="currentColor"
+       points="0.04,0.2 0.04,-0.2 8.1772,-1.58 8.1772,-1.18 "
+       id="polygon1422" />
   </g>
   <g
-     transform="translate(87.301612,41.279)"
+     transform="translate(91.345212,41.779)"
      id="g1428">
     <path
        transform="scale(0.004,-0.004)"
@@ -3583,8 +3583,17 @@ tspan { white-space: pre; }
        id="path1426" />
   </g>
   <g
-     transform="translate(88.540812,39.779)"
+     transform="translate(87.301612,41.279)"
      id="g1432">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
+       fill="currentColor"
+       id="path1430" />
+  </g>
+  <g
+     transform="translate(88.540812,39.779)"
+     id="g1436">
     <rect
        x="-0.064999998"
        y="-1"
@@ -3592,11 +3601,11 @@ tspan { white-space: pre; }
        height="2.3139"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1430" />
+       id="rect1434" />
   </g>
   <g
      transform="translate(92.584412,39.779)"
-     id="g1436">
+     id="g1440">
     <rect
        x="-0.064999998"
        y="-1"
@@ -3604,20 +3613,20 @@ tspan { white-space: pre; }
        height="2.8139"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1434" />
+       id="rect1438" />
   </g>
   <g
      transform="translate(95.388812,42.279)"
-     id="g1440">
+     id="g1444">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1438" />
+       id="path1442" />
   </g>
   <g
      transform="translate(96.628012,39.779)"
-     id="g1444">
+     id="g1448">
     <rect
        x="-0.064999998"
        y="-1"
@@ -3625,19 +3634,10 @@ tspan { white-space: pre; }
        height="3.3139"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1442" />
+       id="rect1446" />
   </g>
   <g
      transform="translate(26.473712,38.279)"
-     id="g1448">
-    <path
-       transform="scale(0.004,-0.004)"
-       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
-       fill="currentColor"
-       id="path1446" />
-  </g>
-  <g
-     transform="translate(18.386512,39.779)"
      id="g1452">
     <path
        transform="scale(0.004,-0.004)"
@@ -3646,8 +3646,17 @@ tspan { white-space: pre; }
        id="path1450" />
   </g>
   <g
-     transform="translate(19.625712,39.779)"
+     transform="translate(18.386512,39.779)"
      id="g1456">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
+       fill="currentColor"
+       id="path1454" />
+  </g>
+  <g
+     transform="translate(19.625712,39.779)"
+     id="g1460">
     <rect
        x="-0.064999998"
        y="-3.1791"
@@ -3655,73 +3664,73 @@ tspan { white-space: pre; }
        height="2.993"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1454" />
+       id="rect1458" />
   </g>
   <g
      transform="translate(22.430112,38.779)"
-     id="g1460">
+     id="g1464">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1458" />
+       id="path1462" />
   </g>
   <g
-     transform="translate(22.430112,45.1935)"
-     id="g1466">
+     transform="translate(22.430112,45.6935)"
+     id="g1470">
     <text
        font-family="'Source Sans Pro'"
        font-size="2.6163px"
        text-anchor="start"
        fill="currentColor"
-       id="text1464"><tspan
-         id="tspan1462">G</tspan></text>
+       id="text1468"><tspan
+         id="tspan1466">G</tspan></text>
   </g>
   <g
-     transform="translate(24.034812,45.1935)"
-     id="g1472">
+     transform="translate(24.034812,45.6935)"
+     id="g1476">
     <text
        font-family="'Source Sans Pro'"
        font-size="2.6163px"
        text-anchor="start"
        fill="currentColor"
-       id="text1470"><tspan
-         id="tspan1468">m</tspan></text>
+       id="text1474"><tspan
+         id="tspan1472">m</tspan></text>
   </g>
   <g
-     transform="translate(26.220012,45.1935)"
-     id="g1478">
+     transform="translate(26.220012,45.6935)"
+     id="g1482">
     <text
        font-family="'Source Sans Pro'"
        font-size="2.6163px"
        text-anchor="start"
        fill="currentColor"
-       id="text1476"><tspan
-         id="tspan1474">/</tspan></text>
+       id="text1480"><tspan
+         id="tspan1478">/</tspan></text>
   </g>
   <g
-     transform="translate(27.141812,45.1935)"
-     id="g1484">
-    <text
-       font-family="'Source Sans Pro'"
-       font-size="2.6163px"
-       text-anchor="start"
-       fill="currentColor"
-       id="text1482"><tspan
-         id="tspan1480">B</tspan></text>
-  </g>
-  <g
-     transform="translate(28.900212,44.8935)"
+     transform="translate(27.141812,45.6935)"
      id="g1488">
+    <text
+       font-family="'Source Sans Pro'"
+       font-size="2.6163px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1486"><tspan
+         id="tspan1484">B</tspan></text>
+  </g>
+  <g
+     transform="translate(28.900212,45.3935)"
+     id="g1492">
     <path
        transform="scale(0.0042,-0.0042)"
        d="m 27,41 -1,-66 v -11 c 0,-22 1,-44 4,-66 45,38 93,80 93,139 0,33 -14,67 -43,67 C 49,104 28,74 27,41 Z m -42,-179 -12,595 c 8,5 18,8 27,8 9,0 19,-3 27,-8 L 20,112 c 25,21 58,34 91,34 52,0 89,-48 89,-102 0,-80 -86,-117 -147,-169 -15,-13 -24,-38 -45,-38 -13,0 -23,11 -23,25 z"
        fill="currentColor"
-       id="path1486" />
+       id="path1490" />
   </g>
   <g
      transform="translate(22.495112,39.779)"
-     id="g1492">
+     id="g1496">
     <rect
        x="-0.064999998"
        y="-0.81389999"
@@ -3729,11 +3738,11 @@ tspan { white-space: pre; }
        height="2.619"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1490" />
+       id="rect1494" />
   </g>
   <g
      transform="translate(26.538712,39.779)"
-     id="g1496">
+     id="g1500">
     <rect
        x="-0.064999998"
        y="-1.3139"
@@ -3741,20 +3750,20 @@ tspan { white-space: pre; }
        height="2.8139"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1494" />
+       id="rect1498" />
   </g>
   <g
      transform="translate(58.085812,40.279)"
-     id="g1500">
+     id="g1504">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1498" />
+       id="path1502" />
   </g>
   <g
      transform="translate(30.582312,39.779)"
-     id="g1504">
+     id="g1508">
     <rect
        x="-0.064999998"
        y="-1.8139"
@@ -3762,90 +3771,81 @@ tspan { white-space: pre; }
        height="3.0088"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1502" />
+       id="rect1506" />
   </g>
   <g
      transform="translate(35.200012,36.779)"
-     id="g1508">
+     id="g1512">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1506" />
+       id="path1510" />
   </g>
   <g
-     transform="translate(35.200012,45.1935)"
-     id="g1514">
+     transform="translate(35.200012,45.6935)"
+     id="g1518">
     <text
        font-family="'Source Sans Pro'"
        font-size="2.6163px"
        text-anchor="start"
        fill="currentColor"
-       id="text1512"><tspan
-         id="tspan1510">D</tspan></text>
+       id="text1516"><tspan
+         id="tspan1514">D</tspan></text>
   </g>
   <g
-     transform="translate(36.804712,45.1935)"
-     id="g1520">
+     transform="translate(36.804712,45.6935)"
+     id="g1524">
     <text
        font-family="'Source Sans Pro'"
        font-size="2.6163px"
        text-anchor="start"
        fill="currentColor"
-       id="text1518"><tspan
-         id="tspan1516">m</tspan></text>
+       id="text1522"><tspan
+         id="tspan1520">m</tspan></text>
   </g>
   <g
      transform="translate(-0.12788818,39.336)"
-     id="g1526">
+     id="g1530">
     <text
        font-family="'Source Sans Pro'"
        font-size="1.7461px"
        text-anchor="start"
        fill="currentColor"
-       id="text1524"><tspan
-         id="tspan1522">21</tspan></text>
+       id="text1528"><tspan
+         id="tspan1526">21</tspan></text>
   </g>
   <g
      transform="translate(-0.12788818,41.336)"
-     id="g1532">
+     id="g1536">
     <text
        font-family="'Source Sans Pro'"
        font-size="1.7461px"
        text-anchor="start"
        fill="currentColor"
-       id="text1530"><tspan
-         id="tspan1528">29</tspan></text>
+       id="text1534"><tspan
+         id="tspan1532">29</tspan></text>
   </g>
   <g
      transform="translate(3.3793118,40.779)"
-     id="g1536">
+     id="g1540">
     <path
        transform="scale(0.004,-0.004)"
        d="m 266,-635 h -6 c -108,0 -195,88 -195,197 0,58 53,103 112,103 54,0 95,-47 95,-103 0,-52 -43,-95 -95,-95 -11,0 -21,2 -31,6 26,-39 68,-65 117,-65 h 4 z m 195,432 c 68,24 113,90 113,164 0,90 -66,179 -173,190 19,-89 48,-242 60,-354 z M 74,28 c 0,-145 141,-247 264,-247 1,0 47,0 82,6 -7,64 -29,203 -63,364 -79,-8 -124,-61 -124,-119 0,-44 25,-91 81,-123 5,-5 7,-10 7,-15 0,-11 -10,-22 -22,-22 -15,0 -126,62 -126,187 0,88 58,174 160,197 -14,58 -29,117 -46,175 C 180,310 74,188 74,28 Z m 176,525 c -29,96 -52,170 -52,346 0,115 55,224 149,292 6,5 14,5 20,0 68,-80 133,-245 133,-358 0,-143 -86,-255 -180,-364 21,-68 39,-138 56,-207 2,0 7,1 13,1 155,0 256,-128 256,-261 0,-113 -74,-212 -180,-246 3,-35 5,-70 5,-105 0,-19 -1,-39 -2,-58 -7,-119 -88,-225 -202,-228 l 1,43 c 93,2 153,92 159,191 1,18 2,37 2,55 0,31 -1,61 -4,92 -5,-1 -44,-8 -89,-8 C 142,-262 2,-82 2,112 2,289 133,418 250,553 Z m 178,363 c 0,34 1,66 -20,129 -99,-48 -162,-149 -162,-259 0,-52 12,-115 36,-194 80,97 146,198 146,324 z"
        fill="currentColor"
-       id="path1534" />
+       id="path1538" />
   </g>
   <g
      transform="translate(6.9993118,39.779)"
-     id="g1540">
+     id="g1544">
     <path
        transform="scale(0.004,-0.004)"
        d="m 27,41 -1,-66 v -11 c 0,-22 1,-44 4,-66 45,38 93,80 93,139 0,33 -14,67 -43,67 C 49,104 28,74 27,41 Z m -42,-179 -12,595 c 8,5 18,8 27,8 9,0 19,-3 27,-8 L 20,112 c 25,21 58,34 91,34 52,0 89,-48 89,-102 0,-80 -86,-117 -147,-169 -15,-13 -24,-38 -45,-38 -13,0 -23,11 -23,25 z"
        fill="currentColor"
-       id="path1538" />
-  </g>
-  <g
-     transform="translate(30.517312,37.779)"
-     id="g1544">
-    <path
-       transform="scale(0.004,-0.004)"
-       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
-       fill="currentColor"
        id="path1542" />
   </g>
   <g
-     transform="translate(10.299312,42.279)"
+     transform="translate(30.517312,37.779)"
      id="g1548">
     <path
        transform="scale(0.004,-0.004)"
@@ -3854,30 +3854,39 @@ tspan { white-space: pre; }
        id="path1546" />
   </g>
   <g
-     transform="translate(10.299312,45.1935)"
-     id="g1554">
-    <text
-       font-family="'Source Sans Pro'"
-       font-size="2.6163px"
-       text-anchor="start"
+     transform="translate(10.299312,42.279)"
+     id="g1552">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="text1552"><tspan
-         id="tspan1550">G</tspan></text>
+       id="path1550" />
   </g>
   <g
-     transform="translate(11.904012,45.1935)"
-     id="g1560">
+     transform="translate(10.299312,45.6935)"
+     id="g1558">
     <text
        font-family="'Source Sans Pro'"
        font-size="2.6163px"
        text-anchor="start"
        fill="currentColor"
-       id="text1558"><tspan
-         id="tspan1556">m</tspan></text>
+       id="text1556"><tspan
+         id="tspan1554">G</tspan></text>
+  </g>
+  <g
+     transform="translate(11.904012,45.6935)"
+     id="g1564">
+    <text
+       font-family="'Source Sans Pro'"
+       font-size="2.6163px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1562"><tspan
+         id="tspan1560">m</tspan></text>
   </g>
   <g
      transform="translate(11.538512,39.779)"
-     id="g1564">
+     id="g1568">
     <rect
        x="-0.064999998"
        y="-1.8209"
@@ -3885,20 +3894,20 @@ tspan { white-space: pre; }
        height="4.1348"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1562" />
+       id="rect1566" />
   </g>
   <g
      transform="translate(14.342912,40.779)"
-     id="g1568">
+     id="g1572">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1566" />
+       id="path1570" />
   </g>
   <g
      transform="translate(15.582112,39.779)"
-     id="g1572">
+     id="g1576">
     <rect
        x="-0.064999998"
        y="-2.5"
@@ -3906,20 +3915,20 @@ tspan { white-space: pre; }
        height="3.3139"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1570" />
+       id="rect1574" />
   </g>
   <g
      transform="translate(53.381612,39.779)"
-     id="g1576">
+     id="g1580">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1574" />
+       id="path1578" />
   </g>
   <g
      transform="translate(47.395812,39.779)"
-     id="g1580">
+     id="g1584">
     <rect
        x="-0.064999998"
        y="-0.81389999"
@@ -3927,19 +3936,10 @@ tspan { white-space: pre; }
        height="3.3139"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1578" />
+       id="rect1582" />
   </g>
   <g
      transform="translate(47.330812,38.779)"
-     id="g1584">
-    <path
-       transform="scale(0.004,-0.004)"
-       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
-       fill="currentColor"
-       id="path1582" />
-  </g>
-  <g
-     transform="translate(39.243612,37.779)"
      id="g1588">
     <path
        transform="scale(0.004,-0.004)"
@@ -3948,8 +3948,17 @@ tspan { white-space: pre; }
        id="path1586" />
   </g>
   <g
-     transform="translate(39.308612,39.779)"
+     transform="translate(39.243612,37.779)"
      id="g1592">
+    <path
+       transform="scale(0.004,-0.004)"
+       d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
+       fill="currentColor"
+       id="path1590" />
+  </g>
+  <g
+     transform="translate(39.308612,39.779)"
+     id="g1596">
     <rect
        x="-0.064999998"
        y="-1.8139"
@@ -3957,11 +3966,11 @@ tspan { white-space: pre; }
        height="2.4089"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1590" />
+       id="rect1594" />
   </g>
   <g
      transform="translate(43.352212,39.779)"
-     id="g1596">
+     id="g1600">
     <rect
        x="-0.064999998"
        y="-1.3139"
@@ -3969,20 +3978,20 @@ tspan { white-space: pre; }
        height="2.3074999"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1594" />
+       id="rect1598" />
   </g>
   <g
      transform="translate(43.287212,38.279)"
-     id="g1600">
+     id="g1604">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1598" />
+       id="path1602" />
   </g>
   <g
      transform="translate(35.265012,39.779)"
-     id="g1604">
+     id="g1608">
     <rect
        x="-0.064999998"
        y="-2.8139"
@@ -3990,20 +3999,20 @@ tspan { white-space: pre; }
        height="3.0102999"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1602" />
+       id="rect1606" />
   </g>
   <g
      transform="translate(53.511612,43.114)"
-     id="g1608">
+     id="g1612">
     <path
        transform="scale(0.004,-0.004)"
        d="M 0,0 H -16 V 250 H 0 Z m 0,0 v 250 c 97,59 224,148 224,259 0,57 -15,112 -40,163 -3,16 10,27 23,27 7,0 15,-3 20,-11 25,-56 40,-117 40,-179 C 267,306 0,203 0,0 Z"
        fill="currentColor"
-       id="path1606" />
+       id="path1610" />
   </g>
   <g
      transform="translate(53.446612,39.779)"
-     id="g1612">
+     id="g1616">
     <rect
        x="-0.064999998"
        y="0.18610001"
@@ -4011,6 +4020,6 @@ tspan { white-space: pre; }
        height="3.1889"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1610" />
+       id="rect1614" />
   </g>
 </svg>
