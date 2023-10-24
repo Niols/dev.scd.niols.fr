@@ -70,7 +70,10 @@
       "short-kind": "S32 3/4L",
       "date": "2019-03",
       "tunes": [
-        "the-translator"
+        {
+          "type": "internal",
+          "slug": "the-translator"
+        }
       ],
       "instructions": [
         {
@@ -111,9 +114,7 @@
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "composer": "Nicolas “Niols” Jeannerod",
-          "tune": "The Translator"
+          "type": "music by"
         }
       ]
     },
@@ -123,16 +124,21 @@
       "kind": "Medley of 32-bar strathspey and 32-bar reel for four couples in a four-couple longwise set",
       "short-kind": "M64 4/4L",
       "tunes": [
-        "matt-s-wedding",
-        "emmy-s-wedding"
+        {
+          "type": "internal",
+          "slug": "matt-s-wedding-40bars"
+        },
+        {
+          "type": "internal",
+          "slug": "emmy-s-wedding-40bars"
+        }
       ],
       "instructions": [
         {
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "composer": "Nicolas “Niols” Jeannerod"
+          "type": "music by"
         }
       ]
     },
@@ -142,52 +148,61 @@
       "kind": "40-bar reel for four couples in a four-couple longwise set",
       "short-kind": "R40 4/4L",
       "tunes": [
-        "emmy-s-wedding"
+        {
+          "type": "internal",
+          "slug": "emmy-s-wedding"
+        }
       ],
       "instructions": [
         {
           "type": "phrase",
           "starts": 1,
           "ends": 8,
-          "content": "»Luckenbooth Brooch«: 1st and 4th couples cast in four bars. 2nd couple\nstep up and 3rd couple step down on bars 3-4. 1st and 4th couples dance a\nhalf figure of eight around 2nd and 3rd couples.\n"
+          "content": "1st and 4th couples cast in four bars. 2nd couple step up and 3rd couple\nstep down on bars 3-4. 1st and 4th couples dance a half figure of eight\naround 2nd and 3rd couples.\n"
         },
         {
           "type": "phrase",
           "starts": 9,
           "ends": 16,
-          "content": "»Wedding Rings«: 1st and 4th couples in second and third places dance set\nand rotate.\n"
+          "content": "1st and 4th couples in second and third places dance set and rotate.\n"
         },
         {
           "type": "phrase",
           "starts": 17,
+          "ends": 20,
+          "content": "1st couple turn both hands one and a half times in four bars.\n»Balade dans les bois de Ronquerolles«:\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
           "ends": 24,
-          "content": "»Balade dans les bois de Ronquerolles«:\n",
-          "instructions": [
-            {
-              "type": "phrase",
-              "starts": 17,
-              "ends": 20,
-              "content": "1st couple turn both hands one and a half times in four bars.\n"
-            },
-            {
-              "type": "phrase",
-              "starts": 21,
-              "ends": 24,
-              "content": "4th couple cross down below 1st couple while 3rd couple cast up to\nsecond place.\n"
-            }
-          ]
+          "content": "4th couple cross down to fourth place while 3rd couple cast up to second\nplace.\n"
         },
         {
           "type": "phrase",
           "starts": 25,
           "ends": 32,
-          "content": "»Love in Paris«: 1st couple dance figure of love around the 3rd and 4th\ncouples and return to own sides, finishing facing out.\n"
+          "content": "1st couple dance figure of love around the 3rd and 4th couples:\n",
+          "instructions": [
+            {
+              "type": "phrase",
+              "starts": 25,
+              "ends": 28,
+              "content": "1st couple dance a half figure of eight, woman up between 3rd couple,\nman down between 4th couple, finishing by meeting in the centre of the\ndance and briefly touching both hands.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 29,
+              "ends": 32,
+              "content": "1st couple pull back left shoulder and cast, woman down and man up;\n1st woman dances up between 4th couple while 1st man dances down\nbetween 3rd couple; both finish on in third place on own sides facing\nout.\n"
+            }
+          ]
         },
         {
           "type": "phrase",
           "starts": 33,
           "ends": 40,
-          "content": "»Celebration at Fingask«: 1st, 3rd and 4th couples dance a promenade chain\nprogression, finishing in order 2, 4, 1, 3.\n"
+          "content": "1st, 3rd and 4th couples dance a promenade chain progression, finishing in\norder 2, 4, 1, 3.\n"
         },
         {
           "type": "repeat",
@@ -197,8 +212,7 @@
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "composer": "Nicolas “Niols” Jeannerod"
+          "type": "music by"
         }
       ]
     },
@@ -252,6 +266,46 @@
         }
       ]
     },
+    "hello-goodb": {
+      "name": "Hello, Goodb",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "24-bar reel for three couples in a four-couple longwise set",
+      "short-kind": "R24 3/4L",
+      "date": "2022-11-08",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 6,
+          "content": "1st couple cross by the right, cast off one place and turn by the left to\nfinish facing first corners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 7,
+          "ends": 12,
+          "content": "1st couple set to first corner, set to each other, set to second corner,\nand finish man between the 2nd couple facing down and woman between the\n3rd couple facing up.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 13,
+          "ends": 18,
+          "content": "1st man with 2nd couple and 1st woman with 3rd couple advance for two\nbars, retire for two bars. 1st couple turn three quarters by the right to\nown sides.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 19,
+          "ends": 24,
+          "content": "2nd, 1st and 3rd couples dance six hands round and back.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
     "in-strathspey-time-george-please": {
       "name": "In Strathspey Time, George, Please!",
       "author": "Shona Holmes",
@@ -260,6 +314,20 @@
       "short-kind": "X32 2/4L",
       "date": "2022-08",
       "deviser-details": "George Meikle played wonderfully for our Units 2 and 3, even if not always in\nthe tempo we wanted. This dance can be danced in your choice of tempo to\nreflect this.\n",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "a-strathspey-for-george"
+        },
+        {
+          "type": "internal",
+          "slug": "a-strath-jig-for-george"
+        },
+        {
+          "type": "internal",
+          "slug": "a-strath-reel-for-george"
+        }
+      ],
       "instructions": [
         {
           "type": "phrase",
@@ -303,9 +371,7 @@
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "tune": "A Strathspey for George",
-          "composer": "Nicolas “Niols” Jeannerod"
+          "type": "music by"
         }
       ]
     },
@@ -317,7 +383,10 @@
       "short-kind": "R32 4/4L",
       "date": "2019-04",
       "tunes": [
-        "la-ville-lumiere"
+        {
+          "type": "internal",
+          "slug": "la-ville-lumiere"
+        }
       ],
       "instructions": [
         {
@@ -358,8 +427,7 @@
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "composer": "Pascaline Latour"
+          "type": "music by"
         }
       ]
     },
@@ -369,15 +437,68 @@
       "kind": "40-bar strathspey for four couples in a four-couple longwise set",
       "short-kind": "S40 4/4L",
       "tunes": [
-        "matt-s-wedding"
+        {
+          "type": "internal",
+          "slug": "matt-s-wedding"
+        }
       ],
       "instructions": [
         {
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "composer": "Nicolas “Niols” Jeannerod"
+          "type": "music by"
+        }
+      ]
+    },
+    "on-the-way-to-the-printing-shop": {
+      "name": "On The Way To The Printing Shop",
+      "author": "Giulio Dujany, Pascaline Latour and Nicolas “Niols” Jeannerod",
+      "short-author": "Giulio Dujany et al.",
+      "kind": "32-bar jig for three couples in a four-couple longwise set",
+      "short-kind": "J32 3/4L",
+      "date": "2019-08",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "en-marchant-pour-aller-photocopier-des-trucs"
+        }
+      ],
+      "deviser-details": "During Summer School 2019, we talked over lunch about the story of Niols\nwriting his tune “En marchant pour aller photocopier des trucs”. This led to\nus devising this dance together to go along with it.\n",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st couple lead down and up, finishing in 1st place in promenade hold. 2nd\nand 3rd join in the middle of the set in promenade hold.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st, 2nd and 3rd couples dance a progressive promenade, finishing with 2nd\ncouple in first place and 1st couple in second place in the middle of the\nset facing their first corners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "2nd, 1st and 3rd couples dance corners pass and turn, finishing in order\n2, 1, 3 on own sides.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "2nd, 1st and 3rd couples dance six hands round and back.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
         }
       ]
     },
@@ -390,7 +511,10 @@
       "date": "2018-05",
       "editor-details": "This dance is a three-couple version of “Two Blue Clouds in the Grey Sky”.\n",
       "tunes": [
-        "forty-bars-of-clouds"
+        {
+          "type": "internal",
+          "slug": "forty-bars-of-clouds"
+        }
       ],
       "instructions": [
         {
@@ -425,9 +549,7 @@
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "composer": "Nicolas “Niols” Jeannerod",
-          "tune": "Forty Bars of Clouds"
+          "type": "music by"
         }
       ]
     },
@@ -517,7 +639,7 @@
           "type": "phrase",
           "starts": 13,
           "ends": 16,
-          "content": "All turn partners by the left one and a half times to finish with men in\nthe centre facing out and women on the outside facing in.\n"
+          "content": "All turn new partners by the left one and a half times to finish with men in\nthe centre facing out and women on the outside facing in.\n"
         },
         {
           "type": "phrase",
@@ -529,7 +651,7 @@
           "type": "phrase",
           "starts": 21,
           "ends": 24,
-          "content": "All dance dosido with their partners.\n"
+          "content": "All dance dosido with their original partners.\n"
         },
         {
           "type": "phrase",
@@ -541,7 +663,7 @@
           "type": "phrase",
           "starts": 29,
           "ends": 32,
-          "content": "All take promenade hold with partners and dance round the circle\nanti-clockwise.\n"
+          "content": "All take promenade hold with original partners and dance round the circle\nanti-clockwise.\n"
         },
         {
           "type": "repeat",
@@ -647,7 +769,10 @@
       "date": "2018",
       "editor-details": "The name was suggested by Christophe Schuwey in reference to the painting of\nthe same name by Thomas Gainsborough.\n",
       "tunes": [
-        "the-mall-in-st-james-s-park"
+        {
+          "type": "internal",
+          "slug": "the-mall-in-st-james-s-park"
+        }
       ],
       "instructions": [
         {
@@ -682,8 +807,7 @@
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "composer": "Nicolas “Niols” Jeannerod"
+          "type": "music by"
         }
       ]
     },
@@ -698,10 +822,15 @@
       "editor-details": "This dance is a variation of one of the most popular Scottish country dances,\n“The Reel of the 51st Division”.\n",
       "tunes": [
         {
-          "name": "The Drunken Piper",
-          "author": "Alexander McLeod"
+          "type": "internal",
+          "slug": "the-sober-piper"
         },
-        "the-sober-piper"
+        {
+          "type": "external",
+          "name": "The Drunken Piper",
+          "composer": "Alexander McLeod",
+          "scddb-id": 430
+        }
       ],
       "instructions": [
         {
@@ -740,10 +869,7 @@
           "content": "Remember the person that is at the left of your partner from your point of\nview: First, third and fifth times, you will start dancing with your\npartner on your original lines; Second, fourth and sixth times, you will\nstart dancing with that other person on the opposite lines.\n"
         },
         {
-          "type": "music by",
-          "composer": "Anne Lanvin",
-          "tune": "The Sober Piper",
-          "more": "Alternatively, one can use one of the tunes for “The Reel of the 51st\nDivision”: “The Drunken Piper”, by Alex McLeod.\n"
+          "type": "music by"
         }
       ]
     },
@@ -811,6 +937,14 @@
       "date": "2022",
       "date-format": "%at-date% and inspired by the waves in the sea around St. Andrews\n",
       "deviser-details": "For Rachel Shankland and George Meikle, with heartfelt thanks for their\nkindness towards and patience with the Units 2/3 class of 2022.\n",
+      "tunes": [
+        {
+          "type": "external",
+          "name": "Highland Whisky",
+          "composer": "Niel Gow",
+          "scddb-id": 692
+        }
+      ],
       "instructions": [
         {
           "type": "phrase",
@@ -856,9 +990,7 @@
           "type": "devised by"
         },
         {
-          "type": "recommended tune",
-          "tune": "Highland Whisky",
-          "composer": "Niel Gow"
+          "type": "music by"
         }
       ]
     },
@@ -870,6 +1002,12 @@
       "short-kind": "R40 5/5L",
       "date": "2018-05",
       "editor-details": "There exists a three-couple version of this dance, named “One Blue Cloud in\nthe Grey Sky”.\n",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "forty-bars-of-clouds"
+        }
+      ],
       "instructions": [
         {
           "type": "phrase",
@@ -903,9 +1041,7 @@
           "type": "devised by"
         },
         {
-          "type": "music by",
-          "composer": "Nicolas “Niols” Jeannerod",
-          "tune": "Forty Bars of Clouds"
+          "type": "music by"
         }
       ]
     },

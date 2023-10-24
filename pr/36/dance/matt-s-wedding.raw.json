@@ -5,15 +5,17 @@
     "kind": "40-bar strathspey for four couples in a four-couple longwise set",
     "short-kind": "S40 4/4L",
     "tunes": [
-      "matt-s-wedding"
+      {
+        "type": "internal",
+        "slug": "matt-s-wedding"
+      }
     ],
     "instructions": [
       {
         "type": "devised by"
       },
       {
-        "type": "music by",
-        "composer": "Nicolas “Niols” Jeannerod"
+        "type": "music by"
       }
     ]
   },

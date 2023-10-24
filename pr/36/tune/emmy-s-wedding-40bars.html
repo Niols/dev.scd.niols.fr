@@ -28,11 +28,20 @@
              $(".datatable").DataTable({
                  info: false,
                  paging: false,
-                 lengthChange: false
+                 lengthChange: false,
+
+                 
+                 columnDefs: [
+                     { className: "min-mobile-p", targets: 0 },
+                     { className: "min-tablet-l", targets: "_all" }
+                 ]
              });
          });
         </script>
+
+        
     </head>
+
     <body>
         <header>
             <h1><a href="../index.html">Niols’s Collection of
@@ -51,7 +60,7 @@
     </section>
 
     <section class="tune-preview">
-        <img src="emmy-s-wedding-40bars.svg" />
+        <object type="image/svg+xml" data="emmy-s-wedding-40bars.svg"></object>
     </section>
 
     <section class="tune-description">

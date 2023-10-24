@@ -28,11 +28,20 @@
              $(".datatable").DataTable({
                  info: false,
                  paging: false,
-                 lengthChange: false
+                 lengthChange: false,
+
+                 
+                 columnDefs: [
+                     { className: "min-mobile-p", targets: 0 },
+                     { className: "min-tablet-l", targets: "_all" }
+                 ]
              });
          });
         </script>
+
+        
     </head>
+
     <body>
         <header>
             <h1><a href="./index.html">Niols’s Collection of
@@ -53,7 +62,7 @@
 
     <article>
         <section>
-            <table class="datatable responsive nowrap">
+            <table class="datatable responsive wrap">
                 <thead>
                     <tr>
                         <th>Name</th>
@@ -86,6 +95,13 @@
                         
                     
                         
+                            <tr>
+        <td><a href="dance/hello-goodb.html">Hello, Goodb</a></td><td>Dance</td><td>R24 3/4L</td>
+        <td>Nicolas “Niols” Jeannerod</td>
+    </tr>
+                        
+                    
+                        
                     
                         
                     
@@ -93,6 +109,13 @@
                             <tr>
         <td><a href="dance/matt-s-wedding.html">Matt's Wedding</a></td><td>Dance</td><td>S40 4/4L</td>
         <td>Emmy Wilkinson and Matthew Stuart Dunn</td>
+    </tr>
+                        
+                    
+                        
+                            <tr>
+        <td><a href="dance/on-the-way-to-the-printing-shop.html">On The Way To The Printing Shop</a></td><td>Dance</td><td>J32 3/4L</td>
+        <td>Giulio Dujany et al.</td>
     </tr>
                         
                     
@@ -119,6 +142,11 @@
 
                     
                             <tr>
+        <td><a href="tune/a-plane-from-reykjavik.html">A Plane from Reykjavík</a></td><td>Tune</td><td>S32</td>
+        <td>Nicolas “Niols” Jeannerod</td>
+    </tr>
+                        
+                            <tr>
         <td><a href="tune/a-strath-jig-for-george.html">A Strath— Jig for George</a></td><td>Tune</td><td>J32</td>
         <td>Nicolas “Niols” Jeannerod</td>
     </tr>
@@ -134,6 +162,21 @@
     </tr>
                         
                             <tr>
+        <td><a href="tune/catherine-williamson-of-anstruther.html">Catherine Williamson of Anstruther</a></td><td>Tune</td><td>J32</td>
+        <td>Mikael Georgii</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/cleansing-tea.html">Cleansing Tea</a></td><td>Tune</td><td>R32</td>
+        <td>Nicolas “Niols” Jeannerod</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/donaldson-s-rant.html">Donaldson's Rant</a></td><td>Tune</td><td>J40</td>
+        <td>Saskia Frisby</td>
+    </tr>
+                        
+                            <tr>
         <td><a href="tune/emmy-s-wedding-40bars.html">Emmy's Wedding (40-bar Version)</a></td><td>Tune</td><td>R40</td>
         <td>Nicolas “Niols” Jeannerod</td>
     </tr>
@@ -144,6 +187,26 @@
     </tr>
                         
                             <tr>
+        <td><a href="tune/en-marchant-pour-aller-photocopier-des-trucs.html">En marchant pour aller photocopier des trucs</a></td><td>Tune</td><td>J32</td>
+        <td>Nicolas “Niols” Jeannerod</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/gillian-stevenson-s-reel.html">Gillian Stevenson's Reel</a></td><td>Tune</td><td>R32</td>
+        <td>Mikael Georgii</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/marie-my-distant-cousin.html">Marie, my distant cousin</a></td><td>Tune</td><td>J32</td>
+        <td>Mikael Georgii</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/marion-turnock-s-strathspey.html">Marion Turnock's Strathspey</a></td><td>Tune</td><td>S32</td>
+        <td>Mikael Georgii</td>
+    </tr>
+                        
+                            <tr>
         <td><a href="tune/matt-s-wedding-40bars.html">Matt's Wedding (40-bar Version)</a></td><td>Tune</td><td>R40</td>
         <td>Nicolas “Niols” Jeannerod</td>
     </tr>
@@ -151,6 +214,41 @@
                             <tr>
         <td><a href="tune/matt-s-wedding.html">Matt's Wedding</a></td><td>Tune</td><td>S32</td>
         <td>Nicolas “Niols” Jeannerod</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/mikael-georgii-s-compliments-to-bill-ewan.html">Mikael Georgii's Compliments to Bill Ewan</a></td><td>Tune</td><td>J32</td>
+        <td>Mikael Georgii</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/niols-s-farewell-to-the-east-fjords.html">Niols's Farewell to the East Fjords</a></td><td>Tune</td><td>S32</td>
+        <td>Nicolas “Niols” Jeannerod</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/out-of-tune.html">Out of Tune</a></td><td>Tune</td><td>S32</td>
+        <td>Aymeric Fromherz</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/phd-thesis-what-a-bliss.html">PhD Thesis, What a Bliss!</a></td><td>Tune</td><td>R32</td>
+        <td>Nicolas “Niols” Jeannerod</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/solstice-jig.html">Solstice Jig</a></td><td>Tune</td><td>J32</td>
+        <td>Mikael Georgii</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/summerschool-reel.html">Summerschool Reel</a></td><td>Tune</td><td>R32</td>
+        <td>Mikael Georgii</td>
+    </tr>
+                        
+                            <tr>
+        <td><a href="tune/the-fighter-of-bears.html">The Fighter of Bears</a></td><td>Tune</td><td>R32</td>
+        <td>Saskia Frisby</td>
     </tr>
                         
 

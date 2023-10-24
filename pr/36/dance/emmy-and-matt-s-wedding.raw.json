@@ -5,16 +5,21 @@
     "kind": "Medley of 32-bar strathspey and 32-bar reel for four couples in a four-couple longwise set",
     "short-kind": "M64 4/4L",
     "tunes": [
-      "matt-s-wedding",
-      "emmy-s-wedding"
+      {
+        "type": "internal",
+        "slug": "matt-s-wedding-40bars"
+      },
+      {
+        "type": "internal",
+        "slug": "emmy-s-wedding-40bars"
+      }
     ],
     "instructions": [
       {
         "type": "devised by"
       },
       {
-        "type": "music by",
-        "composer": "Nicolas “Niols” Jeannerod"
+        "type": "music by"
       }
     ]
   },
