@@ -149,6 +149,38 @@
       "date": "2019-06-07",
       "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key g \\minor\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        g8. bes16 d,8. g16 f8. a16 c8. f,16 |\n        ees8. g16 bes8. ees16 d4 d |\n        g,8. bes16 d8. bes16 c16 bes a g f4 |\n      } \\alternative { {\n        ees8. g16 f16 ees8. d4 d |\n      } {\n        ees8. g16 fis16 d8. g4 g8 a |\n      } } \\bar \"||\" \\break\n\n      bes8. d16 f8. d16 c16 d ees f g4 |\n      f16 g8. a4 f16 g8. a4 |\n      bes8. g16 d g8. a8. f16 c f8. |\n      fis8. d16 a d8. ees8 d c4 |\n      \\break\n\n      bes8. d16 f8. d16 c16 d ees f g4 |\n      f16 g8. a4 f16 g8. a4 |\n      bes8. g16 d g8. ees8. c16 g c8. |\n      a8. fis16 d fis8. g8 g, g4 |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      g2:m f | ees d:7 | g:m f | ees4 f d2:7 | ees4 d:7/fis g2:m |\n      bes2 c:m | f/c d:m | g2:m f | d1:7 |\n      bes2 c:m | f/c d:m | g2:m c:m | d:7 g:m |\n    }\n  }\n>>\n"
     },
+    "emmy-s-wedding-40bars": {
+      "name": "Emmy's Wedding (40-bar Version)",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "40-bar reel",
+      "short-kind": "R40",
+      "date": "2022-05-23",
+      "dances": [
+        {
+          "type": "external",
+          "name": "Emmy and Matt's Wedding",
+          "deviser": "Emmy Wilkinson and Matthew Stuart Dunn"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key f \\major\n\n    \\partial 2 f8 g a bes |\n    \\repeat volta 2 {\n      c4 a8 f bes4 g8 e |\n      f8 e f a c,4 c |\n      bes'8 a bes d g, a bes d |\n      c8 b c e g,4 a8 bes |\n      \\break\n\n      c4 a8 f bes4 g8 e |\n      f8 e f a c,4 c |\n      bes'8 a bes d c b c e |\n      f,4 f f8 c' d e |\n      \\break \\bar \"||\"\n\n      f8 c a' c, g' c, e c |\n      d8 a f' a, e' a, c a |\n      bes8 d c bes a g f e |\n      e8 f g e bes'4 a8 g |\n      \\break\n\n      f'8 c a' c, g' c, e c |\n      d8 a f' a, e' a, c a |\n      bes8 d c bes a g f e |\n    } \\alternative { {\n      f4 f f8 g a bes |\n    } {\n      f4 f f8 c' d e |\n    } }\n    \\bar \"||\" \\break\n\n    f8 c a' c, g' c, e c |\n    d8 a f' a, e' a, c a |\n    bes8 d c bes a g f e |\n    e8 f g e bes'4 a8 g |\n    \\break\n\n    f'8 c a' c, g' c, e c |\n    d8 a f' a, e' a, c a |\n    bes8 d c bes a g f e |\n    f4 f f\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s2 |\n      f2 c:7 | f1 | bes2 g:m | c c:7 |\n      f2 c:7 | f1 | bes2 c:7 | f c:7 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f c:7 | f c:7 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f f4\n    }\n  }\n>>\n",
+      "composer-details": "I initially wrote “Matt's Wedding” as a wedding march-like strathspey for both\nEmmy and Matt, and “Emmy's Wedding” as the companion reel for their medley\ndance. At that point, the tunes were both named “Emmy and Matt's Wedding”.\nEmmy and Matt later decided to refer to the strathspey and reel parts of the\nmedley as standalone dances and that is how the tunes got their independant\nnames.\n"
+    },
+    "emmy-s-wedding": {
+      "name": "Emmy's Wedding",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2022-05-23",
+      "dances": [
+        {
+          "type": "external",
+          "name": "Emmy's Wedding",
+          "deviser": "Emmy Wilkinson and Matthew Stuart Dunn"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key f \\major\n\n    \\partial 2 f8 g a bes |\n    \\repeat volta 2 {\n      c4 a8 f bes4 g8 e |\n      f8 e f a c,4 c |\n      bes'8 a bes d g, a bes d |\n      c8 b c e g,4 a8 bes |\n      \\break\n\n      c4 a8 f bes4 g8 e |\n      f8 e f a c,4 c |\n      bes'8 a bes d c b c e |\n      f,4 f f8 c' d e |\n      \\break \\bar \"||\"\n\n      f8 c a' c, g' c, e c |\n      d8 a f' a, e' a, c a |\n      bes8 d c bes a g f e |\n      e8 f g e bes'4 a8 g |\n      \\break\n\n      f'8 c a' c, g' c, e c |\n      d8 a f' a, e' a, c a |\n      bes8 d c bes a g f e |\n    } \\alternative { {\n      f4 f f8 g a bes |\n    } {\n      f4 f f\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s2 |\n      f2 c:7 | f1 | bes2 g:m | c c:7 |\n      f2 c:7 | f1 | bes2 c:7 | f c:7 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f c:7 | f f4\n    }\n  }\n>>\n",
+      "composer-details": "I initially wrote “Matt's Wedding” as a wedding march-like strathspey for both\nEmmy and Matt, and “Emmy's Wedding” as the companion reel for their medley\ndance. At that point, the tunes were both named “Emmy and Matt's Wedding”.\nEmmy and Matt later decided to refer to the strathspey and reel parts of the\nmedley as standalone dances and that is how the tunes got their independant\nnames.\n"
+    },
     "en-marchant-pour-aller-photocopier-des-trucs": {
       "name": "En marchant pour aller photocopier des trucs",
       "author": "Nicolas “Niols” Jeannerod",
@@ -240,7 +272,7 @@
       "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 3 {\n      \\partial 4 a4 |\n      d,4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d cis b a g fis e |\n      \\break\n\n      d4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d e fis d4\n      \\bar \"||\" \\break\n\n      d8 e |\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis d cis b a |\n      a b cis d e fis g a |\n      \\break\n\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis a b cis e |\n      fis4 d d\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d2 g | a d | b:m e:m | a2 a:7 |\n      d2 g | a d | b:m e:m | a2:7 d4\n\n      s4 |\n      d2 e:m | b1:m | g | a2 a:7 |\n      d2 e:m | b1:m | g2 a:7 | d2.\n    }\n  }\n>>\n"
     },
     "love-is-in-the-air": {
-      "name": "Love is in the Air",
+      "name": "Love is in the Air (32-bar Version)",
       "author": "Nicolas “Niols” Jeannerod",
       "scddb-id": 14458,
       "kind": "32-bar reel",
@@ -264,6 +296,38 @@
       "short-kind": "S32",
       "date": "2017",
       "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\partial 4 e4 |\n      a4. cis8 b a gis fis |\n      e8 cis4 d8 e2 |\n      fis4. a8 fis e d cis |\n      cis8 b a cis b e fis gis |\n      \\break\n\n      a4. cis8 b a gis fis |\n      e8 cis4 d8 e g fis e |\n      d8 b4 fis'8 e fis gis e |\n      a2.\n    } \\break\n\n    \\repeat volta 2 {\n      e4 |\n      fis4. a8 gis fis e d |\n      cis8 a4 b8 cis4 d8 e |\n      d4. fis8 e a cis a |\n      b8 fis gis a b4 e, |\n      \\break\n\n      a4. cis8 b a gis fis |\n      e8 cis4 d8 e4 fis8 g |\n      fis8 d e fis gis a b gis |\n      a2.\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a2 d | a a:7/cis | d a/cis | b:7 e |\n      a2 d | a4. g8:7 fis2:7 | b:m7 e | a2.\n\n      s4 |\n      d2 e | a a:7/cis | d a:7/cis | b/dis e |\n      a2 d | a4. b8:m a2:7/cis | d2 e | a2.\n    }\n  }\n>>\n"
+    },
+    "matt-s-wedding-40bars": {
+      "name": "Matt's Wedding (40-bar Version)",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "40-bar strathspey",
+      "short-kind": "S40",
+      "date": "2022-03-23",
+      "dances": [
+        {
+          "type": "external",
+          "name": "Emmy and Matt's Wedding",
+          "deviser": "Emmy Wilkinson and Matthew Stuart Dunn"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key f \\major\n\n    \\repeat volta 2 {\n      \\partial 4 f4 |\n      c4 f8. c16 a'8. c,16 bes' c,8. |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g } |\n      f8( f') e d c bes a g |\n      g8. a16 g a8. g4 ~ g16 f e d |\n      \\break\n\n      c4 f8. c16 a'8. c,16 bes' c,8. |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g } |\n      f8( f') e d c bes a g |\n      g8. a16 g a8. f2 |\n      \\break \\bar \"||\"\n\n      f8 f' <a a,>4 <g g,> <e e,> |\n      <d d,>4 <f f,> <e e,> <c c,> |\n      <bes bes,>8 d c bes a g f e |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g }\n      \\break\n\n      f8 f' <a a,>4 <g g,> <e e,> |\n      <d d,>4 <f f,> <e e,> <c c,> |\n      <bes bes,>8 d c bes a g f e |\n    } \\alternative { {\n      \\set Timing.measureLength = #(ly:make-moment 3/4)\n      f4 f f |\n    } {\n      \\set Timing.measureLength = #(ly:make-moment 4/4)\n      f4 f f2 |\n    } } \\bar \"||\" \\break\n\n    f8 f' <a a,>4 <g g,> <e e,> |\n    <d d,>4 <f f,> <e e,> <c c,> |\n    <bes bes,>8 d c bes a g f e |\n    e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g }\n    \\break\n\n    f8 f' <a a,>4 <g g,> <e e,> |\n    <d d,>4 <f f,> <e e,> <c c,> |\n    <bes bes,>8 d c bes a g f e |\n    f4 f f\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      f1 | c2 c:7 | f1 | c2 c:7 |\n      f1 | c2 c:7 | f1 | c2:7 f2 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f2. | f1 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f2.\n    }\n  }\n>>\n",
+      "composer-details": "I initially wrote “Matt's Wedding” as a wedding march-like strathspey for both\nEmmy and Matt, and “Emmy's Wedding” as the companion reel for their medley\ndance. At that point, the tunes were both named “Emmy and Matt's Wedding”.\nEmmy and Matt later decided to refer to the strathspey and reel parts of the\nmedley as standalone dances and that is how the tunes got their independant\nnames.\n"
+    },
+    "matt-s-wedding": {
+      "name": "Matt's Wedding",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2022-03-23",
+      "dances": [
+        {
+          "type": "external",
+          "name": "Matt's Wedding",
+          "deviser": "Emmy Wilkinson and Matthew Stuart Dunn"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key f \\major\n\n    \\repeat volta 2 {\n      \\partial 4 f4 |\n      c4 f8. c16 a'8. c,16 bes' c,8. |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g } |\n      f8( f') e d c bes a g |\n      g8. a16 g a8. g4 ~ g16 f e d |\n      \\break\n\n      c4 f8. c16 a'8. c,16 bes' c,8. |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g } |\n      f8( f') e d c bes a g |\n      g8. a16 g a8. f2 |\n      \\break \\bar \"||\"\n\n      f8 f' <a a,>4 <g g,> <e e,> |\n      <d d,>4 <f f,> <e e,> <c c,> |\n      <bes bes,>8 d c bes a g f e |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g }\n      \\break\n\n      f8 f' <a a,>4 <g g,> <e e,> |\n      <d d,>4 <f f,> <e e,> <c c,> |\n      <bes bes,>8 d c bes a g f e |\n      f4 f f\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      f1 | c2 c:7 | f1 | c2 c:7 |\n      f1 | c2 c:7 | f1 | c2:7 f2 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f2.\n    }\n  }\n>>\n",
+      "composer-details": "I initially wrote “Matt's Wedding” as a wedding march-like strathspey for both\nEmmy and Matt, and “Emmy's Wedding” as the companion reel for their medley\ndance. At that point, the tunes were both named “Emmy and Matt's Wedding”.\nEmmy and Matt later decided to refer to the strathspey and reel parts of the\nmedley as standalone dances and that is how the tunes got their independant\nnames.\n"
     },
     "mikael-georgii-s-compliments-to-bill-ewan": {
       "name": "Mikael Georgii's Compliments to Bill Ewan",
