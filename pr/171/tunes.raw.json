@@ -122,7 +122,8 @@
       "kind": "48-bar reel",
       "short-kind": "R48",
       "date": "2023-07",
-      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\partial 4 e4 |\n    \\repeat volta 2 {\n      a4. e8 cis4 a |\n      d8 e fis gis a2 |\n      a4 gis8 fis e4 d8 cis |\n    } \\alternative { {\n      d4. b8 g4 b |\n    } {\n      d4 b a8 b cis d |\n    } } \\break\n\n    \\repeat volta 2 {\n      e4 d8 cis e4 d8 cis |\n      e4 d8 cis e4 d8 cis |\n      d4 b8 g d'4 b8 g |\n      d'4 b8 g d'4 b8 d |\n      \\break\n\n      e4 d8 cis e4 d8 cis |\n      e4 d8 cis e4 d8 cis |\n      d4 b g b |\n    } \\alternative { {\n      a2 a8 b cis d |\n    } {\n      a2 d8 e fis gis |\n    } } \\break\n\n    \\repeat volta 2 {\n      a4 a e e |\n      cis4 cis a a' |\n      g4 g d d |\n      b4 b g g' |\n      \\break\n\n      a4 a e e |\n      cis4 cis a a' |\n      g8 fis e d cis4 b |\n      a2 d8 e fis gis |\n    } \\break\n\n    \\repeat volta 2 {\n      a4. e8 cis4 a |\n      d8 e fis gis a2 |\n      a4 gis8 fis e4 d8 cis |\n    } \\alternative { {\n      d4. b8 g4 b |\n    } {\n      d4 b a2 |\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a1 | d2 a | a1 | g | g2\n\n      e2:7 |\n      a1 | s | g | s |\n      a1 | s | g | a2 e:7 | a e:7 |\n\n      a1 | s | g | s |\n      a1 | s | g | a2 e:7 |\n\n      a1 | d2 a | a1 | g | g2 a |\n    }\n  }\n>>\n"
+      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\partial 4 e4 |\n    \\repeat volta 2 {\n      a4. e8 cis4 a |\n      d8 e fis gis a2 |\n      a4 gis8 fis e4 d8 cis |\n    } \\alternative { {\n      d4. b8 g4 b |\n    } {\n      d4 b a8 b cis d |\n    } } \\break\n\n    \\repeat volta 2 {\n      e4 d8 cis e4 d8 cis |\n      e4 d8 cis e4 d8 cis |\n      d4 b8 g d'4 b8 g |\n      d'4 b8 g d'4 b8 d |\n      \\break\n\n      e4 d8 cis e4 d8 cis |\n      e4 d8 cis e4 d8 cis |\n      d4 b g b |\n    } \\alternative { {\n      a2 a8 b cis d |\n    } {\n      a2 d8 e fis gis |\n    } } \\break\n\n    \\repeat volta 2 {\n      a4 a e e |\n      cis4 cis a a' |\n      g4 g d d |\n      b4 b g g' |\n      \\break\n\n      a4 a e e |\n      cis4 cis a a' |\n      g8 fis e d cis4 b |\n      a2 d8 e fis gis |\n    } \\break\n\n    \\repeat volta 2 {\n      a4. e8 cis4 a |\n      d8 e fis gis a2 |\n      a4 gis8 fis e4 d8 cis |\n    } \\alternative { {\n      d4. b8 g4 b |\n    } {\n      d4 b a2 |\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a1 | d2 a | a1 | g | g2\n\n      e2:7 |\n      a1 | s | g | s |\n      a1 | s | g | a2 e:7 | a e:7 |\n\n      a1 | s | g | s |\n      a1 | s | g | a2 e:7 |\n\n      a1 | d2 a | a1 | g | g2 a |\n    }\n  }\n>>\n",
+      "composer-details": "I wrote this tune during the RSCDS Summer School 2023. I was playing for\nDebbie Roxburgh and wanted a tune to match her specific 48-bars warm-up, and\nhere it is!\n"
     },
     "donaldson-s-rant": {
       "name": "Donaldson's Rant",
@@ -237,6 +238,16 @@
         }
       ],
       "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 3 {\n      \\partial 4 a4 |\n      d,4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d cis b a g fis e |\n      \\break\n\n      d4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d e fis d4\n      \\bar \"||\" \\break\n\n      d8 e |\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis d cis b a |\n      a b cis d e fis g a |\n      \\break\n\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis a b cis e |\n      fis4 d d\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d2 g | a d | b:m e:m | a2 a:7 |\n      d2 g | a d | b:m e:m | a2:7 d4\n\n      s4 |\n      d2 e:m | b1:m | g | a2 a:7 |\n      d2 e:m | b1:m | g2 a:7 | d2.\n    }\n  }\n>>\n"
+    },
+    "love-is-in-the-air": {
+      "name": "Love is in the Air",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14458,
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2020-02-03",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 2 {\n      \\partial 4 a4 |\n      d,4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d cis b a g fis e |\n      \\break\n\n      d4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d e fis d4\n    } \\break\n\n    \\repeat volta 2 {\n      d8 e |\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis d cis b a |\n      a b cis d e fis g a |\n      \\break\n\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis a b cis e |\n      fis4 d d\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d2 g | a d | b:m e:m | a2 a:7 |\n      d2 g | a d | b:m e:m | a2:7 d |\n\n      d2 e:m | b1:m | g | a2 a:7 |\n      d2 e:m | b1:m | g2 a:7 | d2.\n    }\n  }\n>>\n",
+      "composer-details": "This is how I initially composed as an AABB 32-bar reel, before I presented it\nto Violaine Eysseric who liked it and asked to use it for her dance “Love is\nin the Air”. For her dance, I play this tune as ABABAB for 48 bars.\n"
     },
     "marie-my-distant-cousin": {
       "name": "Marie, my distant cousin",
@@ -472,7 +483,8 @@
       "kind": "32-bar jig",
       "short-kind": "J32",
       "date": "2018-07-23",
-      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key c \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 g8 |\n      g c e g, c e |\n      a, c e a, c e |\n      a, d f a, d f |\n      g f e d c b |\n      \\break\n\n      g c e g, c e |\n      a, c e a, c e |\n      a, d f a, d f |\n      g f e d c b |\n      \\bar \"||\" \\break\n\n      g'4 g8 e4 e8 |\n      gis4 gis8 e4 e8 |\n      a g f a g f |\n      a g f a g f |\n      \\break\n\n      g4 g8 e4 e8 |\n      gis4 gis8 e4 e8 |\n      a g f g f e |\n      d c b c4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      c2. | a:m | d:m | c4. g |\n      c2. | a:m | d:m | c4. g |\n\n      c2. | e | d:m | d:m |\n      c2. | e | d4.:m c | g c4\n    }\n  }\n>>\n"
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key c \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 g8 |\n      g c e g, c e |\n      a, c e a, c e |\n      a, d f a, d f |\n      g f e d c b |\n      \\break\n\n      g c e g, c e |\n      a, c e a, c e |\n      a, d f a, d f |\n      g f e d c b |\n      \\bar \"||\" \\break\n\n      g'4 g8 e4 e8 |\n      gis4 gis8 e4 e8 |\n      a g f a g f |\n      a g f a g f |\n      \\break\n\n      g4 g8 e4 e8 |\n      gis4 gis8 e4 e8 |\n      a g f g f e |\n      d c b c4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      c2. | a:m | d:m | c4. g |\n      c2. | a:m | d:m | c4. g |\n\n      c2. | e | d:m | d:m |\n      c2. | e | d4.:m c | g c4\n    }\n  }\n>>\n",
+      "composer-details": "This tune is heavily inspired by “Christmas in Belgium” by my dear friend\nAymeric Fromherz.\n"
     }
   },
   "root": "."
