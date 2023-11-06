@@ -27,7 +27,7 @@
         "type": "phrase",
         "starts": 17,
         "ends": 20,
-        "content": "1st couple turn both hands one and a half times in four bars.\n»Balade dans les bois de Ronquerolles«:\n"
+        "content": "1st couple turn both hands one and a half times in four bars.\n"
       },
       {
         "type": "phrase",
@@ -39,7 +39,7 @@
         "type": "phrase",
         "starts": 25,
         "ends": 32,
-        "content": "1st couple dance figure of love around the 3rd and 4th couples:\n",
+        "content": "1st couple dance a figure of love around the 3rd and 4th couples:\n",
         "instructions": [
           {
             "type": "phrase",
@@ -51,7 +51,7 @@
             "type": "phrase",
             "starts": 29,
             "ends": 32,
-            "content": "1st couple pull back left shoulder and cast, woman down and man up;\n1st woman dances up between 4th couple while 1st man dances down\nbetween 3rd couple; both finish on in third place on own sides facing\nout.\n"
+            "content": "1st couple pull back left shoulder and cast, woman down and man up;\n1st woman dances up between 4th couple while 1st man dances down\nbetween 3rd couple; both finish in third place on own sides facing\nout.\n"
           }
         ]
       },

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (Web2C 2021/NixOS.org) (preloaded format=xelatex 1980.1.1)  2 NOV 2023 23:36
+This is XeTeX, Version 3.141592653-2.6-0.999993 (Web2C 2021/NixOS.org) (preloaded format=xelatex 1980.1.1)  6 NOV 2023 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1515,9 +1515,74 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 )
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 19.51016pt on input line 250.
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 280--280
+[]\TU/SourceSansPro(0)/m/n/10.95 16  
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 295--295
+ []\TU/SourceSansPro(0)/m/n/10.95 17
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 295--295
+[]\TU/SourceSansPro(0)/m/n/10.95 20  
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 311--311
+ []\TU/SourceSansPro(0)/m/n/10.95 21
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 311--311
+[]\TU/SourceSansPro(0)/m/n/10.95 24  
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 368--368
+ []\TU/SourceSansPro(0)/m/n/10.95 25
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 368--368
+[]\TU/SourceSansPro(0)/m/n/10.95 32  
+ []
+
+
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 368--368
+ []\TU/SourceSansPro(0)/m/n/10.95 25
+ []
+
+
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 368--368
+[]\TU/SourceSansPro(0)/m/n/10.95 28  
+ []
+
+
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 368--368
+ []\TU/SourceSansPro(0)/m/n/10.95 29
+ []
+
+
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 368--368
+[]\TU/SourceSansPro(0)/m/n/10.95 32  
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 384--384
+ []\TU/SourceSansPro(0)/m/n/10.95 33
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 384--384
+[]\TU/SourceSansPro(0)/m/n/10.95 40  
+ []
+
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
-(Font)              scaled to size 9.71072pt on input line 275.
- [1
+(Font)              scaled to size 9.71072pt on input line 424.
+[1
 
 ] (./matt-s-wedding.aux)
 
@@ -1532,7 +1597,7 @@ Package rerunfilecheck Info: Checksums for `matt-s-wedding.out':
 Here is how much of TeX's memory you used:
  34003 strings out of 477697
  706035 string characters out of 5835142
- 1039754 words of memory out of 5000000
+ 1052754 words of memory out of 5000000
  54160 multiletter control sequences out of 15000+600000
  469779 words of font info for 49 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
