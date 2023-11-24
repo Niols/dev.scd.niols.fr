@@ -1,0 +1,1865 @@
+{
+  "dances": {
+    "a-wee-journey": {
+      "name": "A Wee Journey",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 20990,
+      "kind": "32-bar jig for six couples in a six-couple longwise set",
+      "short-kind": "J32 6/6L",
+      "date": "2022-07",
+      "deviser-details": "This dance is written as a gift for Rachel Shankland and George Meikle that\ntook such good care of us during our Units 2 and 3. The changes of direction\ngive many opportunities for the men to flash their underwear as the RSCDS\ndemands for Unit 2.\n",
+      "instructions": [
+        {
+          "type": "two chords",
+          "couples-cross": "4th, 5th and 6th"
+        },
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 6,
+          "content": "All couples dance twelve hands round halfway to the left for six bars.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 7,
+          "ends": 8,
+          "content": "5th couple in second place and 2nd couple in fifth place cross by the\nright hand, finishing in order 6, 5, 4, 3, 2, 1 with 6th, 4th and 2nd\ncouples on own sides facing down and 5th, 3rd and 1st couples on opposite\nsides facing up.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 14,
+          "content": "All dance reels of six on the sidelines for six bars, giving right\nshoulder to begin, finishing in order 1, 2, 3, 4, 5, 6, facing in.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 15,
+          "ends": 16,
+          "content": "All turn by the right halfway to finish into allemande hold, 1st, 3rd and\n5th couples facing up and 2nd, 4th and 6th couples facing down.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "1st, 2nd and 3rd couples at the top and 6th, 5th and 4th couples at the\nbottom dance circulating allemandes towards the top and the bottom\nrespectively, finishing in order 3, 2, 1, 6, 5, 4 with 2nd, 6th and 4th\ncouples on opposite sides.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "All set. 2nd couple cross up while 3rd couple steps down; 5th couple cross\ndown while 4th couple steps up; 1st and 6th couples dance half right hands\nacross. All turn by the right and finish in order 2, 3, 6, 1, 4, 5 with\n1st, 4th and 5th couples on opposite sides.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "note",
+          "content": "A reel of six is similar to a reel of four in that all dancers pass one\nother dancer at each bar and take one additional bar to turn around at the\nend. It takes twelve bars to dance a full reel of six, and six bars to\ndance one halfway.\n"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
+    "drawn-in": {
+      "name": "Drawn in",
+      "author": "Shannon Kiernan",
+      "scddb-id": 20314,
+      "kind": "32-bar strathspey for three couples in a four-couple longwise set",
+      "short-kind": "S32 3/4L",
+      "date": "2019-03",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "the-translator"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st couple, giving right hands, dance a half figure of eight around 2nd\ncouple. 1st man giving left hand to 2nd woman, and 1st woman giving right\nhand to 2nd man, turn once round.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 12,
+          "content": "1st couple dance in and cast off to second place.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 13,
+          "ends": 16,
+          "content": "1st couple, giving both hands, turn once and a half, while 2nd and 3rd\ncouples chase clockwise halfway.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "1st couple, giving right shoulder to third corner positions, dance reels\nof three on the sides with 3rd and 2nd couples, finishing with 1st couple\npassing left shoulder to finish facing first corner positions.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "1st couple dance corner pass and turn with first corner positions, corners\nturning with both hands halfway and, pulling back right shoulders, dance\nout to the opposite corner position. 1st couple, passing right shoulders,\nrepeat with second corner positions.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "emmy-and-matt-s-wedding": {
+      "name": "Emmy & Matt's Wedding",
+      "author": "Emmy Wilkinson and Matthew Stuart Dunn",
+      "scddb-id": 20968,
+      "kind": "Medley of 32-bar strathspey and 32-bar reel for four couples in a four-couple longwise set",
+      "short-kind": "M64 4/4L",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "matt-s-wedding"
+        },
+        {
+          "type": "internal",
+          "slug": "emmy-s-wedding"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "kind",
+          "kind": "Strathspey"
+        },
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st and 4th couples cast in four bars. 2nd couple step up and 3rd couple\nstep down on bars 3-4. 1st and 4th couples dance a half figure of eight\naround 2nd and 3rd couples.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st and 4th couples in second and third places dance set and rotate.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "content": "1st couple turn both hands one and a half times in four bars.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "content": "4th couple cross down to fourth place while 3rd couple cast up to second\nplace.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "3rd and 1st couples dance a poussette right round.\n"
+        },
+        {
+          "type": "kind",
+          "kind": "Reel"
+        },
+        {
+          "type": "phrase",
+          "starts": 33,
+          "ends": 40,
+          "content": "1st couple dance a figure of love around the 3rd and 4th couples:\n",
+          "instructions": [
+            {
+              "type": "phrase",
+              "starts": 33,
+              "ends": 36,
+              "content": "1st couple dance a half figure of eight, woman up between 3rd couple,\nman down between 4th couple, finishing by meeting in the centre of the\ndance and briefly touching both hands.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 37,
+              "ends": 40,
+              "content": "1st couple pull back left shoulder and cast, woman down and man up;\n1st woman dances up between 4th couple while 1st man dances down\nbetween 3rd couple; both finish in third place on own sides facing\nout.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 41,
+          "ends": 48,
+          "content": "1st, 3rd and 4th couples dance a promenade chain progression, finishing in\norder 2, 4, 1, 3, with 1st couple in the middle of the set, 1st man facing\n3rd woman in fourth place and 1st woman facing 4th man in second place.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 49,
+          "ends": 52,
+          "content": "1st couple dance a half reel of four with 3rd woman and 4th man, passing\nby the right to finish with 1st man facing 4th woman in second place and\n1st woman facing 3rd man in fourth place.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 53,
+          "ends": 56,
+          "content": "1st couple repeat with 4th woman and 3rd man, finishing with 1st man\nfacing 3rd woman on the men's line and 1st woman facing 4th man on the\nwomen's line.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 57,
+          "ends": 60,
+          "content": "1st couple repeat with 3rd woman and 4th man, finishing with 1st man\nfacing 4th woman on the men's line and 1st woman facing 3rd man on the\nwomen's line.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 61,
+          "ends": 64,
+          "content": "1st couple repeat with 4th woman and 3rd man, finishing in third place on\nown sides.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "emmy-s-wedding": {
+      "name": "Emmy's Wedding",
+      "author": "Emmy Wilkinson and Matthew Stuart Dunn",
+      "scddb-id": 20966,
+      "kind": "40-bar reel for four couples in a four-couple longwise set",
+      "short-kind": "R40 4/4L",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "emmy-s-wedding-40bars"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st and 4th couples cast in four bars. 2nd couple step up and 3rd couple\nstep down on bars 3-4. 1st and 4th couples dance a half figure of eight\naround 2nd and 3rd couples.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st and 4th couples in second and third places dance set and rotate.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "content": "1st couple turn both hands one and a half times in four bars.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "content": "4th couple cross down to fourth place while 3rd couple cast up to second\nplace.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "1st couple dance a figure of love around the 3rd and 4th couples:\n",
+          "instructions": [
+            {
+              "type": "phrase",
+              "starts": 25,
+              "ends": 28,
+              "content": "1st couple dance a half figure of eight, woman up between 3rd couple,\nman down between 4th couple, finishing by meeting in the centre of the\ndance and briefly touching both hands.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 29,
+              "ends": 32,
+              "content": "1st couple pull back left shoulder and cast, woman down and man up;\n1st woman dances up between 4th couple while 1st man dances down\nbetween 3rd couple; both finish in third place on own sides facing\nout.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 33,
+          "ends": 40,
+          "content": "1st, 3rd and 4th couples dance a promenade chain progression, finishing in\norder 2, 4, 1, 3.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "et-voila": {
+      "name": "Et voilà !",
+      "author": "Violaine Eysseric",
+      "scddb-id": 21104,
+      "kind": "Medley of 40-bar strathspey and 40-bar reel for four trios in a square set",
+      "short-kind": "M40 12S",
+      "date": "2022",
+      "date-format": "during the teaching certificate class in weeks 1 and 2 of Summer School %year%\nas a gift for Rachel Shankland and George Meikle\n",
+      "deviser-details": "The candidates devised dances and created “The Doonhamers' Book”. This dance\nis for twelve dancers as there were twelve of us; it also uses a lot of\nformations included in the dances of Unit 2 – even if not always in the usual\nway!\n",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "The persons in the middle of all trios dance left hands accross in the\nmiddle of the square and right hands accross back to original place while\nthe other persons dance eight hands round to the left and back.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st and 3rd trios dance a reel of four accross the set. In each trio, the\nperson in the middle dances in tandem with the person on their right; the\nperson in the middle has the lead to start, and the lead changes halfway\nin the reel. The tandems pass left shoulder to begin.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "content": "All trios dance anti-clockwise one place, finishing facing inside the\nsquare.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "content": "All trios dance «modified set and link for three»: in each trio, the three\npersons set; the person on the left dances in to finish facing out in the\nposition at the right of the trio; the person in the middle and the person\non the right cast off one place to finish in promenade hold in the\npositions at the left and in the middle of the trio.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 40,
+          "content": "All dance «Schiehallion reels» all round; the dancers in promenade hold\nsticking together as one unit.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "custom",
+          "text": "Repeat as strathspey and then as reel, twice. All trios progress by one\nside of the square each time through as persons in trio get reordered: the\npersons on the left, in the middle and on the right becoming the persons\non the right, on the left and in the middle respectively.\n"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
+    "hello-goodb": {
+      "name": "Hello, Goodb",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "24-bar reel for three couples in a four-couple longwise set",
+      "short-kind": "R24 3/4L",
+      "date": "2022-11-08",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 6,
+          "content": "1st couple cross by the right, cast off one place and turn by the left to\nfinish facing first corners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 7,
+          "ends": 12,
+          "content": "1st couple set to first corner, set to each other, set to second corner,\nand finish man between the 2nd couple facing down and woman between the\n3rd couple facing up.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 13,
+          "ends": 18,
+          "content": "1st man with 2nd couple and 1st woman with 3rd couple advance for two\nbars, retire for two bars. 1st couple turn three quarters by the right to\nown sides.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 19,
+          "ends": 24,
+          "content": "2nd, 1st and 3rd couples dance six hands round and back.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
+    "in-strathspey-time-george-please": {
+      "name": "In Strathspey Time, George, Please!",
+      "author": "Shona Holmes",
+      "scddb-id": 21105,
+      "kind": "32-bar strathspey or 32-bar jig or 32-bar reel for two couples in a four-couple longwise set",
+      "short-kind": "X32 2/4L",
+      "date": "2022-08",
+      "deviser-details": "George Meikle played wonderfully for our Units 2 and 3, even if not always in\nthe tempo we wanted. This dance can be danced in your choice of tempo to\nreflect this.\n",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "a-strathspey-for-george"
+        },
+        {
+          "type": "internal",
+          "slug": "a-strath-jig-for-george"
+        },
+        {
+          "type": "internal",
+          "slug": "a-strath-reel-for-george"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st and 2nd couples advance, retire and turn one and a half times.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st couple, followed by 2nd couple, lead down the middle for three steps.\n2nd couple divide to allow 1st couple through and both couples lead up. On\nbars 15-16, retaining right hands, 1st and 2nd couple turn by the right to\nfinish on own sides. [see note below]\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "1st and 2nd couples dance the poussette.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 28,
+          "content": "1st and 2nd couples dance right hands across.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 29,
+          "ends": 32,
+          "content": "1st couple turn by the right to finish in second place on own side. 2nd\ncouple step up on bars 31-32. [see note below]\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "note",
+          "content": "If danced in jig or reel time, the 1st and 2nd couples need to finish bar\n16 in the middle of the set facing partner. After the poussette, 1st\ncouple is already in second position and they therefore do not need to\nmove down as they turn. 2nd couple do not need to step up.\n"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "la-ville-lumiere": {
+      "name": "La Ville Lumière",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 20315,
+      "kind": "32-bar reel for four couples in a four-couple longwise set",
+      "short-kind": "R32 4/4L",
+      "date": "2019-04",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "la-ville-lumiere"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 4,
+          "content": "1st couple set and cast off one place as 4th couple set and cast up one\nplace. 2nd couple step up and 3rd couple step down on bars 3-4.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 5,
+          "ends": 8,
+          "content": "1st and 4th couples dance right hands across to finish facing third\ncorners, that is, 1st man facing 2nd man with 4th man behind him and 4th\nwoman facing 3rd woman with 1st woman behind her.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "“Dolphin corners pass & turn”: 1st man followed by 4th man and 4th woman\nfollowed by 1st woman pass third corners by the right and change lead;\ncorners dance in and turn right hand back to place as 4th man followed by\n1st man and 1st woman followed by 4th woman dance in and pass right\nshoulders to face fourth corners. Repeat with fourth corners to finish 1st\nand 4th couples in the middle of the set with both hands joined with\npartner.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "1st and 4th couple dance a poussette to finish in the order 2, 4, 1, 3.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "All 4 couples dance eight hands round and back.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "matt-s-wedding": {
+      "name": "Matt's Wedding",
+      "author": "Emmy Wilkinson and Matthew Stuart Dunn",
+      "scddb-id": 20967,
+      "kind": "40-bar strathspey for four couples in a four-couple longwise set",
+      "short-kind": "S40 4/4L",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "matt-s-wedding-40bars"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st and 4th couples cast in four bars. 2nd couple step up and 3rd couple\nstep down on bars 3-4. 1st and 4th couples dance a half figure of eight\naround 2nd and 3rd couples.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st and 4th couples in second and third places dance set and rotate.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "content": "1st couple turn both hands one and a half times in four bars.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "content": "4th couple cross down to fourth place while 3rd couple cast up to second\nplace.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "1st couple dance a figure of love around the 3rd and 4th couples:\n",
+          "instructions": [
+            {
+              "type": "phrase",
+              "starts": 25,
+              "ends": 28,
+              "content": "1st couple dance a half figure of eight, woman up between 3rd couple,\nman down between 4th couple, finishing by meeting in the centre of the\ndance and briefly touching both hands.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 29,
+              "ends": 32,
+              "content": "1st couple pull back left shoulder and cast, woman down and man up;\n1st woman dances up between 4th couple while 1st man dances down\nbetween 3rd couple; both finish in third place on own sides facing\nout.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 33,
+          "ends": 40,
+          "content": "1st, 3rd and 4th couples dance a promenade chain progression, finishing in\norder 2, 4, 1, 3.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "on-the-way-to-the-printing-shop": {
+      "name": "On The Way To The Printing Shop",
+      "author": "Giulio Dujany, Pascaline Latour and Nicolas “Niols” Jeannerod",
+      "short-author": "Giulio Dujany et al.",
+      "kind": "32-bar jig for three couples in a four-couple longwise set",
+      "short-kind": "J32 3/4L",
+      "date": "2019-08",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "en-marchant-pour-aller-photocopier-des-trucs"
+        }
+      ],
+      "deviser-details": "During Summer School 2019, we talked over lunch about the story of Niols\nwriting his tune “En marchant pour aller photocopier des trucs”. This led to\nus devising this dance together to go along with it.\n",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st couple lead down and up, finishing in 1st place in promenade hold. 2nd\nand 3rd join in the middle of the set in promenade hold.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st, 2nd and 3rd couples dance a progressive promenade, finishing with 2nd\ncouple in first place and 1st couple in second place in the middle of the\nset facing their first corners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "2nd, 1st and 3rd couples dance corners pass and turn, finishing in order\n2, 1, 3 on own sides.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "2nd, 1st and 3rd couples dance six hands round and back.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "one-blue-cloud-in-the-grey-sky": {
+      "name": "One Blue Cloud in the Grey Sky",
+      "author": "Claire Cunin and Nicolas “Niols” Jeannerod",
+      "scddb-id": 19198,
+      "kind": "40-bar reel for three couples in a three-couple longwise set",
+      "short-kind": "R40 3/3L",
+      "date": "2018-05",
+      "editor-details": "This dance is a three-couple version of “Two Blue Clouds in the Grey Sky”.\n",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "forty-bars-of-clouds"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st couple set, cast off one place and dance a half figure of eight around\n2nd couple. 2nd couple step up on bars 3-4.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st couple set, dance a half figure of eight around 3rd couple and set\nadvancing to finish facing first corners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 32,
+          "content": "1st couple dance corner pass and turn with their first corners and repeat\nwith their second, third and fourth corners, finishing on their own sides\nin second position.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 33,
+          "ends": 40,
+          "content": "1st couple set, cast off one place. 3rd couple step up on bars 35-36. 1st\ncouple turn right hand in four bars.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "praha-matka-mest": {
+      "name": "Praha Matka Měst",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 20992,
+      "kind": "Medley of 16-bar strathspey and 16-bar reel for three couples in a three-couple longwise set",
+      "short-kind": "M32 3/3L",
+      "date": "2019-04",
+      "date-format": "in Prague %at-date%\n",
+      "editor-details": "The title translates to “Prague, Mother of Cities” and refers to Prague's\nmotto during the twentieth century. It was a symbol of the mission of Prague\nto protect the independence and prosperity of the Czecho-Slovakian state.\n",
+      "instructions": [
+        {
+          "type": "two chords",
+          "couples-cross": "2nd and 3rd"
+        },
+        {
+          "type": "kind",
+          "kind": "Strathspey"
+        },
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st couple set advancing and turn both hands, dance down the middle and\nturn halfway with both hands to face down in promenade hold. 2nd couple\nstep up on bars 5-6. 2nd and 3rd couples join in on bar 8.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "2nd, 1st and 3rd couples dance an allemande down the dance. On bars 15-16,\n1st couple stays in the middle and set advancing to face first corners in\nthird corner position.\n"
+        },
+        {
+          "type": "kind",
+          "kind": "Reel"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "1st couple dance corners pass and turn and cast away: Same as corners pass\nand turn, except that corners turn halfway right hand and cast away to\nopposite positions. On bars 23-24, 1st couple slow down to finish in the\nmiddle on own sides in poussette hold; 3rd man curves to stay in the\nmiddle on own side; 3rd woman joins in in poussette hold.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "1st and 3rd couples dance poussette and petronella: Same five first bars\nas the poussette. On bar 6, 3rd and 1st couples dance a quarter. On bars\n7-8, 3rd and 1st couples dance a petronella turn to opposite lines,\nfinishing with 2nd couple in first position and 3rd and 1st couples on\nopposite line in second and third position.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
+    "spot-on": {
+      "name": "Spot on",
+      "author": "Shona Holmes",
+      "scddb-id": 21106,
+      "kind": "32-bar reel for any number of couples in a circle around the room: women with their partner on their left.",
+      "short-kind": "R32",
+      "date": "2022-07",
+      "deviser-details": "Our lovely Unit 2/3 teacher Rachel Shankland started every day with a fun warm\nup dance and often described our better moments in dancing and teaching as\n“Spot on”. Thus, this easy warm up dance was born; the circles in bars 9-12\nand 17-20 create perfect spots. Thank you Rachel!\n",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 4,
+          "content": "All advance and retire.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 5,
+          "ends": 8,
+          "content": "All advance and men retire while women stay in the middle, pulling back\nright shoulder to face out.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 12,
+          "content": "Women circle round to the left in the centre while men circle round to the\nleft from places, giving hands if possible. All finish facing new\npartners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 13,
+          "ends": 16,
+          "content": "All turn new partners by the left one and a half times to finish with men in\nthe centre facing out and women on the outside facing in.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "content": "Women circle round to the right from places, giving hands if possible,\nwhile men circle round to the right in the centre. All finish facing\noriginal partners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "content": "All dance dosido with their original partners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 28,
+          "content": "All dance dosido with the person diagonally to the left.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 29,
+          "ends": 32,
+          "content": "All take promenade hold with original partners and dance round the circle\nanti-clockwise.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
+    "sunday-early-in-the-morning": {
+      "name": "Sunday, Early in the Morning",
+      "author": "Marie-Laure Barret",
+      "scddb-id": 20996,
+      "kind": "32-bar strathspey for three couples in a three-couple longwise set",
+      "short-kind": "S32 3/3L",
+      "date": "2022-07-31",
+      "deviser-details": "During the Saturday ball at the end of the first week of Summer School in St.\nAndrews, I was asked if I wanted to write a dance for our tutor Rachel\nShankland and for our musician George Meikle. Thus, on the following morning,\nat 6.30am, I started devising this dance.\n",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 4,
+          "content": "1st, 2nd and 3rd couples set and link.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 5,
+          "ends": 8,
+          "content": "All chase clockwise halfway round the set.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "Repeat bars 1-8 from new positions.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 18,
+          "content": "3rd, 2nd and 1st couples set.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 19,
+          "ends": 22,
+          "content": "3rd, 2nd and 1st couples, giving right hand to partner, turn halfway,\nrelease hands and, pulling right shoulder back, dance on a curve to own\nsides of the set.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 23,
+          "ends": 24,
+          "content": "3rd, 2nd and 1st couples set.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "3rd and 2nd couples dance the «rose progression»:\n",
+          "instructions": [
+            {
+              "type": "phrase",
+              "starts": 25,
+              "ends": 26,
+              "content": "3rd man and 2nd woman set as 3rd woman and 2nd man change places right\nhand.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 27,
+              "ends": 28,
+              "content": "3rd man and 2nd woman turn with both hands halfway as 3rd woman and\n2nd man dance into their partner's place.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 29,
+              "ends": 30,
+              "content": "3rd man and 2nd woman cast into each other's original places as 3rd\nwoman and 2nd man turn with both hands halfway.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 31,
+              "ends": 32,
+              "content": "3rd man and 2nd woman dance across the set as 3rd woman and 2nd man,\npulling right shoulder back, cast out to the sidelines.\n"
+            }
+          ]
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
+    "the-mall-in-st-james-s-park": {
+      "name": "The Mall in St. James’s Park",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 20991,
+      "kind": "32-bar strathspey for three couples in a three-couple longwise set",
+      "short-kind": "S32 3/3L",
+      "date": "2018",
+      "editor-details": "The name was suggested by Christophe Schuwey in reference to the painting of\nthe same name by Thomas Gainsborough.\n",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "the-mall-in-st-james-s-park"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st couple set, cross right hand, cast off one place, advance in the\nmiddle and pull right shoulder to face first corners. 2nd couple step up\non bars 5-6.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st couple turn first corners both hands, pass each other right shoulder,\nturn second corners both hands and pass each other right shoulder to\nfinish on own sides facing out.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "2nd, 1st and 3rd couples dance parallel reels of three in six bars on the\nlines, 1st man giving left shoulder to 3rd man and 1st woman giving right\nshoulder to 3rd woman. On bars 23-24, 1st and 3rd men exchange place left\nshoulder while 1st and 3rd women exchange place right shoulder.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "3rd and 1st couples dance the Poussette.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "the-reel-of-the-51st-confusion": {
+      "name": "The Reel of the 51st Confusion",
+      "author": "Anne Lanvin, Corentin Lefèvre, Isabelle Herlant, Louise Baltera, Nicolas “Niols” Jeannerod and Victor Lanvin",
+      "short-author": "Anne Lanvin et al",
+      "scddb-id": 20993,
+      "kind": "32-bar reel for three couples in a three-couple longwise set",
+      "short-kind": "R32 3/3L",
+      "date": "2021-08-08",
+      "editor-details": "This dance is a variation of one of the most popular Scottish country dances,\n“The Reel of the 51st Division”.\n",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "the-sober-piper"
+        },
+        {
+          "type": "external",
+          "name": "The Drunken Piper",
+          "composer": "Alexander McLeod",
+          "scddb-id": 430
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st couple set, cast off two places and lead up, finishing back to back\nfacing first corners. 2nd couple step up on bars 3-4.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st couple set to first corners and turn by the right halfway with them.\nFirst corners give left hands in the middle and 1st couple and first\ncorners balance in line; first corners turn by the left three quarters to\nend up back to back in the middle, facing second corners.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "Repeat with first and second corners. On bars 23-24, second corners turn\nby the left one quarter to opposite sides, finishing with 1st, 2nd and 3rd\nwomen on opposite lines in 1st, 2nd and 3rd positions and 2nd, 3rd and 1st\nmen on opposite lines in 1st, 2nd and 3rd positions.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "All dance six hands round and back.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "note",
+          "content": "Remember the person that is at the left of your partner from your point of\nview: First, third and fifth times, you will start dancing with your\npartner on your original lines; Second, fourth and sixth times, you will\nstart dancing with that other person on the opposite lines.\n"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "the-terrific-twelve": {
+      "name": "The Terrific Twelve",
+      "author": "Kristian Vestli",
+      "scddb-id": 21107,
+      "kind": "40-bar reel for six couples in a six-couple longwise set",
+      "short-kind": "R40 6/6L",
+      "date": "2022-07",
+      "date-format": "in St Andrews %at-date%\n",
+      "deviser-details": "The team of twelve candidates for our units 2 & 3 were terrific. In this dance\nyou hardly get a rest, to remind us of all the hard work we put in, but also\nall the fun we had with our tutor, Rachel Shankland and our musician, George\nMeikle.\n",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 4,
+          "content": "1st man with 2nd woman, and at the same time 2nd man with 3rd woman, 3rd\nman with 4th woman, 4th man with 5th woman and 5th man with 6th woman turn\nwith the right hand.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 5,
+          "ends": 8,
+          "content": "All turn their partner with the right hand ending in allemande hold facing\nup.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st, 2nd and 3rd couples, and at the same time 4th, 5th and 6th couples\ndance a three-couple allemande.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "3rd couple with 2nd couple, and at the same time 1st couple with 6th\ncouple and 5th couple with 4th couple, dance right hands across and left\nhands back, finishing in the middle of the set both hands joined.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "3rd couple with 2nd couple, and at the same time 1st couple with 6th\ncouple and 5th couple with 4th couple, change places with a two-couple\npoussette.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 33,
+          "ends": 40,
+          "content": "All circle twelve hands round and back.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    },
+    "the-waves": {
+      "name": "The Waves",
+      "author": "Saskia Frisby",
+      "scddb-id": 20994,
+      "kind": "32-bar strathspey for three couples in a four-couple longwise set",
+      "short-kind": "S32 3/4L",
+      "date": "2022",
+      "date-format": "%at-date% and inspired by the waves in the sea around St. Andrews\n",
+      "deviser-details": "For Rachel Shankland and George Meikle, with heartfelt thanks for their\nkindness towards and patience with the Units 2/3 class of 2022.\n",
+      "tunes": [
+        {
+          "type": "external",
+          "name": "Highland Whisky",
+          "composer": "Niel Gow",
+          "scddb-id": 692
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 2,
+          "content": "1st couple set.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 3,
+          "ends": 8,
+          "content": "1st couple dance a figure of eight around 2nd and 3rd couples on the\nsidelines in six bars, dancing in and down to begin and touching nearer\nhands when possible.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st and 2nd couples dance the knot, retaining left hands.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 20,
+          "content": "2nd and 1st couples, giving left hands, dance four hands across once\nround.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 21,
+          "ends": 24,
+          "content": "1st and 3rd couples dance four hands round to the left. At the very end of\nthis phrase, 1st and 3rd women as well as 1st and 3rd men release hands\nwhile retaining hands with their partner.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 32,
+          "content": "1st and 3rd couples dance a poussette right round. On the first bar, 1st\nand 3rd couples join both hands and turn into a diagonal line with 1st\ncouple above 3rd couple. The rest of the poussette proceeds as normal.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "two-blue-clouds-in-the-grey-sky": {
+      "name": "Two Blue Clouds in the Grey Sky",
+      "author": "Claire Cunin and Nicolas “Niols” Jeannerod",
+      "scddb-id": 19197,
+      "kind": "40-bar reel for five couples in a five-couple longwise set",
+      "short-kind": "R40 5/5L",
+      "date": "2018-05",
+      "editor-details": "There exists a three-couple version of this dance, named “One Blue Cloud in\nthe Grey Sky”.\n",
+      "tunes": [
+        {
+          "type": "internal",
+          "slug": "forty-bars-of-clouds"
+        }
+      ],
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 8,
+          "content": "1st and 3rd couples set, cast off one place and dance a half figure of\neight around 2nd and 4th couples. 2nd and 4th couples step up on bars 3-4.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "1st and 3rd couples set, dance a half figure of eight around 4th and 5th\ncouples and set advancing to finish facing first corners, 4th woman and\n2nd man for 1st couple, 5th woman and 4th man for 3rd couple.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 32,
+          "content": "1st and 3rd couples dance corner pass and turn with their first corners\nand repeat with their second, third and fourth corners, finishing on their\nown sides in second and fourth positions.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 33,
+          "ends": 40,
+          "content": "1st and 3rd couples set, cast off one place. 4th and 5th couples step up\non bars 35-36. 1st and 3rd couples turn right hand in four bars.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "from new positions"
+        },
+        {
+          "type": "devised by"
+        },
+        {
+          "type": "music by"
+        }
+      ]
+    },
+    "units-2-and-3": {
+      "name": "Units 2 and 3",
+      "author": "David Osgarby",
+      "scddb-id": 21108,
+      "kind": "32-bar jig for three couples in a four-couple longwise set",
+      "short-kind": "J32 3/4L",
+      "date": "2022-07",
+      "date-format": "in St Andrews %at-date%\n",
+      "deviser-details": "I devised this dance at the 2022 St Andrews Summer School while doing Units 2\nand 3 of the RSCDS teaching certificate. The dance was devised such that the\n2s and 3s are showcased representing Units 2 and 3. The vigour of the dance\nrepresents the high level of effort put in by students during the course. Each\ndancer dances from several positions, similar to how we have been taking the\nposition of different dancers to demonstrate formations. That the ones are\nstill during bars 9-24 represents spending time observing other dancers and\nteachers during the course. The plentiful curving and casting to change\npositions on the side lines was included to demonstrate good kilt control (or\nlack thereof)!\n",
+      "instructions": [
+        {
+          "type": "phrase",
+          "starts": 1,
+          "ends": 4,
+          "content": "1st, 2nd and 3rd couples dance a «unit 3 lesson» from original positions,\nfinishing in order 3, 1, 2 with 1st couple on opposite lines.\n",
+          "instructions": [
+            {
+              "type": "phrase",
+              "starts": 1,
+              "ends": 2,
+              "content": "1st couple position turn halfway by the right while 2nd and 3rd couple\npositions set.\n"
+            },
+            {
+              "type": "phrase",
+              "starts": 3,
+              "ends": 4,
+              "content": "1st and 2nd woman positions cast down one place while 3rd woman\nposition dances in and up, curving into first place. In the meantime,\n1st and 2nd man positions dance in and down one place, curving into\nplace, while 3rd man position casts up to first place.\n"
+            }
+          ]
+        },
+        {
+          "type": "phrase",
+          "starts": 5,
+          "ends": 8,
+          "content": "2nd, 3rd and 1st couples dance a «unit 3 lesson» again from new places,\nfinishing in order 2, 3, 1 with 3rd and 1st couples on opposite lines.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 9,
+          "ends": 16,
+          "content": "2nd and 3rd couples turn partner halfway with right hands, and chase\naround clockwise two places. 3rd and 2nd couples repeat four bars from\nthese positions, finishing in order 2, 3, 1 with 3rd and 1st couples on\nopposite lines.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 17,
+          "ends": 24,
+          "content": "3rd couple, followed by 2nd couple dance a figure of eight down around the\n1st couple and up the sides, finishing in order 3, 2, 1 with 3rd and 1st\ncouples on opposite lines.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 25,
+          "ends": 28,
+          "content": "3rd, 2nd and 1st couples dance a «unit 3 lesson» from new places,\nfinishing in order 1, 3, 2 with 1st couple on opposite line.\n"
+        },
+        {
+          "type": "phrase",
+          "starts": 29,
+          "ends": 32,
+          "content": "1st, 3rd and 2nd couples dance a «unit 3 lesson» from new places,\nfinishing in order 2, 1, 3 with all couples on own line.\n"
+        },
+        {
+          "type": "repeat",
+          "kind": "having passed a couple"
+        },
+        {
+          "type": "devised by"
+        }
+      ]
+    }
+  },
+  "tunes": {
+    "a-jig-so-puzzled": {
+      "name": "A Jig So Puzzled",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14537,
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2020-01-27",
+      "dances": [
+        {
+          "type": "external",
+          "name": "A Jig So Puzzled",
+          "deviser": "Mathias Ferber",
+          "scddb-id": 20320
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\key d \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 a8 |\n      fis4 d8 fis4 a8 |\n      d8 cis b a4 a8 |\n      b8 g b a g fis |\n      e4. a4\n      \\bar \"|\" \\break\n\n      a8 |\n      fis4 d8 fis4 a8 |\n      d8 cis b a4 a8 |\n      b8 g b a g fis |\n      e4. d4\n    } \\break\n\n    e8 |\n    fis4 d8 fis4 fis8 |\n    g8 fis e fis4 fis8 |\n    g8 fis e fis e d |\n    cis a cis e4\n    \\bar \"|\" \\break\n\n    e8 |\n    fis4 d8 fis4 fis8 |\n    g8 fis e fis4 fis8 |\n    g8 fis e fis e d |\n    cis4. b4\n    \\bar \"||\" \\break\n\n    e8 |\n    fis4 d8 fis4 fis8 |\n    g8 fis e fis4 fis8 |\n    g8 fis e fis e d |\n    cis a cis e4\n    \\bar \"|\" \\break\n\n    e8 |\n    fis4 d8 fis4 a8 |\n    d8 cis b a4 a8 |\n    b8 g b a g fis |\n    e4. d4\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      d4. d/cis | b:m a | g d/fis | e:7 a:7 |\n      d4. d/cis | b:m a | g d/fis | a:7 d |\n\n      b2.:m | e4.:m b:m | e:m b:m | a a:7 |\n      b2.:m | e4.:m b:m | e:m b:m | a:7 b:m |\n\n      b2.:m | e4.:m b:m | e:m b:m | a a:7 |\n      d4. d/cis | b:m a | g d/fis | a:7 d4\n    }\n  }\n>>\n"
+    },
+    "a-plane-from-reykjavik": {
+      "name": "A Plane from Reykjavík",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar Strathspey",
+      "short-kind": "S32",
+      "date": "2023-05-06",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\key g \\minor\n    \\time 4/4\n\n    \\repeat volta 2 {\n      g4 d8. g16 bes,8. g'16 a,8. g'16 |\n      g,4 \\tuplet 3/2 { g'8 a bes } c4 \\tuplet 3/2 { bes8 a f } |\n      g4 d8. g16 bes,8. g'16 a,8. g'16 |\n      \\tuplet 3/2 { c,4 d ees } \\tuplet 3/2 { d8 c bes } \\tuplet 3/2 { c8 bes a } |\n      \\break\n\n      g'4 d8. g16 bes,8. g'16 a,8. g'16 |\n      g,4 \\tuplet 3/2 { g'8 a bes } c4 \\tuplet 3/2 { bes8 a f } |\n      g4 d8. g16 bes,8. g'16 a,8. g'16 |\n      \\tuplet 3/2 { c,4 d ees } \\tuplet 3/2 { fis4 g a } |\n      \\bar \"||\" \\break\n\n      bes4 f8. bes16 d8. bes16 f'8. f,16 |\n      c'16 d ees8 d16 c bes8 a16 bes c8 f,4 |\n      bes4 f8. bes16 d8. bes16 f'8. f,16 |\n      c'16 d ees8 g4 f16 g a8 c4 |\n      \\break\n\n      bes8. f16 \\tuplet 3/2 { d8 ees f } g8. ees16 \\tuplet 3/2 { c8 d ees } |\n      f8. c16 \\tuplet 3/2 { a8 bes c } f,4 a8. c16 |\n      bes8. f16 \\tuplet 3/2 { d8 ees f } g8. ees16 \\tuplet 3/2 { c8 d ees } |\n      f8. c16 \\tuplet 3/2 { a8 bes c } bes4 bes |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      g1:m | g2:m f | g1:m | c2:m d4 d:7/fis |\n      g1:m | g2:m f | g1:m | c2:m d:7 |\n\n      bes1 | c2:m f4 f:7 | bes1 | c2:m f |\n      bes2 c:m | f f:7 | bes c:m | f:7 bes |\n    }\n  }\n>>\n"
+    },
+    "a-strath-jig-for-george": {
+      "name": "A Strath— Jig for George",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2022-08-15",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "in-strathspey-time-george-please"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key d \\minor\n\n    \\partial 8 a8 |\n    \\repeat volta 2 {\n      d4 a8 d4 a8 |\n      a'8 g f e f e |\n      d4 a8 d4 c8 |\n      bes4. a8 bes c |\n      \\break\n\n      d4 a8 d4 a8 |\n      a'8 g f e f e |\n      d8 e f e f g |\n    } \\alternative { {\n      f4. f8 e d |\n    } {\n      f4. f8 e d |\n    } } \\break\n\n    \\repeat volta 2 {\n      bes4 g8 bes4 d8 |\n      g8 f e d c bes |\n      a8 e e cis' e, e |\n      d'8 e, e e' e, e |\n      \\break\n\n      bes'4 g8 bes4 d8 |\n      g8 f e d c bes |\n      bes8 c d c d e |\n    } \\alternative { {\n      f4. f8 e d |\n    } {\n      d4. d4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      d2.:m | a:7 | d:m | g:m |\n      d2.:m | a:7 | bes4. c:7 | d2.:m | f |\n\n      g2.:m | s | a:7 | s |\n      g2.:m | s | bes4. c:7 | f2. | d2:m\n    }\n  }\n>>\n"
+    },
+    "a-strath-reel-for-george": {
+      "name": "A Strath— Reel for George",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2022-08-15",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "in-strathspey-time-george-please"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\minor\n\n    \\partial 4 a4 |\n    \\repeat volta 2 {\n      d4 a8 cis d4 a8 cis |\n      a'8 g f e g f e f |\n      d4 a8 cis d4 a8 c |\n      bes4 a8 bes c a bes c |\n      \\break\n\n      d4 a8 cis d4 a8 cis |\n      a'8 g f e g f e f |\n      d8 e f d e f g e |\n    } \\alternative { {\n      f2 f8 e d c |\n    } {\n      f2 f8 e d c |\n    } } \\break\n\n    \\repeat volta 2 {\n      bes8 g bes d g bes, d g |\n      g8 f e d c bes a g |\n      a8 e a cis e a, cis e |\n      g8 cis, e g a e a4 |\n      \\break\n\n      bes,8 g bes d g bes, d g |\n      g8 f e d c bes a bes |\n      bes8 c d bes c d e c |\n    } \\alternative { {\n      f2 f8 e d c |\n    } {\n      d2 d4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d1:m | a:7 | d:m | g:m |\n      d1:m | a:7 | bes2 c:7 | d1:m | f |\n\n      g1:m | s | a:7 | s |\n      g1:m | s | bes2 c:7 | f1 | d2.:m\n    }\n  }\n>>\n"
+    },
+    "a-strathspey-for-george": {
+      "name": "A Strathspey for George",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2022-08-15",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "in-strathspey-time-george-please"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\minor\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        a16 d8. d a16 a'8. g16 f e8. |\n        a,16 d8. d c16 bes4 a8 g |\n        a16 d8. d a16 a'8. g16 f e8. |\n      } \\alternative { {\n        \\tuplet 3/2 {d8 e f} \\tuplet 3/2 {e8 f g} f4 e8 d |\n      } {\n        \\tuplet 3/2 {d8 e f} \\tuplet 3/2 {e8 f g} f4 f16 e d c |\n      } } \\break\n\n      \\repeat volta 2 {\n        bes16 g8. g' f16 e8. d16 c bes8. |\n        a8. e16 cis'8 e, d' e, e' e, |\n        bes'16 g8. g' f16 e8. d16 c bes8. |\n      } \\alternative { {\n        \\tuplet 3/2 {bes8 c d} \\tuplet 3/2 {c8 d e} f4 f16 e d c |\n      } {\n        \\tuplet 3/2 {bes8 c d} \\tuplet 3/2 {c8 d e} d4 d |\n      } }\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      d2:m a:7 | d2:m g:m | d:m a:7 | bes4 c:7 d2:m | bes4 c:7 f2 |\n      g1:m | a:7 | g:m | bes4 c:7 f2 | bes4 c:7 d2:m |\n    }\n  }\n>>\n"
+    },
+    "a439": {
+      "name": "A439",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14005,
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2018-03-28",
+      "dances": [
+        {
+          "type": "external",
+          "name": "So Far Yet So Close",
+          "deviser": "Claire Cunin",
+          "scddb-id": 19188
+        }
+      ],
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key d \\minor\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        a16 a8. g a16 b4 c8. b16 |\n        a4 f8. e16 d4 d8. e16 |\n        f4 f8. g16 e8 c4 e8 |\n        d2. \\parenthesize a'4 |\n      } \\break\n\n      a16 d8. d c16 d8. e16 f8. a,16 |\n      a16 d8. d c16 d8. c16 a4 |\n      a16 d8. d c16 d8. e16 f8. g16 |\n      a16 a8. f8. c16 a'4 a, |\n      \\break\n\n      a16 d8. d c16 d8. e16 f8. a,16 |\n      a16 d8. d c16 d8. c16 a4 |\n      a16 d8. d c16 d8. e16 f8. g16 |\n      e16 c8. <e g>8. <c e>16 d2 |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      d2:m g | d1:m | f2 c | d1:m |\n      d1:m | d2:m a:m | d1:m | f |\n      d1:m | d2:m a:m | d1:m | c2 d:m |\n    }\n  }\n>>\n"
+    },
+    "and-guess-what": {
+      "name": "...and Guess What?",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2021-04-12",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key a \\major\n\n    \\repeat volta 2 {\n      cis4 d16 e8. fis e16 fis a8. |\n      gis8. fis16 e gis8. a4. b8 |\n      cis8. d16 e cis8. b a16 gis fis8. |\n      e8. d16 cis b8. a2 |\n      \\break\n\n      cis4 d16 e8. fis e16 fis a8. |\n      gis8. fis16 e gis8. a4. cis8 |\n      \\tuplet 3/2 { d8 e fis } \\tuplet 3/2 { e8 d cis } \\tuplet 3/2 { d8 cis b } a8. d16 |\n      \\tuplet 3/2 { cis8 b a } \\tuplet 3/2 { gis8 a b } cis16 a8. a8\n      \\bar \"||\" \\break\n\n      e'8 |\n      a16 e8. e e16 gis e8. e e16 |\n      fis16 d8. d fis16 e4. e8 |\n      fis16 d8. d fis16 e4 e8 cis |\n      d8. cis16 b a8. b4. e8 |\n      \\break\n\n      a16 e8. e e16 gis e8. e e16 |\n      fis16 d8. d fis16 e4. cis8 |\n      \\tuplet 3/2 { d8 e fis } \\tuplet 3/2 { e8 d cis } \\tuplet 3/2 { d8 cis b } a8. d16 |\n      \\tuplet 3/2 { cis8 b a } \\tuplet 3/2 { gis8 a b } cis16 a8. a4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      a2 d | e a | a e | e:7 a |\n      a2 d | e a | d4 a/cis b:m a | a e:7 a4.\n\n      s8 |\n      a2 e | d a | b:m a | d e:7 |\n      a2 e | d a | d4 a/cis b:m a | a e:7 a2 |\n    }\n  }\n>>\n"
+    },
+    "bus-trip-tomorrow": {
+      "name": "Bus Trip Tomorrow",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2023-08-03",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\minor\n\n    \\repeat volta 2 {\n      d4 f8. d16 a' d,8. bes'16 d,8. |\n      e8. c16 f8 c g' c, a' cis, |\n      d4 f8. d16 a' d,8. bes'8 c |\n      d8 c bes16 a g f e4 cis |\n      \\break\n\n      d4 f8. d16 a' d,8. bes'16 d,8. |\n      e8. c16 f8 c g' c, a' cis, |\n      d4 f8. d16 a' d,8. bes'8 c |\n      d8 c bes16 a g f e4 d |\n      \\bar \"||\" \\break\n\n      d'16 a8. a'8 g f8. e16 d c8. |\n      bes8. a16 g f8. e4 f8 e |\n      d'16 a8. d'8 c bes8. a16 g f8. |\n      e8. f16 g f8. e8 a, b cis |\n      \\break\n\n      d16 a8. a'8 g f8. e16 d c8. |\n      bes8. a16 g f8. e4 f8 e |\n      d8. e16 f d8. g8 a bes r |\n    } \\alternative { {\n      bes16 a g f e4 d8 cis~ cis4 |\n    } {\n      bes'16 a g f e4 d8 cis d4 |\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      d2:m d4:m/a bes | c4 f/c c a:7 | d2:m d4:m/a g:m | bes2 c4 a:7 |\n      d2:m d4:m/a bes | c4 f/c c a:7 | d2:m d4:m/a g:m | bes2 c4 d:m |\n\n      d2:m f | bes c | d:m bes | c a:7 |\n      d2:m f | bes c | d:m g:m | bes4 c a2:7 | bes4 c a:7 d:m |\n    }\n  }\n>>\n"
+    },
+    "catherine-williamson-of-anstruther": {
+      "name": "Catherine Williamson of Anstruther",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2015",
+      "content": "\\relative f <<\n  {\n    \\clef treble\n    \\key e \\minor\n    \\time 6/8\n\n    \\partial 8 b8 |\n    \\repeat volta 2 {\n      e8 b g' fis e dis |\n      e8 b g' fis e dis |\n      e8 fis g c b a |\n      g8 fis e dis e fis |\n      \\break\n\n      e8 b g' fis e dis |\n      e8 b g' fis e dis |\n      e8 fis g a b c |\n    } \\alternative { {\n      b8 a fis e4 b8 |\n    } {\n      b'8 a fis e g b |\n    } } \\break\n\n    \\repeat volta 2 {\n      e8 e, b' c a c |\n      d8 c a b b, b' |\n      c8 b g a a, a' |\n      g8 fis e dis fis b |\n      \\break\n\n      e8 e, b' c a c |\n      d8 c a b b, b' |\n      c8 b a g fis e |\n    } \\alternative { {\n      dis8 e fis e g b |\n    } {\n      dis,8 e fis e4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      e4.:m b:7 | e:m b:7 | e:m a:m | bes:dim b:7 |\n      e4.:m b:7 | e:m b:7 | e:m a:m/c | b:7 e:m | b:7 e:m |\n\n      e4.:m a:m | d g | c a:m | bes:dim b:7 |\n      e4.:m a:m | d g | a:m bes:dim | b:7 e:m | b:7 e4:m\n    }\n  }\n>>\n"
+    },
+    "cleansing-tea": {
+      "name": "Cleansing Tea",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2021",
+      "content": "\\relative f'' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key a \\mixolydian\n\n    \\repeat volta 2 {\n      cis8 b cis a b cis a b |\n      <a g'>4. <a fis'>8 ~ <a fis'>4 <a fis'>4 |\n      cis8 b cis a b cis a b |\n      <a e'>4 <a d> <a cis> <a b> |\n      \\break\n\n      cis8 b cis a b cis a b |\n      <a g'>4. <a fis'>8 ~ <a fis'>4 <a fis'>4 |\n      fis'8 g a b a fis d e |\n    } \\alternative { {\n      <d fis>4. <cis e>8 ~ <cis e>4 <cis e>4 |\n    } {\n      <d fis>4. <cis e>8 ~ <cis e>4 <cis e>8 fis |\n    } } \\break\n\n    \\repeat volta 2 {\n      g8 fis g d e g d e |\n      g4 fis e d |\n      fis8 e fis d e fis d e |\n      <d fis>4. <cis e>8 ~ <cis e>4 <cis e>8 fis |\n      \\break\n\n      g8 fis g d e g d e |\n      g4 fis e d |\n      <d fis>4 <d fis>8 <d fis>8 ~ <d fis>4 <d fis>4 |\n    } \\alternative { {\n      <cis e>4. <cis e>8 ~ <cis e>4 <cis e>8 fis |\n    } {\n      <a, cis e>2 <a cis e a>2 |\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      a1 | g | a | a:7 |\n      a1 | g | d | d2 a:7 | d a:7 |\n      g1 | s | d | d2 a:7 |\n      g1 | s | d | a:7 | a2 a:7 |\n    }\n  }\n>>\n"
+    },
+    "debbie-roxburgh": {
+      "name": "Debbie Roxburgh",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "48-bar reel",
+      "short-kind": "R48",
+      "date": "2023-07",
+      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\partial 4 e4 |\n    \\repeat volta 2 {\n      a4. e8 cis4 a |\n      d8 e fis gis a2 |\n      a4 gis8 fis e4 d8 cis |\n    } \\alternative { {\n      d4. b8 g4 b |\n    } {\n      d4 b a8 b cis d |\n    } } \\break\n\n    \\repeat volta 2 {\n      e4 d8 cis e4 d8 cis |\n      e4 d8 cis e4 d8 cis |\n      d4 b8 g d'4 b8 g |\n      d'4 b8 g d'4 b8 d |\n      \\break\n\n      e4 d8 cis e4 d8 cis |\n      e4 d8 cis e4 d8 cis |\n      d4 b g b |\n    } \\alternative { {\n      a2 a8 b cis d |\n    } {\n      a2 d8 e fis gis |\n    } } \\break\n\n    \\repeat volta 2 {\n      a4 a e e |\n      cis4 cis a a' |\n      g4 g d d |\n      b4 b g g' |\n      \\break\n\n      a4 a e e |\n      cis4 cis a a' |\n      g8 fis e d cis4 b |\n      a2 d8 e fis gis |\n    } \\break\n\n    \\repeat volta 2 {\n      a4. e8 cis4 a |\n      d8 e fis gis a2 |\n      a4 gis8 fis e4 d8 cis |\n    } \\alternative { {\n      d4. b8 g4 b |\n    } {\n      d4 b a2 |\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a1 | d2 a | a1 | g | g2\n\n      e2:7 |\n      a1 | s | g | s |\n      a1 | s | g | a2 e:7 | a e:7 |\n\n      a1 | s | g | s |\n      a1 | s | g | a2 e:7 |\n\n      a1 | d2 a | a1 | g | g2 a |\n    }\n  }\n>>\n",
+      "composer-details": "I wrote this tune during the RSCDS Summer School 2023. I was playing for\nDebbie Roxburgh and wanted a tune to match her specific 48-bars warm-up, and\nhere it is!\n"
+    },
+    "donaldson-s-rant": {
+      "name": "Donaldson's Rant",
+      "author": "Saskia Frisby",
+      "date": "2019",
+      "kind": "40-bar jig",
+      "short-kind": "J40",
+      "dances": [
+        {
+          "type": "external",
+          "name": "The Gruffalo",
+          "deviser": "Luisa Hulsroj",
+          "scddb-id": 19124
+        }
+      ],
+      "content": "<<\n  \\relative c'' {\n    \\clef treble\n    \\key c \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 g8 |\n      c,4 e8 g4 c,8 |\n      f g a g4 c8 |\n      g e c a' g f |\n      e d c d4. |\n      \\break\n\n      e4 a8 g4 c8 |\n      e d c b4. |\n      c8 b a g a g |\n      f e d c4\n    } \\break\n\n    \\repeat volta 2 {\n      a'8 |\n      g b d e c a |\n      g b d g e c |\n      f d b e c a |\n      b c a g4 g8 |\n      \\break\n\n      c,4 g'8 f4 a8 |\n      g4 b8 c4 e8 |\n      c a d b g c |\n      c d b c4.\n    } \\break\n\n    g8 a b c4. |\n    f,8 e d c4. |\n    c'8 b e g,4. |\n    f8 e g d4 g8 |\n    \\break\n\n    c,4 e8 g4 c,8 |\n    f g a g4 e'8 |\n    g,4 c8 e,4 g8 |\n    f e d c4\n    \\bar \"|.\"\n  }\n\n  \\chords {\n    s8 |\n    c2. | f4. c | c f | c g |\n    a4.:m c | c g | c g | g c4\n\n    s8 |\n    g4. c | g c | b:dim c | g g |\n    c4. f | g c | f g | c4 g8 c4. |\n\n    g4. c | f c | c g | f g |\n    c2. | f4. c | g c | g c4\n  }\n>>\n"
+    },
+    "eclaircie": {
+      "name": "Éclaircie",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2019-06-07",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key g \\minor\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        g8. bes16 d,8. g16 f8. a16 c8. f,16 |\n        ees8. g16 bes8. ees16 d4 d |\n        g,8. bes16 d8. bes16 c16 bes a g f4 |\n      } \\alternative { {\n        ees8. g16 f16 ees8. d4 d |\n      } {\n        ees8. g16 fis16 d8. g4 g8 a |\n      } } \\bar \"||\" \\break\n\n      bes8. d16 f8. d16 c16 d ees f g4 |\n      f16 g8. a4 f16 g8. a4 |\n      bes8. g16 d g8. a8. f16 c f8. |\n      fis8. d16 a d8. ees8 d c4 |\n      \\break\n\n      bes8. d16 f8. d16 c16 d ees f g4 |\n      f16 g8. a4 f16 g8. a4 |\n      bes8. g16 d g8. ees8. c16 g c8. |\n      a8. fis16 d fis8. g8 g, g4 |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      g2:m f | ees d:7 | g:m f | ees4 f d2:7 | ees4 d:7/fis g2:m |\n      bes2 c:m | f/c d:m | g2:m f | d1:7 |\n      bes2 c:m | f/c d:m | g2:m c:m | d:7 g:m |\n    }\n  }\n>>\n"
+    },
+    "emmy-s-wedding-40bars": {
+      "name": "Emmy's Wedding (40-bar Version)",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "40-bar reel",
+      "short-kind": "R40",
+      "date": "2022-05-23",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "emmy-s-wedding"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key f \\major\n\n    \\partial 2 f8 g a bes |\n    \\repeat volta 2 {\n      c4 a8 f bes4 g8 e |\n      f8 e f a c,4 c |\n      bes'8 a bes d g, a bes d |\n      c8 b c e g,4 a8 bes |\n      \\break\n\n      c4 a8 f bes4 g8 e |\n      f8 e f a c,4 c |\n      bes'8 a bes d c b c e |\n      f,4 f f8 c' d e |\n      \\break \\bar \"||\"\n\n      f8 c a' c, g' c, e c |\n      d8 a f' a, e' a, c a |\n      bes8 d c bes a g f e |\n      e8 f g e bes'4 a8 g |\n      \\break\n\n      f'8 c a' c, g' c, e c |\n      d8 a f' a, e' a, c a |\n      bes8 d c bes a g f e |\n    } \\alternative { {\n      f4 f f8 g a bes |\n    } {\n      f4 f f8 c' d e |\n    } }\n    \\bar \"||\" \\break\n\n    f8 c a' c, g' c, e c |\n    d8 a f' a, e' a, c a |\n    bes8 d c bes a g f e |\n    e8 f g e bes'4 a8 g |\n    \\break\n\n    f'8 c a' c, g' c, e c |\n    d8 a f' a, e' a, c a |\n    bes8 d c bes a g f e |\n    f4 f f\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s2 |\n      f2 c:7 | f1 | bes2 g:m | c c:7 |\n      f2 c:7 | f1 | bes2 c:7 | f c:7 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f c:7 | f c:7 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f f4\n    }\n  }\n>>\n",
+      "composer-details": "I initially wrote “Matt's Wedding” as a wedding march-like strathspey for both\nEmmy and Matt, and “Emmy's Wedding” as the companion reel for their medley\ndance. At that point, the tunes were both named “Emmy and Matt's Wedding”.\nEmmy and Matt later decided to refer to the strathspey and reel parts of the\nmedley as standalone dances and that is how the tunes got their independant\nnames.\n"
+    },
+    "emmy-s-wedding": {
+      "name": "Emmy's Wedding",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2022-05-23",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "emmy-and-matt-s-wedding"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key f \\major\n\n    \\partial 2 f8 g a bes |\n    \\repeat volta 2 {\n      c4 a8 f bes4 g8 e |\n      f8 e f a c,4 c |\n      bes'8 a bes d g, a bes d |\n      c8 b c e g,4 a8 bes |\n      \\break\n\n      c4 a8 f bes4 g8 e |\n      f8 e f a c,4 c |\n      bes'8 a bes d c b c e |\n      f,4 f f8 c' d e |\n      \\break \\bar \"||\"\n\n      f8 c a' c, g' c, e c |\n      d8 a f' a, e' a, c a |\n      bes8 d c bes a g f e |\n      e8 f g e bes'4 a8 g |\n      \\break\n\n      f'8 c a' c, g' c, e c |\n      d8 a f' a, e' a, c a |\n      bes8 d c bes a g f e |\n    } \\alternative { {\n      f4 f f8 g a bes |\n    } {\n      f4 f f\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s2 |\n      f2 c:7 | f1 | bes2 g:m | c c:7 |\n      f2 c:7 | f1 | bes2 c:7 | f c:7 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f c:7 | f f4\n    }\n  }\n>>\n",
+      "composer-details": "I initially wrote “Matt's Wedding” as a wedding march-like strathspey for both\nEmmy and Matt, and “Emmy's Wedding” as the companion reel for their medley\ndance. At that point, the tunes were both named “Emmy and Matt's Wedding”.\nEmmy and Matt later decided to refer to the strathspey and reel parts of the\nmedley as standalone dances and that is how the tunes got their independant\nnames.\n"
+    },
+    "en-marchant-pour-aller-photocopier-des-trucs": {
+      "name": "En marchant pour aller photocopier des trucs",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2019-08",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "on-the-way-to-the-printing-shop"
+        }
+      ],
+      "composer-details": "I wrote this tune during Summer School 2019. It was an assignment given by Ian\nMuir as part of the course for class musicians. The week was very busy and the\nonly time I found to compose the tune while I was on my way to the centre of\nSt. Andrews to go print music sets.\n",
+      "content": "\\transpose a, d {\n  \\relative g' <<\n    {\n      \\clef treble\n      \\key a \\major\n      \\time 6/8\n\n      \\repeat volta 2 {\n        \\partial 8 b8 |\n        cis8 a a a a gis |\n        fis d d d d cis |\n        b d fis gis fis e |\n        e fis gis a b cis |\n        \\break\n\n        cis a a a a gis |\n        fis d d d d cis |\n        b d fis e gis b |\n        a4. a4\n      } \\break\n\n      gis8 |\n      fis cis cis cis b cis |\n      fis d d d cis d |\n      e b b b a b |\n      cis d e fis gis a |\n      \\break\n\n      fis cis cis cis b cis |\n      fis d d d cis d |\n      e b b b a gis |\n      fis4. fis4 fis8 |\n      \\bar \"||\" \\break\n\n      fis' cis cis cis b cis |\n      fis d d d cis d |\n      e b b b a b |\n      cis d e fis4 d'8 |\n      \\break\n\n      cis a a a a gis fis d d d d cis |\n      b d fis e gis b |\n      a4. a4\n      \\bar \"|.\"\n    }\n\n    \\new ChordNames {\n      \\chordmode {\n        s8 |\n        a2. | d | b:m | e:7 |\n        a2. | d | b4.:m e:7 | a2. |\n\n        fis2.:m/cis | d | e | cis4.:m fis:m |\n        fis2.:m/cis | d | e | fis:m |\n\n        fis2.:m/cis | d | e | cis4.:m d/fis |\n        a2. | d | b4.:m e:7 | a4. s4\n      }\n    }\n  >>\n}\n"
+    },
+    "ewan-galloway-s-jig": {
+      "name": "Ewan Galloway's Jig",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2019",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key g \\minor\n\n    \\partial 8 a8 |\n    g8 d a' bes d, c' |\n    d8 ees d d c bes |\n    bes8 c d d c bes |\n    bes8 a g a4 g8 |\n    \\break\n\n    fis8 d fis a fis a |\n    c d c c bes a |\n    a bes c c d ees |\n    ees d c d4\n    \\bar \"||\" \\break\n\n    a8 |\n    g8 d a' bes d, c' |\n    d8 ees d d c bes |\n    bes8 c d d ees f |\n    aes8 g f g4 f8 |\n    \\break\n\n    ees8 f g g f ees |\n    ees8 d c d c bes |\n    a8 bes c fis,8 d fis |\n    g4. g4\n    \\bar \"||\" \\break\n\n    c8 |\n    d8 g, d' ees d c |\n    d8 g, d' ees d c |\n    bes8 c d bes c d |\n    d8 c bes a4 bes8 |\n    \\break\n\n    c8 d, c' d d, c' |\n    c8 d, c' d d, c' |\n    a8 bes c c d ees |\n    ees d c d4\n    \\bar \"||\" \\break\n\n    c8 |\n    c8 d, c' d d, c' |\n    c8 d, c' d d, c' |\n    a8 bes c d ees f |\n    aes8 g f g4 f8 |\n    \\break\n\n    ees8 f g g f ees |\n    ees8 d c d c bes |\n    a8 bes c fis,8 d fis |\n    g4. g4\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      g4.:m g:m/bes | g2.:m | g:m | a4.:7 d:7 |\n      d2. | d:7 | d | g4.:m s4\n\n      s8 |\n      g4.:m g:m/bes | g2.:m | g4.:m g:7 | c:m c:m/ees |\n      c4.:m c:m6/a | g2.:m | c4.:m6/a d | g:m s4\n\n      s8 |\n      g2.:m | s | g:m | c4.:m6 d:7 |\n      d2.:7 | s | d4. d/fis | g:m s4\n\n      s8 |\n      g2.:m | s | g4.:m g:7 | c:m c:m/ees |\n      c4.:m c:m6/a | g2.:m | c4.:m6/a d | g:m s4\n    }\n  }\n>>\n"
+    },
+    "flying-across-the-river": {
+      "name": "Flying Across the River",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2019-11-10",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key e \\minor\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 fis8 |\n      g fis e b4 b8 |\n      c d e fis4 fis8 |\n      g fis e b' g d |\n      c d e fis4 fis8 |\n      \\break\n\n      g fis e b4 b8 |\n      c d e fis4 fis8 |\n      g fis e d e fis |\n      e4. e4\n    } \\break\n\n    \\repeat volta 2 {\n      d8 |\n      d g b c b a |\n      g fis e d4 fis8 |\n      e g b e d c |\n      b a g fis4 fis8 |\n      \\break\n\n      g fis e fis e d |\n      e fis g d4 d8 |\n      e fis g fis e d |\n      e4. e4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      e2.:m | c4. d | e:m g/d | c b:7 |\n      e2.:m | c4. d | e:m d | e2.:m |\n\n      g4. a:m | c d | e:m a:m/e | e:m b:7/dis |\n      e4.:m d | c g/b | c d | e:m s4\n    }\n  }\n>>\n"
+    },
+    "forty-bars-of-clouds": {
+      "name": "Forty Bars of Clouds",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14008,
+      "kind": "40-bar reel",
+      "short-kind": "R40",
+      "date": "2018-04-25",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "two-blue-clouds-in-the-grey-sky"
+        },
+        {
+          "type": "internal",
+          "slug": "one-blue-cloud-in-the-grey-sky"
+        }
+      ],
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key c \\major\n    \\time 4/4\n\n    c'4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    d4 d8 e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    f'4 d8 f e4 c8 e |\n    d4 b8 d c4 c |\n    \\bar \"||\" \\break\n\n    c8 b c d e g,4 g8 |\n    c b c d e d c b |\n    d cis d e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c b c d e g,4 g8 |\n    c b c d e d c b |\n    f'8 d a f' e c g e' |\n    d b g d' c4 c |\n    \\bar \"||\" \\break\n\n    a'8 gis a b c e,4 e8 |\n    a gis a b c b a g |\n    g fis g a b d,4 d8 |\n    g fis g a b a g f |\n    \\break\n\n    f e f g a c,4 c8 |\n    f e f g a g f e |\n    gis e gis a b e,4 e8 |\n    gis e gis a b a gis e |\n    \\bar \"||\" \\break\n\n    a8 gis a b c e,4 e8 |\n    a gis a b c b a g |\n    g fis g a b d,4 d8 |\n    g fis g a b a g f |\n    \\break\n\n    f e f g a c,4 c8 |\n    f e f g a g f e |\n    \\tuplet 3/4 { b4 c8 } \\tuplet 3/4 { d4 c8 } |\n    \\tuplet 3/4 { b4 c8 } b2 |\n    \\bar \"||\" \\break\n\n    c4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    d cis d e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c b c d e g,4 g8 |\n    c b c d e d c b |\n    f' d a f' e c g e' |\n    d b g d' c4 c |\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n      a1:m | s | g | s | f | s | e | s |\n      a1:m | s | g | s | f | s | e | s |\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n    }\n  }\n>>\n"
+    },
+    "gillian-stevenson-s-reel": {
+      "name": "Gillian Stevenson's Reel",
+      "author": "Mikael Georgii",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2018",
+      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\partial 4 e8 d |\n    \\repeat volta 2 {\n      cis8 e a e fis d b a |\n      gis8 b e, gis a e cis e |\n      d8 fis a d, cis e a cis, |\n      b8 dis fis a gis e fis gis |\n      \\break\n\n      a8 cis e a fis d b a |\n      \\tuplet 3/2 { gis8 a b } e,8 gis a e cis e |\n      d8 fis a fis e a cis e |\n    } \\alternative { {\n      d8 b gis b a4 cis8 b |\n    } {\n      d8 b gis b a4\n    } } \\break\n\n    \\repeat volta 2 {\n      gis4 |\n      fis8 a d fis e cis a fis' |\n      e8 d gis, fis' e cis a gis |\n      fis8 a d fis e cis a cis |\n      b8 dis fis a gis e fis gis |\n      \\break\n\n      a8 e cis e fis d b a |\n      \\tuplet 3/2 { gis8 a b } e,8 gis a e cis e |\n      d8 fis a fis e gis b d |\n      \\tuplet 3/2 { cis8 d e } e,8 gis a4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a2 d | e a | d a/cis | b e |\n      a2 d | e a | d a/cis | e a | e a4\n\n      s4 |\n      d2 a/cis | e:7/b a | d a | b e |\n      a2 d | e a | d e | a4 e:7 a\n    }\n  }\n>>\n"
+    },
+    "humming-in-the-office": {
+      "name": "Humming in the Office",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2020-09-08",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\key d \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 g8 |\n      fis8 a a e a a |\n      fis8 a a b cis d |\n      fis,8 a a e a a |\n      a fis d e4\n      \\bar \"|\" \\break\n\n      g8 |\n      fis8 a a e a a |\n      fis8 a a b cis d |\n      d8 fis d e cis a |\n      b4. d4\n    } \\break\n\n    \\repeat volta 2 {\n      b8 |\n      d8 a a cis a a |\n      b8 g b a4 a8 |\n      b8 g b a g fis |\n      fis4. e4\n      \\bar \"|\" \\break\n\n      b'8 |\n      d8 a a cis a a |\n      b8 g b a4 a8 |\n      b8 g b a b cis |\n    } \\alternative { {\n      b4. d4 s8 |\n    } {\n      d8 a fis d4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      \\parenthesize g8 |\n      d4. a | d g | d a | d:7 a4:7 g8 |\n      d4. a | d g | d a | g d4\n\n      g8 |\n      d4. a | g a | g d | d:7 a4:7 g8 |\n      d4. a | g a | g a | g d | d2\n    }\n  }\n>>\n"
+    },
+    "la-ville-lumiere": {
+      "name": "La Ville Lumière",
+      "author": "Pascaline Latour",
+      "scddb-id": 14533,
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2020",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "la-ville-lumiere"
+        }
+      ],
+      "content": "\\relative a' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 2 {\n      \\partial 4 a4 |\n      d8 a a a e' a, fis' a, |\n      g' b, b b a' b, g' b, |\n      fis' a, a a d a fis' a, |\n      e' a, a a cis d e cis |\n      \\break\n\n      d8 a a a e' a, fis' a, |\n      g' b, b b a' b, g' b, |\n      fis' a, d a e' b cis a |\n    } \\alternative { {\n      \\set Timing.measureLength = #(ly:make-moment 3/4)\n      d a fis' a, d4 |\n    } {\n      \\set Timing.measureLength = #(ly:make-moment 4/4)\n      d8 a b cis d e fis g |\n    } } \\break\n\n    \\repeat volta 2 {\n      fis d d d a d d d |\n      fis d d d b d d d |\n      g d d d b d g b |\n      a a, b cis d e fis g |\n      \\break\n\n      fis d d d a d d d |\n      fis d d d b d d d |\n      g e fis d e cis d b |\n    } \\alternative { {\n      cis a b cis d e fis g |\n    } {\n      cis, a b cis d4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d1 | g | d | a |\n      d1 | g | d2 e4:m a | d2. | d1 |\n\n      d1 | b:m | g | a:7 |\n      d1 | b:m | e4:m d \\move-left 1 a/cis g/b | a1:7 | a2:7 d4\n    }\n  }\n>>\n"
+    },
+    "love-is-in-the-air-48-bars": {
+      "name": "Love is in the Air",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14458,
+      "kind": "48-bar reel",
+      "short-kind": "R48",
+      "date": "2020-02-03",
+      "dances": [
+        {
+          "type": "external",
+          "name": "Love is in the Air",
+          "deviser": "Violaine Eysseric",
+          "scddb-id": 18383
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 3 {\n      \\partial 4 a4 |\n      d,4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d cis b a g fis e |\n      \\break\n\n      d4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d e fis d4\n      \\bar \"||\" \\break\n\n      d8 e |\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis d cis b a |\n      a b cis d e fis g a |\n      \\break\n\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis a b cis e |\n      fis4 d d\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d2 g | a d | b:m e:m | a2 a:7 |\n      d2 g | a d | b:m e:m | a2:7 d4\n\n      s4 |\n      d2 e:m | b1:m | g | a2 a:7 |\n      d2 e:m | b1:m | g2 a:7 | d2.\n    }\n  }\n>>\n"
+    },
+    "love-is-in-the-air": {
+      "name": "Love is in the Air (32-bar Version)",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14458,
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2020-02-03",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 2 {\n      \\partial 4 a4 |\n      d,4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d cis b a g fis e |\n      \\break\n\n      d4 fis8 a b4 a |\n      b8 a b cis d4 d8 cis |\n      b4 d8 fis b a g fis |\n      e d e fis d4\n    } \\break\n\n    \\repeat volta 2 {\n      d8 e |\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis d cis b a |\n      a b cis d e fis g a |\n      \\break\n\n      fis4 a8 fis g fis e g |\n      fis d b cis d cis b a |\n      g a b cis a b cis e |\n      fis4 d d\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d2 g | a d | b:m e:m | a2 a:7 |\n      d2 g | a d | b:m e:m | a2:7 d |\n\n      d2 e:m | b1:m | g | a2 a:7 |\n      d2 e:m | b1:m | g2 a:7 | d2.\n    }\n  }\n>>\n",
+      "composer-details": "This is how I initially composed as an AABB 32-bar reel, before I presented it\nto Violaine Eysseric who liked it and asked to use it for her dance “Love is\nin the Air”. For her dance, I play this tune as ABABAB for 48 bars.\n"
+    },
+    "marie-my-distant-cousin": {
+      "name": "Marie, my distant cousin",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2022",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key e \\minor\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 b8 |\n      e8 d b g a b |\n      b,8 e e e fis g |\n      fis8 d d a' d, d |\n      b'8 a g fis g a |\n      \\break\n\n      b8 e, e g a b |\n      c8 a a a b c |\n      b8 c b b a fis |\n      g8 e e e4\n    } \\break\n\n    \\repeat volta 2 {\n      fis8 |\n      g8 a b d cis b |\n      d8 a a fis g a |\n      e8 fis g a g e |\n      fis8 a a a bes c |\n      \\break\n\n      g8 a bes d cis bes |\n      d8 a a fis g a |\n    } \\alternative { {\n      g8 a bes a g e |\n      f8 d d d4 s8 |\n    } {\n      g8 a bes a b cis |\n      d4. ~ d4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      e2.:m | e4.:m a:7 | d2. | d4. b/dis |\n      e2.:m | a:m | b4. b/dis | e:m s4\n\n      s8 |\n      g4. gis:dim | d2. | e4. a:7/cis | d d/fis |\n      g4.:m f:dim/gis | d/fis b | g:m a:7 | d2.:m | g4.:m a:7 | d s4\n    }\n  }\n>>\n"
+    },
+    "marion-turnock-s-strathspey": {
+      "name": "Marion Turnock's Strathspey",
+      "author": "Mikael Georgii",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2017",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\partial 4 e4 |\n      a4. cis8 b a gis fis |\n      e8 cis4 d8 e2 |\n      fis4. a8 fis e d cis |\n      cis8 b a cis b e fis gis |\n      \\break\n\n      a4. cis8 b a gis fis |\n      e8 cis4 d8 e g fis e |\n      d8 b4 fis'8 e fis gis e |\n      a2.\n    } \\break\n\n    \\repeat volta 2 {\n      e4 |\n      fis4. a8 gis fis e d |\n      cis8 a4 b8 cis4 d8 e |\n      d4. fis8 e a cis a |\n      b8 fis gis a b4 e, |\n      \\break\n\n      a4. cis8 b a gis fis |\n      e8 cis4 d8 e4 fis8 g |\n      fis8 d e fis gis a b gis |\n      a2.\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a2 d | a a:7/cis | d a/cis | b:7 e |\n      a2 d | a4. g8:7 fis2:7 | b:m7 e | a2.\n\n      s4 |\n      d2 e | a a:7/cis | d a:7/cis | b/dis e |\n      a2 d | a4. b8:m a2:7/cis | d2 e | a2.\n    }\n  }\n>>\n"
+    },
+    "matt-s-wedding-40bars": {
+      "name": "Matt's Wedding (40-bar Version)",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "40-bar strathspey",
+      "short-kind": "S40",
+      "date": "2022-03-23",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "matt-s-wedding"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key f \\major\n\n    \\repeat volta 2 {\n      \\partial 4 f4 |\n      c4 f8. c16 a'8. c,16 bes' c,8. |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g } |\n      f8( f') e d c bes a g |\n      g8. a16 g a8. g4 ~ g16 f e d |\n      \\break\n\n      c4 f8. c16 a'8. c,16 bes' c,8. |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g } |\n      f8( f') e d c bes a g |\n      g8. a16 g a8. f2 |\n      \\break \\bar \"||\"\n\n      f8 f' <a a,>4 <g g,> <e e,> |\n      <d d,>4 <f f,> <e e,> <c c,> |\n      <bes bes,>8 d c bes a g f e |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g }\n      \\break\n\n      f8 f' <a a,>4 <g g,> <e e,> |\n      <d d,>4 <f f,> <e e,> <c c,> |\n      <bes bes,>8 d c bes a g f e |\n    } \\alternative { {\n      \\set Timing.measureLength = #(ly:make-moment 3/4)\n      f4 f f |\n    } {\n      \\set Timing.measureLength = #(ly:make-moment 4/4)\n      f4 f f2 |\n    } } \\bar \"||\" \\break\n\n    f8 f' <a a,>4 <g g,> <e e,> |\n    <d d,>4 <f f,> <e e,> <c c,> |\n    <bes bes,>8 d c bes a g f e |\n    e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g }\n    \\break\n\n    f8 f' <a a,>4 <g g,> <e e,> |\n    <d d,>4 <f f,> <e e,> <c c,> |\n    <bes bes,>8 d c bes a g f e |\n    f4 f f\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      f1 | c2 c:7 | f1 | c2 c:7 |\n      f1 | c2 c:7 | f1 | c2:7 f2 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f2. | f1 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f2.\n    }\n  }\n>>\n",
+      "composer-details": "I initially wrote “Matt's Wedding” as a wedding march-like strathspey for both\nEmmy and Matt, and “Emmy's Wedding” as the companion reel for their medley\ndance. At that point, the tunes were both named “Emmy and Matt's Wedding”.\nEmmy and Matt later decided to refer to the strathspey and reel parts of the\nmedley as standalone dances and that is how the tunes got their independant\nnames.\n"
+    },
+    "matt-s-wedding": {
+      "name": "Matt's Wedding",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2022-03-23",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "emmy-and-matt-s-wedding"
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key f \\major\n\n    \\repeat volta 2 {\n      \\partial 4 f4 |\n      c4 f8. c16 a'8. c,16 bes' c,8. |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g } |\n      f8( f') e d c bes a g |\n      g8. a16 g a8. g4 ~ g16 f e d |\n      \\break\n\n      c4 f8. c16 a'8. c,16 bes' c,8. |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g } |\n      f8( f') e d c bes a g |\n      g8. a16 g a8. f2 |\n      \\break \\bar \"||\"\n\n      f8 f' <a a,>4 <g g,> <e e,> |\n      <d d,>4 <f f,> <e e,> <c c,> |\n      <bes bes,>8 d c bes a g f e |\n      e8. f16 g e8. bes'4 ~ \\tuplet 3/2 { bes8 a g }\n      \\break\n\n      f8 f' <a a,>4 <g g,> <e e,> |\n      <d d,>4 <f f,> <e e,> <c c,> |\n      <bes bes,>8 d c bes a g f e |\n      f4 f f\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      f1 | c2 c:7 | f1 | c2 c:7 |\n      f1 | c2 c:7 | f1 | c2:7 f2 |\n\n      f2 c:7 | d:m a:m | g:m f | e:dim c:7 |\n      f2 c:7 | d:m a:m | bes c:7 | f2.\n    }\n  }\n>>\n",
+      "composer-details": "I initially wrote “Matt's Wedding” as a wedding march-like strathspey for both\nEmmy and Matt, and “Emmy's Wedding” as the companion reel for their medley\ndance. At that point, the tunes were both named “Emmy and Matt's Wedding”.\nEmmy and Matt later decided to refer to the strathspey and reel parts of the\nmedley as standalone dances and that is how the tunes got their independant\nnames.\n"
+    },
+    "mikael-georgii-s-compliments-to-bill-ewan": {
+      "name": "Mikael Georgii's Compliments to Bill Ewan",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2019",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key d \\minor\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 a8 |\n      d8 a' g f e d |\n      cis8 d e bes a g |\n      f8 e d f e d |\n      cis8 e a a bes cis |\n      \\break\n\n      d8 a' g f e d |\n      cis8 d e bes a g |\n      f8 e d e d cis |\n      d8 f e d4\n    } \\break\n\n    \\repeat volta 2 {\n      e8 |\n      f8 a d f e d |\n      e8 d bes g4 f8 |\n      e8 g bes e d c |\n      d8 c a f4 e8 |\n      \\break\n\n      d8 g bes d e f |\n      a8 f e d4 bes8 |\n      a8 g f e d cis |\n      d8 f e d4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      d2.:m | a4.:7/e cis:dim | d:m gis:dim | a2. |\n      d2.:m | a4.:7/e cis:dim | d:m a:7 | d:m s4\n\n      s8 |\n      d2.:m | g4.:m6 g:m/bes | c:7 c:7/e | f2. |\n      g4.:m g:m/bes | d2.:m | a4.:7 a:7/cis | d:m s4\n    }\n  }\n>>\n"
+    },
+    "miss-vg-s-strathspey": {
+      "name": "Miss V.G.'s Strathspey",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2020-06-30",
+      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      cis16 e8. e cis16 b8. a16 fis a8. |\n      e8. gis16 a b8. cis4 cis |\n      cis16 e8. e cis16 fis8. e16 d cis8. |\n      b16 e,8. e gis16 a8 b cis d |\n      \\break\n\n      cis16 e8. e cis16 b8. a16 fis a8. |\n      e8. gis16 a b8. cis4 \\tuplet 3/2 { cis8 d cis } |\n      b16 fis'8. fis e16 \\tuplet 3/2 { d8 e d } cis8. b16 |\n      cis16 e,8. e16 fis8. a4 a8 gis |\n      \\bar \"||\" \\break\n\n      fis16 a8. a b16 cis b a gis fis8 e |\n      fis16 a8. a b16 cis4 cis |\n      e,16 gis8. gis a16 b a gis fis e8 d |\n      e16 gis8. gis a16 \\tuplet 3/2 { b4 a gis } |\n      \\break\n\n      fis16 a8. a b16 cis b a gis fis8 e |\n      fis16 a8. a b16 cis4 \\tuplet 3/2 { cis8 d cis } |\n      b16 fis'8. fis e16 \\tuplet 3/2 { d8 e d } cis8. b16 |\n      cis16 e,8. e16 fis8. a4 a |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      a2 e4:7/gis d/fis | e2:7 a | a d | e e:7 |\n      a2 e4:7/gis d/fis | e2:7 a | b:m d | e4:7 d a \\parenthesize a/gis |\n\n      fis1:m | s | e:7 | s |\n      fis1:m | s | b2:m d | e4:7 d a2 |\n    }\n  }\n>>\n"
+    },
+    "muriel-johnstone-s-last-summer-school": {
+      "name": "Muriel Johnstone's Last Summer School",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2023-07",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\partial 4 a8 b |\n      cis4 b16 a8. cis4 b16 a8. |\n      b8. cis16 b a8. fis4 \\tuplet 3/2 { e8 fis gis } |\n      a8. b16 cis fis8. e cis16 b a8. |\n      cis4 b b a8 b |\n      \\break\n\n      cis4 b16 a8. cis4 b16 a8. |\n      b8. cis16 b a8. fis4 \\tuplet 3/2 { e8 fis gis } |\n      a8. b16 cis fis8. e cis16 b a8. |\n      cis4 b a\n      \\bar \"||\" \\break\n\n      a8 b |\n      cis16 e8. e4 a8. gis16 fis e8. |\n      fis4. e8 cis4 cis8 d |\n      e4 e cis'8. b16 a gis8. |\n      a4 gis8 a fis4 \\tuplet 3/2 { e8 fis gis } |\n      \\break\n\n      a8. gis16 fis e8. fis8. d16 a fis'8. |\n      e8. cis16 b gis8. fis4. gis8 |\n      a8. b16 cis fis8. e cis16 b a8. |\n      cis4 b a\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a2 fis:m7 | e d4 e:7 | a2 e/b | a/cis e:7 |\n      a2 fis:m7 | e d4 e:7 | a2 e/b | a4/cis e:7 a\n\n      s4 |\n      cis2:m a | d a | cis:m a | d e4 e:7 |\n      a2 d | cis:m d | a e/b | a4/cis e:7 a\n    }\n  }\n>>\n"
+    },
+    "my-clarinet-is-back": {
+      "name": "My Clarinet is Back!",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2022-10",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key b \\minor\n\n    \\repeat volta 2 {\n      \\partial 4 r8 fis |\n      b4 fis8 b4 fis8 |\n      d'8 cis b cis b a |\n      b4 fis8 b4 fis8 |\n      d'8 cis b cis4 fis,8 |\n      \\break\n\n      b4 fis8 b4 fis8 |\n      d'8 cis b cis b a |\n      g8 fis e fis4 cis'8 |\n      b4. b8\n    } \\break\n\n    \\repeat volta 2 {\n      d8 e |\n      fis4 d8 d cis d |\n      fis4 d8 d cis d |\n      g8 fis e fis e d |\n      cis4. cis8 d e |\n      \\break\n\n      fis4 d8 d cis d |\n      fis4 d8 d cis d |\n      cis8 b a fis4 cis'8 |\n      b4. b8\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      b2.:m | b4.:m a | b2.:m | b4.:m a |\n      b2.:m | b4.:m a | g fis:7 | b2.:m |\n\n      d2. | d2. | g4. d | a2.:7 |\n      d2. | d2. | a4. fis:7 | b4.:m\n    }\n  }\n>>\n"
+    },
+    "niols-s-farewell-to-the-east-fjords": {
+      "name": "Niols's Farewell to the East Fjords",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar Strathspey",
+      "short-kind": "S32",
+      "date": "2023-05-21",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n\n    \\key f \\major\n\n    \\partial 4 c4 |\n    c'4 a bes c8 d |\n    c4. a8 f2 |\n    g4 bes8 g e4 d8 e |\n    c2. c4 |\n    \\break\n\n    c'4 a bes c8 d |\n    c4. a8 f4 \\tuplet 3/2 { e8 f e } |\n    d4 bes' g e8 a |\n    f2.\n    \\bar \"||\" \\break\n\n    c4 |\n    c'4 a bes c8 d |\n    c4. a8 f2 |\n    d4 g8 c bes4 a |\n    g2. c,4 |\n    \\break\n\n    c'4 a bes c8 d |\n    c4. a8 f4 e |\n    d4 bes'8 g c,4 e |\n    f2.\n    \\bar \"||\" \\break\n\n    \\key f \\minor\n\n    c4 |\n    aes'4. f8 bes8. aes16 g8 f |\n    aes4 f c c |\n    aes'4 g8 aes bes4 \\tuplet 3/2 { g8 aes bes } |\n    c4 bes8 aes g4 c, |\n    \\break\n\n    aes'4. f8 bes8. aes16 g8 f |\n    aes4 f c2 |\n    e4 f8 g aes8. f16 c8 aes' |\n    g8. e16 c8 g' f4\n    \\bar \"||\" \\break\n\n    \\key f \\major\n\n    c4 |\n    c'4 a bes c8 d |\n    c4. a8 f2 |\n    g4 bes8 g e4 d8 e |\n    c2. c4 |\n    \\break\n\n    c'4 a bes c8 d |\n    c4. a8 f4 \\tuplet 3/2 { e8 f e } |\n    d4 bes' g e8 a |\n    f2.\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      f2 g:m | f1 | g2:m c:7 | f/c c:7 |\n      f2 g:m | f1 | g2:m c:7 | bes/f f4\n\n      s4 |\n      f2 g:m | f1 | g2:m bes | g:m c:7 |\n      f2 g:m | f1 | g2:m c:7 | bes/f f4\n\n      s4 |\n      f2:m g:m | f1:m | f2:m g:m | c1:7 |\n      f2:m g:m | f1:m | c2 f:m/c | c:7 f4:m\n\n      s4 |\n      f2 g:m | f1 | g2:m c:7 | f/c c:7 |\n      f2 g:m | f1 | g2:m c:7 | bes/f f4\n    }\n  }\n>>\n"
+    },
+    "out-of-tune": {
+      "name": "Out of Tune",
+      "author": "Aymeric Fromherz",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2022-11",
+      "dances": [
+        {
+          "type": "external",
+          "name": "Une Mazurka sous les Etoiles",
+          "deviser": "Violaine Eyseeric",
+          "scddb-id": 20893
+        }
+      ],
+      "content": "\\relative g'' <<\n  {\n    \\clef treble\n    \\key g \\minor\n    \\time 4/4\n\n    \\partial 4 fis4 |\n    \\repeat volta 2 {\n      g2 d16 g8. bes,8. g'16 |\n      c,8. bes16 a16 g8. fis8. a16 c16 ees8. |\n      ees16 c8. c ees16 d bes8. bes d16 |\n      c16 a8. a c16 bes8. a16 g fis'8. |\n      \\break\n\n      g2 d16 g8. bes,8. g'16 |\n      c,8. bes16 a16 g8. fis8. a16 c16 ees8. |\n      d16 bes8. bes d16 c a8. a c16 |\n      d8. c16 bes8. a16 g4 g4 |\n      \\bar \"||\" \\break\n\n      d16 g8. bes, g'16 d8. g16 a8 bes |\n      c8. bes16 a g8. fis16 a8. d4 |\n      c8. g16 ees c'8. bes8. g16 d8. bes'16 |\n      a16 ees'8. d8. bes16 g4 bes4 |\n      \\break\n\n      d,16 g8. bes, g'16 d8. g16 a8 bes |\n      c8. bes16 a g8. fis16 a8. d4 |\n      c8. g16 ees c'8. bes8. g16 d8. d'16 |\n    } \\alternative { {\n      c8. bes16 a bes8. g4 fis'4\n    } {\n      c8. bes16 a bes8. g4 g4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      g1:m | c2:m d | c:m bes | a:m g:m |\n      g1:m | c2:m d | bes a:m | d g:m |\n      g1:m | c2:m d | c:m g:m | c4:m d g2:m |\n      g1:m | c2:m d | c:m g:m | c4:m d g:m g:m7 | c4:m d g:m\n    }\n  }\n>>\n"
+    },
+    "phd-thesis-what-a-bliss": {
+      "name": "PhD Thesis, What a Bliss!",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2020-12-17",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key g \\major\n\n    \\repeat volta 2 {\n      \\partial 4 \\tuplet 3/2 {d'8 e fis} |\n      g4 g8 fis e4 e |\n      d8 e d c b g g4 |\n      g'4 g8 fis e fis g4 |\n      a4. fis16 e d4 \\tuplet 3/2 {d8 e fis} |\n      \\break\n\n      g4 g8 fis e4 e |\n      d8 e d c b g g4 |\n      g8 fis g e' d c b a |\n      b4 g g\n    } \\break\n\n    \\repeat volta 2 {\n      g4 |\n      a4 \\tuplet 3/2 { a8 b c } d8 c b a |\n      g8 b a g e4 e |\n      a4 \\tuplet 3/2 { a8 b c } d8 c d e |\n      g4. fis16 e d4 d |\n      \\break\n\n      a4 \\tuplet 3/2 { a8 b c } d8 c b a |\n      g8 b a g e4 d8 e |\n      g8 fis g e' d c b a |\n      b4 g g\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      g2 c | d:7 g | g c | a:7 d4 d:7 |\n      g2 c | d:7 g | g d:7 | g2.\n\n      s4 |\n      a2:m d:7 | g e:m7 | a:m d:7 | a:7 d4 d:7 |\n      a2:m d:7 | g e:m7 | g d:7 | g2.\n    }\n  }\n>>\n"
+    },
+    "sir-database-of-the-stagger-inn": {
+      "name": "Sir Database of the Stagger Inn",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2023-07",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key a \\minor\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        a8 a'4 g8 e d c b |\n        c8 d c b a4 b8 g |\n        a8 a'4 g8 e d c b |\n      } \\alternative { {\n        c8 d c b a e f g |\n      } {\n        c8 d c b a g a b |\n      } } \\bar \"||\" \\break\n\n      c8 a e' a, c g e' g, |\n      c8 f, e' f, c' d c b |\n      c8 a e' a, c g e' g, |\n      c8 d c b a g a b |\n      \\break\n\n      c8 a e' a, c g e' g, |\n      c8 f, e' f, c' d c b |\n      a8 b c d e g,4 g8 |\n    } \\alternative { {\n      c8 d c b a e f g |\n    } {\n      c8 d c b a4 a |\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      a2:m c | f4 g a:m e:7 | a2:m c | f4 g a:m e:7 | f4 g a:m e:7 |\n\n      a2:m c/g | f a4:m/e e/gis | a2:m c/g | f4 e a:m e:7 |\n      a2:m c/g | f a4:m/e e/gis | a2:m c/g | f4 e a:m e:7 | f e:7 a2:m |\n    }\n  }\n>>\n"
+    },
+    "solstice-jig": {
+      "name": "Solstice Jig",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2023",
+      "dances": [
+        {
+          "type": "external",
+          "name": "The Solstice",
+          "deviser": "Vladimir Garbuzov",
+          "scddb-id": 21477
+        }
+      ],
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key a \\major\n\n    \\partial 8 e8 |\n    \\repeat volta 2 {\n      a4 a8 a gis fis |\n      e fis e cis d e |\n      fis4 fis8 d e fis |\n      e4. cis4 e8 |\n      \\break\n\n      d4 d8 b cis d |\n      cis4 e8 a4 gis8 |\n    } \\alternative { {\n      fis4 fis8 fis gis a |\n      b4. e,4 gis8 |\n    } {\n      fis4 fis8 gis a b |\n      a4. ~ a4 gis8 |\n    } } \\break\n\n    \\repeat volta 2 {\n      fis4 fis8 b gis fis |\n      e8 fis e a4 e8 |\n      d4 d8 gis e d |\n      cis8 d dis e4 a8 |\n      \\break\n\n      fis4 fis8 b gis fis |\n      e8 fis gis a4 e8 |\n      d8 e fis e fis gis |\n    } \\alternative { {\n      a4. a4 g8 |\n    } {\n      a4. a4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      a4. d | e a | d e:7 | a a/cis |\n      b4.:m e/gis | a a/cis | b b:7/dis | e2. | b4. e | a2. |\n\n      d4. e | a/cis fis:m | b:m e | a a/cis |\n      d4. e | a/cis fis:m | d e | a a:7 | a\n    }\n  }\n>>\n"
+    },
+    "summerschool-reel": {
+      "name": "Summerschool Reel",
+      "author": "Mikael Georgii",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2017",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key d \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      fis4 d a' fis |\n      b8 a g fis e4. d8 |\n      cis4 a e'8 fis g cis, |\n      d8 e fis g a4 a, |\n      \\break\n\n      fis'4 d a' fis |\n      b8 a g fis e4. d8 |\n      cis8 d e fis g e cis e |\n      d4. fis8 d4. a'8 |\n    } \\break\n\n    \\repeat volta 2 {\n      b4 g d' b |\n      a8 g fis g a4 g8 fis |\n      e4 cis g' fis8 e |\n      d8 cis d e fis d fis a |\n      \\break\n\n      b4 g d' b |\n      a8 g fis e dis cis' b a |\n      g8 fis e d cis d e cis |\n    } \\alternative { {\n      d4 fis d a' |\n    } {\n      d,4 fis d\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      d2 d/fis | g e:7 | a a/cis | d a |\n      d2 d/fis | g e:7/gis | a a:7/cis | d1 |\n\n      g2 g/b | d d/fis | a:7 a/cis | d d/fis |\n      g2 gis:dim | d/a b:7 | e:m a | d1 | d2.\n    }\n  }\n>>\n"
+    },
+    "the-fighter-of-bears": {
+      "name": "The Fighter of Bears",
+      "author": "Saskia Frisby",
+      "date": "2019",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "dances": [
+        {
+          "type": "external",
+          "name": "The Good-Natured Gentleman",
+          "deviser": "Luisa Hulsroj"
+        }
+      ],
+      "content": "<<\n  \\relative c'' {\n    \\clef treble\n    \\key b \\minor\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        \\partial 8 g'8 |\n        fis8 b, b4 d8 b fis' b, |\n        d8 b fis' b, a cis e g |\n        fis8 b, b4 d8 b fis' b, |\n        a8 b cis d cis d e g |\n      } \\break\n\n      fis8 d b fis b fis d' fis, |\n      e'8 a, cis a e' a, g' a, |\n      fis'8 d b a fis g a b |\n      a8 b cis d cis d e g |\n      \\break\n\n      fis8 d b fis b fis d' fis, |\n      e'8 a, cis a e' a, g' a, |\n      fis'8 b, b4 d8 b fis' b, |\n    } \\alternative { {\n      a8 b cis d cis d e g |\n    } {\n      g8 e cis fis, b4.\n    } } \\bar \"|.\"\n  }\n\n  \\chords {\n    s8 |\n    b1:m | b2:m a:7 | b1:m | a2 a:7 |\n\n    b1:m | a2 a:7 | b1:m | a2 a:7 |\n    b1:m | a2 a:7 | b1:m | a2 a:7 | a2:7 b4.:m\n  }\n>>\n"
+    },
+    "the-mall-in-st-james-s-park": {
+      "name": "The Mall in St. James's Park",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14826,
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2018-10-19",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "the-mall-in-st-james-s-park"
+        }
+      ],
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key d \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      a16 a8. a'8 a, fis'16 d8. d4 |\n      cis8. cis16 cis8 d cis4 cis |\n      b8. b16 b8 cis d e fis g |\n      a,8. a16 a8 b a4 a |\n      \\break\n\n      a16 a8. a'8 a, fis'16 d8. d4 |\n      cis8. cis16 cis8 d cis4 cis |\n      \\tuplet 3/2 { b4 d g } \\tuplet 3/2 { a,4 cis e } |\n      d2 d4 d |\n      \\bar \"||\" \\break\n\n      fis,16 fis8. fis'8 fis, ais cis fis fis, |\n      fis16 fis8. fis'8 fis, b d fis fis, |\n      e'16 e8. g8 e \\tuplet 3/2 { e b g } e d |\n      cis d e fis g a b cis |\n      \\break\n\n      fis,16 fis8. fis'8 fis, ais cis fis fis, |\n      fis16 fis8. fis'8 fis, b d fis fis, |\n      e'16 e8. g8 e \\tuplet 3/2 { e b g } e d |\n      cis8. a16 b8 cis d4 d |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      d1 | fis:m/cis | g | a |\n      d1 | fis:m/cis | g2 a | d1 |\n\n      fis1 | b:m | e:m | a |\n      fis1 | b:m | e:m | a2 d |\n    }\n  }\n>>\n"
+    },
+    "the-necromancer-got-me-my-mojo-back": {
+      "name": "The Necromancer Got Me My Mojo Back",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2021-04-12",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key a \\minor\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        \\partial 8 r8 |\n        e4 fis16 a8. g fis16 g a8. |\n        e4 fis16 a8. b4. b8 |\n        e,4 fis16 a8. g fis16 g a8. |\n        e8. d16 c b8. a4.\n      } \\break\n\n      \\repeat volta 2 {\n        e'8 |\n        c'8. d16 e c8. a16 c8. b8 a |\n        c8. d16 e c8. a4. e8 |\n        c'8. d16 e c8. a16 c8. b8 a |\n        e8. d16 c b8. a4.\n      }\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      a2:m g | a:m g | a:m g | e:m7 a4.:m\n\n      s8 |\n      c2 a:m | c a:m | c a:m | e:m7 a4.:m\n    }\n  }\n>>\n"
+    },
+    "the-necromancer-was-me": {
+      "name": "The Necromancer Was Me",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2021-04-12",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\major\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        \\partial 8 e8 |\n        fis4 g16 a8. g fis16 e g8. |\n        fis4 g16 a8. b4. e,8 |\n        fis4 g16 a8. g fis16 e g8. |\n        fis8. e16 d cis8. d4.\n      } \\break\n\n      fis8 |\n      d'16 fis,8. fis fis16 cis'16 fis,8. fis fis16 |\n      \\tuplet 3/2 { d'8 cis b } a8. g16 fis4. fis8 |\n      d'16 fis,8. fis fis16 cis'16 fis,8. fis fis16 |\n      \\tuplet 3/2 { g8 a b } a8. cis16 d4. fis,8 |\n      \\break\n\n      d'16 fis,8. fis fis16 cis'16 fis,8. fis fis16 |\n      \\tuplet 3/2 { d'8 cis b } a8. g16 fis4. fis8 |\n      \\tuplet 3/2 { g8 a b } \\tuplet 3/2 { a8 b cis } \\tuplet 3/2 { d8 a fis } d8. d'16 |\n      \\tuplet 3/2 { d8 cis b } \\tuplet 3/2 { a8 b cis } d4.\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      d2 g | d g | d g | d4 a:7 d4.\n\n      s8 |\n      b2:m d/a | g fis:7 | b:m d/a | g4 a d2 |\n      b2:m d/a | g fis:7 | g4 a d2 | d4 a:7 d4.\n    }\n  }\n>>\n"
+    },
+    "the-pianist-in-black-and-white": {
+      "name": "The Pianist in Black and White",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2023-07",
+      "content": "\\relative f <<\n  {\n    \\clef treble\n    \\key e \\minor\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\partial 4 b4 |\n      e8 fis g e b'4 a8 b |\n      a8 g fis e fis d d' d, |\n      fis8 d d' fis, e fis g e |\n      b'4 a8 g fis a g fis |\n      \\break\n\n      e8 fis g e b'4 a8 b |\n      a8 g fis e fis d d' d, |\n      fis8 d d' fis, e8 fis g e |\n      b'8 a g fis e d e fis |\n      \\bar \"||\" \\break\n\n      g8 d b d g4 fis8 g |\n      fis8 a g fis e c c' c, |\n      e8 c c' c, d b g' b, |\n      dis8 b a' dis, e d e fis |\n      \\break\n\n      g8 d b d g4 fis8 g |\n      fis8 a g fis e c c' c, |\n      e8 c c' c, d b g' b, |\n      dis8 b a' dis, e4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      e1:m | d | b2:m e:m | e:m b:7 |\n      e1:m | d | b2:m e:m | b:7 e4:m d:7 |\n\n      g1 | b2:m c | c g | b:7 e4:m d:7 |\n      g1 | b2:m c | c g | b:7 e4:m\n    }\n  }\n>>\n"
+    },
+    "the-sober-piper": {
+      "name": "The Sober Piper",
+      "author": "Anne Lanvin",
+      "scddb-id": 14827,
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2021",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "the-reel-of-the-51st-confusion"
+        }
+      ],
+      "content": "\\relative a <<\n  {\n    \\clef treble\n    \\key a' \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\partial 4 e''4 |\n      a,4 a8 cis e4 e8 fis |\n      e8 fis a fis fis4 d |\n      d, d8 fis a4 a8 b |\n      a cis e cis d4 fis |\n      \\break\n\n      a, a8 cis e4 e8 fis\n      e8 fis a fis e4 cis |\n      d e8 fis e fis e d |\n      cis4 a a\n    } \\break\n\n    e' |\n    a4. cis,8 e4 a, |\n    d8 cis b cis a4 cis4 |\n    d,4 d8 fis a4 b |\n    a8 cis e cis d4 fis |\n    \\break\n\n    a4. cis,8 e4 a, |\n    d8 cis b cis a4 cis4 |\n    d e8 fis e fis e d |\n    cis4 a a  e' |\n    \\bar \"||\" \\break\n\n    a4. cis,8 e4 a, |\n    d8 cis b cis a4 cis4 |\n    d,4 d8 fis a4 b |\n    a8 cis e cis d4 fis |\n    \\break\n\n    a,4 a8 cis e4 e8 fis |\n    e fis a fis e4 cis |\n    d e8 fis e fis e d |\n    cis4 a a\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a1 | a | d | d | a | a | d | a |\n\n      a1 | a | d | d | a | a | d | a |\n      a1 | a | d | d | fis:m | fis:m | b:m | a2.\n    }\n  }\n>>\n"
+    },
+    "the-translator": {
+      "name": "The Translator",
+      "author": "Nicolas “Niols” Jeannerod",
+      "scddb-id": 14452,
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2019-03-02",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "drawn-in"
+        }
+      ],
+      "content": "\\relative f <<\n  \\new Voice {\n    \\clef treble\n    \\key b \\minor\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        b16 fis'8. fis g16 fis8. e16 d8. cis16 |\n        a16 e'8. e fis16 e8. d16 cis8. ais16 |\n        b16 fis'8. fis g16 fis8. e16 d8. cis16 |\n        \\tuplet 3/2 { a8 cis e } fis8 ais, b4 b4 |\n      } \\break\n\n      fis'16 b8. b cis16 d8. cis16 b8. a16 |\n      g16 b8. b cis16 d8. cis16 b8. a16 |\n      a16 e'8. e fis16 g8. fis16 e8. d16 |\n      \\tuplet 3/2 { cis8 fis, d } \\tuplet 3/2 { b'8 fis d } \\tuplet 3/2 { a'8 fis d } \\tuplet 3/2 { b'8 fis d } |\n      \\break\n\n      fis16 b8. b cis16 d8. cis16 b8. a16 |\n      g16 b8. b cis16 d8. cis16 b8. a16 |\n      a16 e'8. e fis16 g8. fis16 e8. d16 |\n      cis16 b a g fis8 ais b4 b |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      b1:m | a2 fis | b1:m | a4 fis b2:m |\n\n      b1:m | g | a | b:m7 |\n      b1:m | g | a | a4 fis b2:m |\n    }\n  }\n>>\n"
+    },
+    "waltz-fur-j-i": {
+      "name": "Waltz for J. I",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar waltz",
+      "short-kind": "W32",
+      "date": "2019-11-12",
+      "content": "\\transpose a, d {\n  \\relative f' {\n    <<\n      {\n        \\clef treble\n        \\key a \\major\n        \\time 3/4\n\n        \\partial 2 e4 d |\n        cis4. b8 a4 |\n        a b cis |\n        b cis d |\n        b2 b8 a |\n        gis4. fis8 e4 |\n        gis a b |\n        b cis dis |\n        e\n        \\bar \"||\" \\break\n\n        e4 d |\n        cis4. b8 a4 |\n        a b cis |\n        b cis d |\n        b2 b8 a |\n        gis4. fis8 e4 |\n        cis' cis b |\n        a2. |\n        a4\n        \\bar \"||\" \\break\n\n        a4 gis |\n        fis a cis |\n        fis cis fis |\n        d2 cis4 |\n        b2 b4 |\n        b d fis |\n        b fis b |\n        gis2 fis4 |\n        e4\n        \\bar \"||\" \\break\n\n        fis4 gis |\n        a4. b8 a4 |\n        gis4. a8 gis4 |\n        fis gis a |\n        e2 d4 |\n        cis4. b8 a4 |\n        cis cis b |\n        a2. a4\n        \\bar \"|.\"\n      }\n\n      \\new ChordNames {\n        \\chordmode {\n          s2 |\n          a2. | a/e | b:m | b:m/fis | e | e/gis | b:7 | e4:7\n          s2 |\n          a2. | a/e | b:m | b:m/fis | e | e:7 | d/a | a4\n\n          s4 cis:m/gis |\n          fis2.:m | fis:m/cis | b:m | b:m/fis | b:m | b:m/fis | e:7 | e4:7\n          s2 |\n          a2. | e | d | a/cis | a | e:7 | d/a | a4\n        }\n      }\n    >>\n  }\n}\n"
+    },
+    "waltz-fur-j-ii": {
+      "name": "Waltz for J. II",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar waltz",
+      "short-kind": "W32",
+      "date": "2019-11-12",
+      "content": "\\transpose a, d  {\n  \\relative f <<\n    {\n      \\clef treble\n      \\key a \\minor\n      \\time 3/4\n\n      \\partial 2 a4 b |\n      c4. b8 a4 |\n      b a g |\n      a2 b4 |\n      c2 d4 |\n      e4. g8 e4 |\n      d2 c4 |\n      b2. |\n      g4\n      \\bar \"||\" \\break\n\n      a4 b |\n      c4. b8 a4 |\n      b a g |\n      a2 b4 |\n      c2 d4 |\n      e4. d8 c4 |\n      b2 g4 |\n      a2. |\n      a4\n      \\bar \"||\" \\break\n\n      a4 b |\n      c4. e8 g4 |\n      a g e |\n      g2. |\n      e2 d4 |\n      c4. e8 g4 |\n      a g e |\n      g2. |\n      g4\n      \\bar \"||\" \\break\n\n      a4 b |\n      c4. d8 c4 |\n      b4. c8 b4 |\n      a4. b8 a4 |\n      g2 f4 |\n      e4. d8 c4 |\n      <<\n        {\n          b2 g4 |\n          a2. |\n          a4\n          \\bar \"|.\"\n        }\n        \\new Staff {\n          \\once \\omit Staff.TimeSignature\n          e'4 e d |\n          c4 e g |\n          c\n          \\bar \"|.\"\n        }\n        \\new ChordNames {\n          \\chordmode {\n            g2.:7 | c | c4\n          }\n        }\n      >>\n    }\n\n    \\new ChordNames {\n      \\chordmode {\n        s2 | a2.:m | g | a:m | f | c | g | e:m | g4:7\n        s2 | a2.:m | g | a:m | f | c | g | d:m/a | a4:m\n        s2 | c2. | f | g | c | c | f | c/g | g4\n        s2 | a2.:m | g | f | e:m | c | g:7 | d:m/a | a4:m\n      }\n    }\n  >>\n}\n"
+    },
+    "waltz-fur-j-iii": {
+      "name": "Waltz for J. III",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar waltz",
+      "short-kind": "W32",
+      "date": "2020-09-08",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key e \\minor\n    \\time 3/4\n\n    \\partial 2 e4 fis |\n    g4. fis8 e4 |\n    fis4 e d |\n    e2 d4 |\n    b4 e fis |\n    g4. fis8 g4 |\n    a4 g a |\n    b2.~ |\n    b4\n    \\bar \"||\" \\break\n\n    c4 d |\n    e4. d8 c4 |\n    d4 c b |\n    c2 b4 |\n    a4 g fis |\n    g4. fis8 g4 |\n    a4 g fis |\n    e2.~ |\n    e4\n    \\bar \"||\" \\break\n\n    e4 fis |\n    g4. d8 b4 |\n    c4 d fis |\n    g4. d8 b4 |\n    g4 e' fis |\n    g4. d8 b4 |\n    c4 d fis |\n    g2.~ |\n    g4\n    \\bar \"||\" \\break\n\n    a4 b |\n    c4. d8 e4 |\n    d4 c b~ |\n    b2.~ |\n    b4 e c |\n    b4. a8 g4 |\n    fis4 g a |\n    g2.~ |\n    g4\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s2 |\n      e2.:m | d | c | b:7 |\n      e2.:m | d2 c4 | b2.:7 | s4\n\n      s2 |\n      c2. | g | a:m | d/a |\n      e2.:m | d2 b4:7/dis | a2.:m/e | e4:m\n\n      s2 |\n      g2. | c2 d4 | g2. | g |\n      e2.:m | a2:m d4 | g2. | s4\n\n      s2 |\n      c2. | d | b/dis | e:m |\n      g2. | d2 d4:7/a | c2./g | g4\n    }\n  }\n>>\n"
+    },
+    "wana": {
+      "name": "W.A.N.A",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2019-11-24",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\time 4/4\n    \\key bes \\major\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        bes16 f8. f f16 \\tuplet 3/2 { ees8 f g } f8 ees |\n        bes'16 f8. f f16 g4. f8 |\n        bes16 f8. f f16 \\tuplet 3/2 { ees8 f g } f8 ees |\n        f8. ees16 c16 d8. bes4 bes |\n      } \\break\n\n      d'8. c16 bes a8. bes a16 g f8. |\n      \\tuplet 3/2 { ees8 f g } f8 ees c4 c |\n      a'8. g16 f ees8. g f16 ees d8. |\n      c8 bes a g f4 f |\n      \\break\n\n      d''8. c16 bes a8. bes8. a16 g f8. |\n      \\tuplet 3/2 { ees8 f g } f8 ees c4 c |\n      a'8. g16 f ees8. f8. ees16 d c8. |\n      bes4 bes bes \\parenthesize f' |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      bes2 ees | bes ees | bes ees | f:7 bes |\n\n      bes2 g:m | ees c:m | f c:m | c:m f:7 |\n      bes2 g:m | ees c:m | f f:7 | bes1 |\n    }\n  }\n>>\n"
+    },
+    "winter-in-australia": {
+      "name": "Winter in Australia",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2018-07-23",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key c \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 g8 |\n      g c e g, c e |\n      a, c e a, c e |\n      a, d f a, d f |\n      g f e d c b |\n      \\break\n\n      g c e g, c e |\n      a, c e a, c e |\n      a, d f a, d f |\n      g f e d c b |\n      \\bar \"||\" \\break\n\n      g'4 g8 e4 e8 |\n      gis4 gis8 e4 e8 |\n      a g f a g f |\n      a g f a g f |\n      \\break\n\n      g4 g8 e4 e8 |\n      gis4 gis8 e4 e8 |\n      a g f g f e |\n      d c b c4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      c2. | a:m | d:m | c4. g |\n      c2. | a:m | d:m | c4. g |\n\n      c2. | e | d:m | d:m |\n      c2. | e | d4.:m c | g c4\n    }\n  }\n>>\n",
+      "composer-details": "This tune is heavily inspired by “Christmas in Belgium” by my dear friend\nAymeric Fromherz.\n"
+    }
+  },
+  "books": {
+    "the-doonhamers-book": {
+      "title": "The Doonhamers' Book",
+      "summary": "8 Scottish Country Dances written for Rachel Shankland and George Meikle",
+      "scddb-id": 1660,
+      "contents": [
+        {
+          "type": "dance",
+          "slug": "units-2-and-3"
+        },
+        {
+          "type": "dance",
+          "slug": "sunday-early-in-the-morning"
+        },
+        {
+          "type": "dance",
+          "slug": "spot-on"
+        },
+        {
+          "type": "dance",
+          "slug": "in-strathspey-time-george-please"
+        },
+        {
+          "type": "dance",
+          "slug": "a-wee-journey"
+        },
+        {
+          "type": "dance",
+          "slug": "the-waves"
+        },
+        {
+          "type": "dance",
+          "slug": "et-voila"
+        },
+        {
+          "type": "dance",
+          "slug": "the-terrific-twelve"
+        }
+      ]
+    }
+  },
+  "root": "."
+}
