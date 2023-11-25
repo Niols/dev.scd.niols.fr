@@ -4,11 +4,11 @@
    width="180.2066mm"
    height="82.353165mm"
    viewBox="0 0 102.54751 46.863498"
-   id="svg1992"
+   id="svg1998"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs1996" />
+     id="defs2002" />
   <style
      type="text/css"
      id="style2"><![CDATA[
@@ -1510,15 +1510,15 @@ tspan { white-space: pre; }
      id="g590">
     <rect
        x="-0.064999998"
-       y="0.18610001"
+       y="-0.31389999"
        width="0.13"
-       height="2.352"
+       height="2.852"
        ry="0.039999999"
        fill="currentColor"
        id="rect588" />
   </g>
   <g
-     transform="translate(78.370312,15.779)"
+     transform="translate(78.370312,15.279)"
      id="g594">
     <path
        transform="scale(0.004,-0.004)"
@@ -1829,7 +1829,7 @@ tspan { white-space: pre; }
        id="polygon718" />
   </g>
   <g
-     transform="translate(11.579312,17.969)"
+     transform="translate(11.579312,17.589)"
      id="g724">
     <polygon
        stroke-linejoin="round"
@@ -1837,7 +1837,7 @@ tspan { white-space: pre; }
        stroke-width="0.08"
        fill="currentColor"
        stroke="currentColor"
-       points="0.04,0.2 0.04,-0.2 9.0136,0.42 9.0136,0.82 "
+       points="0.04,0.2 0.04,-0.2 9.0136,0.18 9.0136,0.58 "
        id="polygon722" />
   </g>
   <g
@@ -2071,7 +2071,7 @@ tspan { white-space: pre; }
        x="-0.064999998"
        y="-0.81389999"
        width="0.13"
-       height="3.6194"
+       height="3.0012"
        ry="0.039999999"
        fill="currentColor"
        id="rect818" />
@@ -2235,15 +2235,15 @@ tspan { white-space: pre; }
      id="g894">
     <rect
        x="-0.064999998"
-       y="0.18610001"
+       y="-0.31389999"
        width="0.13"
-       height="2.4157"
+       height="2.3763001"
        ry="0.039999999"
        fill="currentColor"
        id="rect892" />
   </g>
   <g
-     transform="translate(17.528412,15.779)"
+     transform="translate(17.528412,15.279)"
      id="g898">
     <path
        transform="scale(0.004,-0.004)"
@@ -2258,7 +2258,7 @@ tspan { white-space: pre; }
        x="-0.064999998"
        y="-0.81389999"
        width="0.13"
-       height="3.2119999"
+       height="2.7514999"
        ry="0.039999999"
        fill="currentColor"
        id="rect900" />
@@ -2279,7 +2279,7 @@ tspan { white-space: pre; }
        x="-0.064999998"
        y="-1.8139"
        width="0.13"
-       height="4.0082998"
+       height="3.6266"
        ry="0.039999999"
        fill="currentColor"
        id="rect908" />
@@ -4838,7 +4838,7 @@ tspan { white-space: pre; }
          id="tspan1936">B</tspan></text>
   </g>
   <g
-     transform="translate(47.967012,45.8885)"
+     transform="translate(43.554612,45.8885)"
      id="g1946">
     <text
        font-family="'Source Sans Pro'"
@@ -4846,10 +4846,10 @@ tspan { white-space: pre; }
        text-anchor="start"
        fill="currentColor"
        id="text1944"><tspan
-         id="tspan1942">A</tspan></text>
+         id="tspan1942">m</tspan></text>
   </g>
   <g
-     transform="translate(49.401112,45.8885)"
+     transform="translate(47.967012,45.8885)"
      id="g1952">
     <text
        font-family="'Source Sans Pro'"
@@ -4857,10 +4857,10 @@ tspan { white-space: pre; }
        text-anchor="start"
        fill="currentColor"
        id="text1950"><tspan
-         id="tspan1948">/</tspan></text>
+         id="tspan1948">A</tspan></text>
   </g>
   <g
-     transform="translate(50.322912,45.8885)"
+     transform="translate(49.401112,45.8885)"
      id="g1958">
     <text
        font-family="'Source Sans Pro'"
@@ -4868,38 +4868,49 @@ tspan { white-space: pre; }
        text-anchor="start"
        fill="currentColor"
        id="text1956"><tspan
-         id="tspan1954">C</tspan></text>
+         id="tspan1954">/</tspan></text>
+  </g>
+  <g
+     transform="translate(50.322912,45.8885)"
+     id="g1964">
+    <text
+       font-family="'Source Sans Pro'"
+       font-size="2.6163px"
+       text-anchor="start"
+       fill="currentColor"
+       id="text1962"><tspan
+         id="tspan1960">C</tspan></text>
   </g>
   <g
      transform="translate(51.825212,45.2885)"
-     id="g1962">
+     id="g1968">
     <path
        transform="scale(0.0042,-0.0042)"
        d="m 216,-312 c 0,-10 -8,-19 -18,-19 -10,0 -19,9 -19,19 v 145 l -83,-31 v -158 c 0,-10 -9,-19 -19,-19 -10,0 -18,9 -18,19 v 145 l -32,-12 c -2,-1 -5,-1 -7,-1 -11,0 -20,9 -20,20 v 60 c 0,8 5,16 13,19 l 46,16 V 51 L 27,40 C 25,39 22,39 20,39 9,39 0,48 0,59 v 60 c 0,8 5,15 13,18 l 46,17 v 158 c 0,10 8,19 18,19 10,0 19,-9 19,-19 V 167 l 83,31 v 158 c 0,10 9,19 19,19 10,0 18,-9 18,-19 V 211 l 32,12 c 2,1 5,1 7,1 11,0 20,-9 20,-20 v -60 c 0,-8 -5,-16 -13,-19 L 216,109 V -51 l 32,11 c 2,1 5,1 7,1 11,0 20,-9 20,-20 v -60 c 0,-8 -5,-15 -13,-18 l -46,-17 z M 96,65 V -95 l 83,30 V 95 Z"
        fill="currentColor"
-       id="path1960" />
+       id="path1966" />
   </g>
   <g
      transform="translate(47.967012,38.279)"
-     id="g1966">
+     id="g1972">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1964" />
+       id="path1970" />
   </g>
   <g
      transform="translate(44.992612,40.279)"
-     id="g1970">
+     id="g1976">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1968" />
+       id="path1974" />
   </g>
   <g
      transform="translate(45.057612,39.779)"
-     id="g1974">
+     id="g1980">
     <rect
        x="-0.064999998"
        y="0.68610001"
@@ -4907,11 +4918,11 @@ tspan { white-space: pre; }
        height="2.3139"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1972" />
+       id="rect1978" />
   </g>
   <g
      transform="translate(39.108812,39.779)"
-     id="g1978">
+     id="g1984">
     <rect
        x="-0.064999998"
        y="0.68610001"
@@ -4919,11 +4930,11 @@ tspan { white-space: pre; }
        height="2.3139"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1976" />
+       id="rect1982" />
   </g>
   <g
      transform="translate(53.980912,39.779)"
-     id="g1982">
+     id="g1988">
     <rect
        x="-0.064999998"
        y="0.68610001"
@@ -4931,24 +4942,24 @@ tspan { white-space: pre; }
        height="2.1238999"
        ry="0.039999999"
        fill="currentColor"
-       id="rect1980" />
+       id="rect1986" />
   </g>
   <g
      transform="translate(53.915912,40.279)"
-     id="g1986">
+     id="g1992">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1984" />
+       id="path1990" />
   </g>
   <g
      transform="translate(39.043812,40.279)"
-     id="g1990">
+     id="g1996">
     <path
        transform="scale(0.004,-0.004)"
        d="m 218,136 c 66,0 108,-36 108,-89 0,-89 -113,-183 -218,-183 -66,0 -108,36 -108,89 0,89 113,183 218,183 z"
        fill="currentColor"
-       id="path1988" />
+       id="path1994" />
   </g>
 </svg>
