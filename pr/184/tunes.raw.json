@@ -108,6 +108,14 @@
       "date": "2015",
       "content": "\\relative f <<\n  {\n    \\clef treble\n    \\key e \\minor\n    \\time 6/8\n\n    \\partial 8 b8 |\n    \\repeat volta 2 {\n      e8 b g' fis e dis |\n      e8 b g' fis e dis |\n      e8 fis g c b a |\n      g8 fis e dis e fis |\n      \\break\n\n      e8 b g' fis e dis |\n      e8 b g' fis e dis |\n      e8 fis g a b c |\n    } \\alternative { {\n      b8 a fis e4 b8 |\n    } {\n      b'8 a fis e g b |\n    } } \\break\n\n    \\repeat volta 2 {\n      e8 e, b' c a c |\n      d8 c a b b, b' |\n      c8 b g a a, a' |\n      g8 fis e dis fis b |\n      \\break\n\n      e8 e, b' c a c |\n      d8 c a b b, b' |\n      c8 b a g fis e |\n    } \\alternative { {\n      dis8 e fis e g b |\n    } {\n      dis,8 e fis e4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      e4.:m b:7 | e:m b:7 | e:m a:m | bes:dim b:7 |\n      e4.:m b:7 | e:m b:7 | e:m a:m/c | b:7 e:m | b:7 e:m |\n\n      e4.:m a:m | d g | c a:m | bes:dim b:7 |\n      e4.:m a:m | d g | a:m bes:dim | b:7 e:m | b:7 e4:m\n    }\n  }\n>>\n"
     },
+    "chris-gray-the-musician": {
+      "name": "Chris Gray – The Musician",
+      "author": "Mikael Georgii",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2019",
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key d \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\partial 4 a'8 g |\n      fis8 d cis d a d fis a |\n      g a, cis g' fis d cis d |\n      e8 a, gis a cis a d a |\n      e'8 g fis d e a, cis e |\n      \\break\n\n      fis8 d cis d a d fis a |\n      g a, cis g' fis d cis d |\n      e8 a, fis' a, g' e cis d |\n      e8 fis d cis d4\n    } \\break\n\n    \\repeat volta 2 {\n      e8 d |\n      cis8 b cis d e cis a b |\n      cis8 a d a e' cis a cis |\n      d8 cis d e fis d a d |\n      fis8 a, g' a, a' fis e d |\n      \\break\n\n      cis8 b cis d e cis a b |\n      cis8 a d a e' cis a a' |\n      fis8 a, g' a, a' fis e d |\n      e8 fis d cis d4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      d2 d/fis | a:7 d | a a:7/cis | e:m7 a:7 |\n      d2 d/fis | a:7 d/fis | a:7 a:7/e | a d4\n\n      \\parenthesize e4:7 |\n      a2:7/cis a | a a/cis | d d/fis | d4 a/e d2/fis |\n      a2:7/e a | a4 b:m a2/cis | d d/fis | a d4\n    }\n  }\n>>\n"
+    },
     "cleansing-tea": {
       "name": "Cleansing Tea",
       "author": "Nicolas “Niols” Jeannerod",
@@ -194,6 +202,14 @@
       "composer-details": "I wrote this tune during Summer School 2019. It was an assignment given by Ian\nMuir as part of the course for class musicians. The week was very busy and the\nonly time I found to compose the tune while I was on my way to the centre of\nSt. Andrews to go print music sets.\n",
       "content": "\\transpose a, d {\n  \\relative g' <<\n    {\n      \\clef treble\n      \\key a \\major\n      \\time 6/8\n\n      \\repeat volta 2 {\n        \\partial 8 b8 |\n        cis8 a a a a gis |\n        fis d d d d cis |\n        b d fis gis fis e |\n        e fis gis a b cis |\n        \\break\n\n        cis a a a a gis |\n        fis d d d d cis |\n        b d fis e gis b |\n        a4. a4\n      } \\break\n\n      gis8 |\n      fis cis cis cis b cis |\n      fis d d d cis d |\n      e b b b a b |\n      cis d e fis gis a |\n      \\break\n\n      fis cis cis cis b cis |\n      fis d d d cis d |\n      e b b b a gis |\n      fis4. fis4 fis8 |\n      \\bar \"||\" \\break\n\n      fis' cis cis cis b cis |\n      fis d d d cis d |\n      e b b b a b |\n      cis d e fis4 d'8 |\n      \\break\n\n      cis a a a a gis fis d d d d cis |\n      b d fis e gis b |\n      a4. a4\n      \\bar \"|.\"\n    }\n\n    \\new ChordNames {\n      \\chordmode {\n        s8 |\n        a2. | d | b:m | e:7 |\n        a2. | d | b4.:m e:7 | a2. |\n\n        fis2.:m/cis | d | e | cis4.:m fis:m |\n        fis2.:m/cis | d | e | fis:m |\n\n        fis2.:m/cis | d | e | cis4.:m d/fis |\n        a2. | d | b4.:m e:7 | a4. s4\n      }\n    }\n  >>\n}\n"
     },
+    "ewan-galloway-s-jig": {
+      "name": "Ewan Galloway's Jig",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2019",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key g \\minor\n\n    \\partial 8 a8 |\n    g8 d a' bes d, c' |\n    d8 ees d d c bes |\n    bes8 c d d c bes |\n    bes8 a g a4 g8 |\n    \\break\n\n    fis8 d fis a fis a |\n    c d c c bes a |\n    a bes c c d ees |\n    ees d c d4\n    \\bar \"||\" \\break\n\n    a8 |\n    g8 d a' bes d, c' |\n    d8 ees d d c bes |\n    bes8 c d d ees f |\n    aes8 g f g4 f8 |\n    \\break\n\n    ees8 f g g f ees |\n    ees8 d c d c bes |\n    a8 bes c fis,8 d fis |\n    g4. g4\n    \\bar \"||\" \\break\n\n    c8 |\n    d8 g, d' ees d c |\n    d8 g, d' ees d c |\n    bes8 c d bes c d |\n    d8 c bes a4 bes8 |\n    \\break\n\n    c8 d, c' d d, c' |\n    c8 d, c' d d, c' |\n    a8 bes c c d ees |\n    ees d c d4\n    \\bar \"||\" \\break\n\n    c8 |\n    d8 g, d' ees d c |\n    d8 g, d' ees d c |\n    bes8 c d d ees f |\n    aes8 g f g4 f8 |\n    \\break\n\n    ees8 f g g f ees |\n    ees8 d c d c bes |\n    a8 bes c fis,8 d fis |\n    g4. g4\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      g4.:m g:m/bes | g2.:m | g:m | a4.:7 d:7 |\n      d2. | d:7 | d | g4.:m s4\n\n      s8 |\n      g4.:m g:m/bes | g2.:m | g4.:m g:7 | c:m c:m/ees |\n      c4.:m c:m6/a | g2.:m | c4.:m6/a d | g:m s4\n\n      s8 |\n      g2.:m | s | g:m | c4.:m6 d:7 |\n      d2.:7 | s | d4. d/fis | g:m s4\n\n      s8 |\n      g2.:m | s | g4.:m g:7 | c:m c:m/ees |\n      c4.:m c:m6/a | g2.:m | c4.:m6/a d | g:m s4\n    }\n  }\n>>\n"
+    },
     "flying-across-the-river": {
       "name": "Flying Across the River",
       "author": "Nicolas “Niols” Jeannerod",
@@ -219,7 +235,7 @@
           "slug": "one-blue-cloud-in-the-grey-sky"
         }
       ],
-      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key c \\major\n    \\time 4/4\n\n    c'4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    d4 d8 e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    f'4 d8 f e4 c8 e |\n    d4 b8 d c4 c |\n    \\bar \"||\" \\break\n\n    c8 b c d e g,4 g8 |\n    c b c d e d c b |\n    d cis d e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c b c d e g,4 g8 |\n    c b c d e d c b |\n    f'8 d a f' e c g e' |\n    d b g d' c4 c |\n    \\bar \"||\" \\break\n\n    a'8 gis a b c e,4 e8 |\n    a gis a b c b a g |\n    g fis g a b d,4 d8 |\n    g fis g a b a g f |\n    \\break\n\n    f e f g a c,4 c8 |\n    f e f g a g f e |\n    gis e gis a b e,4 e8 |\n    gis e gis a b a gis e |\n    \\bar \"||\" \\break\n\n    a8 gis a b c e,4 e8 |\n    a gis a b c b a g |\n    g fis g a b d,4 d8 |\n    g fis g a b a g f |\n    \\break\n\n    f e f g a c,4 c8 |\n    f e f g a g f e |\n    \\tuplet 3/4 { b4 c8 } \\tuplet 3/4 { d4 c8 } |\n    \\tuplet 3/4 { b4 c8 } b2 |\n    \\bar \"||\" \\break\n\n    c4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    d cis d e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c b c d e g,4 g8 |\n    c b c d e d c b |\n    f' d a f' e c g e' |\n    d b g d' c4 c |\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n      a1:m | s | g | s | f | s | e | s |\n      a1:m | s | g | s | f | s | e | s |\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n    }\n  }\n>>\n"
+      "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key c \\major\n    \\time 4/4\n\n    c'4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    d4 d8 e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    f'4 d8 f e4 c8 e |\n    d4 b8 d c4 c |\n    \\bar \"||\" \\break\n\n    c8 b c d e g,4 g8 |\n    c b c d e d c b |\n    d cis d e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c b c d e g,4 g8 |\n    c b c d e d c b |\n    f'8 d a f' e c g e' |\n    d b g d' c4 c |\n    \\bar \"||\" \\break\n\n    a'8 gis a b c e,4 e8 |\n    a gis a b c b a g |\n    g fis g a b d,4 d8 |\n    g fis g a b a g f |\n    \\break\n\n    f e f g a c,4 c8 |\n    f e f g a g f e |\n    gis e gis a b e,4 e8 |\n    gis e gis a b a gis e |\n    \\bar \"||\" \\break\n\n    a8 gis a b c e,4 e8 |\n    a gis a b c b a g |\n    g fis g a b d,4 d8 |\n    g fis g a b a g f |\n    \\break\n\n    f e f g a c,4 c8 |\n    f e f g a g f e |\n    b4. c8 d4. c8 |\n    b4. c8 b2 |\n    \\bar \"||\" \\break\n\n    c4 c8 d e g,4 g8 |\n    c b c d e d c b |\n    d cis d e f a,4 a8 |\n    d cis d e f e d c |\n    \\break\n\n    c b c d e g,4 g8 |\n    c b c d e d c b |\n    f' d a f' e c g e' |\n    d b g d' c4 c |\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n      a1:m | s | g | s | f | s | e | s |\n      a1:m | s | g | s | f | s | e | s |\n      c1 | s | d:m | s | c | s | d2:m c | g c |\n    }\n  }\n>>\n"
     },
     "gillian-stevenson-s-reel": {
       "name": "Gillian Stevenson's Reel",
@@ -228,6 +244,20 @@
       "short-kind": "R32",
       "date": "2018",
       "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key a \\major\n    \\time 4/4\n\n    \\partial 4 e8 d |\n    \\repeat volta 2 {\n      cis8 e a e fis d b a |\n      gis8 b e, gis a e cis e |\n      d8 fis a d, cis e a cis, |\n      b8 dis fis a gis e fis gis |\n      \\break\n\n      a8 cis e a fis d b a |\n      \\tuplet 3/2 { gis8 a b } e,8 gis a e cis e |\n      d8 fis a fis e a cis e |\n    } \\alternative { {\n      d8 b gis b a4 cis8 b |\n    } {\n      d8 b gis b a4\n    } } \\break\n\n    \\repeat volta 2 {\n      gis4 |\n      fis8 a d fis e cis a fis' |\n      e8 d gis, fis' e cis a gis |\n      fis8 a d fis e cis a cis |\n      b8 dis fis a gis e fis gis |\n      \\break\n\n      a8 e cis e fis d b a |\n      \\tuplet 3/2 { gis8 a b } e,8 gis a e cis e |\n      d8 fis a fis e gis b d |\n      \\tuplet 3/2 { cis8 d e } e,8 gis a4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a2 d | e a | d a/cis | b e |\n      a2 d | e a | d a/cis | e a | e a4\n\n      s4 |\n      d2 a/cis | e:7/b a | d a | b e |\n      a2 d | e a | d e | a4 e:7 a\n    }\n  }\n>>\n"
+    },
+    "hello-goodb": {
+      "name": "Hello, Goodb",
+      "author": "Nicolas “Niols” Jeannerod",
+      "kind": "24-bar reel",
+      "short-kind": "R24",
+      "date": "2024-02-02",
+      "dances": [
+        {
+          "type": "internal",
+          "slug": "hello-goodb"
+        }
+      ],
+      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key d \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\partial 4 d8 cis |\n      d4 cis8 d e4 fis8 g |\n      fis4 e d d8 cis |\n      b8 cis d b cis d e cis |\n      a2 a4 d8 cis |\n      d4 cis8 d e4 cis |\n      d2 d4\n    } \\break\n\n    d8 cis |\n    b4 fis8 b b4 fis8 b |\n    b4 g8 b b4 g8 b |\n    cis4 a8 cis cis4 a8 cis |\n    cis4 ais8 cis cis4 ais8 cis |\n    d4 b8 d d4 b8 d |\n    e2.\n    \\bar \"||\" \\break\n\n    d8 cis |\n    b4 fis8 b b4 fis8 b |\n    b4 g8 b b4 g8 b |\n    cis4 a8 cis cis4 a8 cis |\n    cis4 ais8 cis cis4 ais8 cis |\n    d4 cis8 d e4 cis |\n    d2 d4\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      a4:7 |\n      d2 a | d1 | g2 a | d a | d a:7 | d2.\n\n      fis4:7 |\n      b1:m | g | a | fis | b:m | a2.:7\n\n      fis4:7 |\n      b1:m | g | a | fis | d2 a:7 | d2.\n    }\n  }\n>>\n"
     },
     "humming-in-the-office": {
       "name": "Humming in the Office",
@@ -244,6 +274,14 @@
       "short-kind": "J32",
       "date": "2002",
       "content": "\\relative f'' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key f \\major\n\n    \\partial 8 c8 |\n    \\repeat volta 2 {\n      a8 bes c bes a g |\n      a8 f f f e f |\n      d e f g a f |\n      e8 g g g c bes |\n      \\break\n\n      a8 bes c bes a g |\n      a8 f f f e f |\n      d8 e f e a g |\n    } \\alternative { {\n      f4. f8 c' bes\n    } {\n      f4. f8 e f |\n    } } \\break\n\n    \\repeat volta 2 {\n      g8 e c bes' a g |\n      a8 f f f e f |\n      g8 a b g f' d |\n      e8 c c c d e |\n      \\break\n\n      f8 e f f, a c |\n      d8 bes bes d, g bes |\n      c,8 e g bes a g |\n    } \\alternative { {\n      a8 f f f e f |\n    } {\n      a8 f f f4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      f4. c:7 | f a | bes g/b | c:7 c:7/e |\n      f4. a:7 | d:m f:7/c | bes c:7 | f c:7 | f b:dim |\n\n      c4.:7 c:7/e | f f/a | g/b g:7 | c c:7/e |\n      f4. f:7/ees | g:m/d g:m/bes | c:7 c:7/e | f b:dim | f\n    }\n  }\n>>\n"
+    },
+    "jim-stott-s-jig": {
+      "name": "Jim Stott's Jig",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2018",
+      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key g \\major\n    \\time 6/8\n\n    \\partial 8 fis8 |\n    g8 g, fis' e4 dis8 |\n    e8 d b d4 b8 |\n    g8 a b d b dis |\n    e8 d b c4 gis'8 |\n    \\break\n\n    a8 a, g' fis4 e8 |\n    fis8 e b c4 b8 |\n    a8 b c e a, fis' |\n    e8 d cis d e fis |\n    \\bar \"||\" \\break\n\n    g8 g, fis' e4 d8 |\n    e8 d b d b a |\n    g8 a b d g, dis' |\n    e4. e4 b'8 |\n    \\break\n\n    c8 e, b' a4 a8 |\n    a8 a, g' fis4 e8 |\n    d8 e d d e fis |\n    g4. g4\n    \\break\n\n    \\repeat volta 2 {\n      a8 |\n      b8 fis a g4 ais8 |\n      b8 fis a g4 a8 |\n      b8 fis a g b, e |\n      d8 c b c4 gis'8 |\n      \\break\n\n      a8 a, g' fis4 e8 |\n      fis8 e b c4 b8 |\n      a8 b c d e fis\n    } \\alternative { {\n      \\set Timing.measureLength = #(ly:make-moment 5/8)\n      e8 d cis d4 |\n    } {\n      \\set Timing.measureLength = #(ly:make-moment 6/8)\n      g4. g4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      g4. g/b | g2. | g | a:m7 |\n      a2.:m7 | a:m7 | d:7 | bes4.:dim d:7/a |\n\n      g2. | g | g | c4.:6 a:m |\n      a2.:m/c | a:7/cis | d:7 | g4. s4\n\n      s8 |\n      g2. | s | g | gis4.:dim a:m |\n      a2.:m | s | d:7 | bes4.:dim d4:7 | g4. g4\n    }\n  }\n>>\n"
     },
     "la-ville-lumiere": {
       "name": "La Ville Lumière",
@@ -349,6 +387,14 @@
       "date": "2019",
       "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key bes \\major\n\n    \\partial 8 f8 |\n    d8 bes c d ees e |\n    f8 g a bes c d |\n    c8 g d' c g d' |\n    c4. c8 bes g |\n    \\break\n\n    a8 f bes a f bes |\n    a8 g f ees d c |\n    bes8 c d g d g |\n    f4. ~ f8 ees c |\n    \\bar \"||\" \\break\n\n    d8 bes c d ees e |\n    f8 g a bes c d |\n    c8 g d' c g d' |\n    c4. c8 bes g |\n    \\break\n\n    a8 f bes a f bes |\n    a8 g f ees d c |\n    bes8 c d c bes a |\n    bes4. r8 c bes |\n    \\break\n\n    \\repeat volta 2 {\n      a8 f g a bes b |\n      c8 b c d c a |\n      bes8 c d f d g |\n      f8 d ees f g bes |\n      \\break\n\n      bes8 g bes c g cis |\n      d8 bes f d ees f |\n      g8 ees g a f a |\n    } \\alternative { {\n      bes4. bes8 c, bes |\n    } {\n      bes'4. ~ bes4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      bes4. bes/f | bes bes/d | c:m7/ees g:7/d | c:m c:7/e |\n      f4.:7 f:7/c | f f:7/a | bes g:7/b | f f:7/a |\n\n      bes4. bes/f | bes bes/d | c:m/ees g:7/d | c:m c:7/e |\n      f4.:7 f:7/c | f:7 f:7/a | c:m f:7 | bes s8 c4:7 |\n\n      f4. f/c | f2. | bes | bes/d |\n      c4.:m/ees e:dim | bes/d g:7 | c:m7 f:7 | bes c:7 | bes\n    }\n  }\n>>\n"
     },
+    "mikael-georgii-s-compliments-to-angela-young": {
+      "name": "Mikael Georgii's Compliments to Angela Young",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2007",
+      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key f \\minor\n    \\time 6/8\n\n    \\partial 8 c8 |\n    \\repeat unfold 2 {\n      aes8 c c f, c' c |\n      bes8 c c g c c |\n      c8 des c c e g |\n      f4. f4 ees8 |\n      \\break\n\n      des8 f f bes, c des |\n      c8 f f aes, bes c |\n    } \\alternative { {\n      b8 c des g, b g' |\n      c,4 c8 bes aes g |\n      \\bar \"||\" \\break\n    } {\n      c8 des c c des e |\n      f4. f4 ees8 |\n      \\bar \"||\" \\break\n    } }\n\n    des8 f f bes, f' f |\n    c8 f f aes, f' f |\n    c8 des c g aes bes |\n    c4. c4 f8 |\n    \\break\n\n    des8 f f bes, f' f |\n    c8 f f aes, f' f |\n    b,8 c des g, b g' |\n    c,4 c8 bes aes g |\n    \\bar \"||\" \\break\n\n    aes8 c c f, c' c |\n    bes8 c c g c c |\n    c8 des c c e g |\n    f4. f4 ees8 |\n    \\break\n\n    des8 f f bes, c des |\n    c8 f f aes, bes c |\n    c8 des c c des e |\n    f4. f4\n    \\bar \"|.\"\n   }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      f2.:m | c4.:7/g c:7/e | c:7 c:7/e | f:m f:m/aes |\n      bes4.:m bes:m/g | f:m/aes f:m | g g/b | c:7 c:7/e |\n\n      f2.:m | c4.:7/g c:7/e | c:7 c:7/e | f:m f:m/aes |\n      bes4.:m bes:m/g | f:m/aes f:m | c2.:7 | f:m |\n\n      bes2.:m | f4.:m/aes f:m | | c2. | f4.:m f/a |\n      bes4.:m g:dim | f:m/aes f:m | g g:7 | c c:7 |\n\n      f2.:m | c4.:7/g c:7/e | c:7 c:7/e | f:m f:m/aes |\n      bes4.:m bes:m/g | f:m/aes f:m | c:7 c:7/e | f:m\n    }\n  }\n>>\n"
+    },
     "mikael-georgii-s-compliments-to-bill-ewan": {
       "name": "Mikael Georgii's Compliments to Bill Ewan",
       "author": "Mikael Georgii",
@@ -379,7 +425,7 @@
       "kind": "32-bar jig",
       "short-kind": "J32",
       "date": "2002",
-      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key bes \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 f8 |\n      d8 bes bes bes f bes |\n      g8 ees ees ees4 g8 |\n      f8 bes bes d c bes |\n      a8 c c c f ees |\n      \\break\n\n      d8 bes bes bes f bes |\n      g8 ees ees ees f g |\n      f8 bes bes a bes c |\n    } \\alternative { {\n      \\set Timing.measureLength = #(ly:make-moment 5/8)\n      d8 bes bes bes4\n    } {\n      \\set Timing.measureLength = #(ly:make-moment 6/8)\n      d8 bes bes bes d ees |\n    } } \\break\n\n    \\repeat volta 2 {\n      f8 d bes bes bes' f |\n      g8 ees ees c d ees |\n      f8 d bes bes a bes |\n      g8 a bes c d ees |\n      \\break\n\n      f8 d bes bes bes' f |\n      g8 ees ees c d ees |\n      f8 d bes a bes c |\n    } \\alternative { {\n      d8 bes bes bes d ees |\n    } {\n      d8 bes bes bes4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      bes4. bes/d | ees c:m7 | bes/d g:m | c:m7 f:7 |\n      bes4. bes/d | ees c:m7 | bes/d f:7/c | bes4 ees8 bes4 | ees4./b bes/d |\n\n      bes4. bes/d | ees c:m7 | bes/d g:m | c:7 f:7 |\n      bes4. bes/d | ees f:7 | bes/d f:7/c | bes4 ees8 bes4. | bes4. s4\n    }\n  }\n>>\n"
+      "content": "\\relative f'' <<\n  {\n    \\clef treble\n    \\key bes \\major\n    \\time 6/8\n\n    \\repeat volta 2 {\n      \\partial 8 f8 |\n      d8 bes bes bes f bes |\n      g8 ees ees ees4 g8 |\n      f8 bes bes d c bes |\n      a8 c c c f ees |\n      \\break\n\n      d8 bes bes bes f bes |\n      g8 ees ees ees f g |\n      f8 bes bes a bes c |\n    } \\alternative { {\n      \\set Timing.measureLength = #(ly:make-moment 5/8)\n      d8 bes bes bes4\n    } {\n      \\set Timing.measureLength = #(ly:make-moment 6/8)\n      d8 bes bes bes d ees |\n    } } \\break\n\n    \\repeat volta 2 {\n      f8 d bes bes bes' f |\n      g8 ees ees c d ees |\n      f8 d bes bes a bes |\n      g8 a bes c d ees |\n      \\break\n\n      f8 d bes bes bes' f |\n      g8 ees ees c d ees |\n      f8 d bes a bes c |\n    } \\alternative { {\n      d8 bes bes bes d ees |\n    } {\n      d8 bes bes bes4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      bes4. bes/d | ees c:m7 | bes/d g:m | c:m7 f:7 |\n      bes4. bes/d | ees c:m7 | bes/d f:7/c | bes4 ees8 bes4 | ees4./b bes/d |\n\n      bes4. bes/d | ees c:m7 | bes/d g:m | c:7 f:7 |\n      bes4./aes bes/d | ees f:7 | bes/d f:7/c | bes4 ees8 bes4. | bes4 ees8 bes4\n    }\n  }\n>>\n"
     },
     "mikael-georgii-s-compliments-to-shona-macfadyen": {
       "name": "Mikael Georgii's Compliments to Shona MacFadyen",
@@ -424,6 +470,7 @@
     "out-of-tune": {
       "name": "Out of Tune",
       "author": "Aymeric Fromherz",
+      "scddb-id": 15015,
       "kind": "32-bar strathspey",
       "short-kind": "S32",
       "date": "2022-11",
@@ -444,6 +491,14 @@
       "short-kind": "R32",
       "date": "2020-12-17",
       "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key g \\major\n\n    \\repeat volta 2 {\n      \\partial 4 \\tuplet 3/2 {d'8 e fis} |\n      g4 g8 fis e4 e |\n      d8 e d c b g g4 |\n      g'4 g8 fis e fis g4 |\n      a4. fis16 e d4 \\tuplet 3/2 {d8 e fis} |\n      \\break\n\n      g4 g8 fis e4 e |\n      d8 e d c b g g4 |\n      g8 fis g e' d c b a |\n      b4 g g\n    } \\break\n\n    \\repeat volta 2 {\n      g4 |\n      a4 \\tuplet 3/2 { a8 b c } d8 c b a |\n      g8 b a g e4 e |\n      a4 \\tuplet 3/2 { a8 b c } d8 c d e |\n      g4. fis16 e d4 d |\n      \\break\n\n      a4 \\tuplet 3/2 { a8 b c } d8 c b a |\n      g8 b a g e4 d8 e |\n      g8 fis g e' d c b a |\n      b4 g g\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      g2 c | d:7 g | g c | a:7 d4 d:7 |\n      g2 c | d:7 g | g d:7 | g2.\n\n      s4 |\n      a2:m d:7 | g e:m7 | a:m d:7 | a:7 d4 d:7 |\n      a2:m d:7 | g e:m7 | g d:7 | g2.\n    }\n  }\n>>\n"
+    },
+    "ryan-s-reel": {
+      "name": "Ryan's Reel",
+      "author": "Mikael Georgii",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2022",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key d \\minor\n\n    \\repeat volta 2 {\n      \\partial 8 a8 |\n      d8 a' g a f e d cis |\n      d8 c a g f e d c |\n      bes4. a8 g a bes c |\n      d8 e f d cis a' b cis |\n      \\break\n\n      d8 a' g a f e d cis |\n      d8 c a g f g a c |\n      bes8 a g a bes c d f |\n      a8 g e f d4.\n    } \\break\n\n    \\repeat volta 2 {\n      a8 |\n      f'8 d cis d a f' e f |\n      d4. c8 d c a c |\n      d8 c bes a bes a g f |\n      e8 f g bes a cis d e |\n      \\break\n\n      f8 d cis d a f' e f |\n      d4. c8 d c a c |\n      bes8 a g a bes c d f |\n      a8 g e f d4.\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      d1:m | s | g:m | d2:m a:7 |\n      d1:m | s | g:m | d2:7 s4.\n\n      s8 |\n      d1:m | s | g:m | g2:m6 a:7 |\n      d1:m | s | g:m | a2:7 d4.:m\n    }\n  }\n>>\n"
     },
     "sir-database-of-the-stagger-inn": {
       "name": "Sir Database of the Stagger Inn",
@@ -469,6 +524,14 @@
       ],
       "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key a \\major\n\n    \\partial 8 e8 |\n    \\repeat volta 2 {\n      a4 a8 a gis fis |\n      e fis e cis d e |\n      fis4 fis8 d e fis |\n      e4. cis4 e8 |\n      \\break\n\n      d4 d8 b cis d |\n      cis4 e8 a4 gis8 |\n    } \\alternative { {\n      fis4 fis8 fis gis a |\n      b4. e,4 gis8 |\n    } {\n      fis4 fis8 gis a b |\n      a4. ~ a4 gis8 |\n    } } \\break\n\n    \\repeat volta 2 {\n      fis4 fis8 b gis fis |\n      e8 fis e a4 e8 |\n      d4 d8 gis e d |\n      cis8 d dis e4 a8 |\n      \\break\n\n      fis4 fis8 b gis fis |\n      e8 fis gis a4 e8 |\n      d8 e fis e fis gis |\n    } \\alternative { {\n      a4. a4 g8 |\n    } {\n      a4. a4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      a4. d | e a | d e:7 | a a/cis |\n      b4.:m e/gis | a a/cis | b b:7/dis | e2. | b4. e | a2. |\n\n      d4. e | a/cis fis:m | b:m e | a a/cis |\n      d4. e | a/cis fis:m | d e | a a:7 | a\n    }\n  }\n>>\n"
     },
+    "stockholm-branch-ruby-jubilee": {
+      "name": "Stockholm Branch Ruby Jubilee",
+      "author": "Mikael Georgii",
+      "kind": "32-bar jig",
+      "short-kind": "J32",
+      "date": "2016",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 6/8\n    \\key f \\major\n\n    \\repeat volta 2 {\n      \\partial 8 c8 |\n      f8 f' d c a f |\n      g8 a bes c, d e |\n      f8 a d c a f |\n      g8 a bes c d e |\n      \\break\n\n      f8 f, f' d c a |\n      g8 a bes c, d e |\n      f8 a d c a f |\n      c8 d e f4\n    } \\break\n\n    \\repeat volta 2 {\n      e8 |\n      d8 e f g f d |\n      c8 d e f g a |\n      g8 a bes c bes g |\n      a8 bes b c d e |\n      \\break\n\n      f8 e f g f d |\n      c8 e f c a f |\n      g8 bes d c a f |\n      c8 d e f4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s8 |\n      f4. d:m | g:m c:7 | f d:m | g c:7 |\n      f2. | g4.:m c:7 | f f/a | c s4\n\n      s8 |\n      bes4. c | f d:m | g:m c:7 | f f:7 |\n      bes4. bes/d | f/a d:m | g:m f/a | c:7 f4\n    }\n  }\n>>\n"
+    },
     "summerschool-reel": {
       "name": "Summerschool Reel",
       "author": "Mikael Georgii",
@@ -476,6 +539,14 @@
       "short-kind": "R32",
       "date": "2017",
       "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key d \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      fis4 d a' fis |\n      b8 a g fis e4. d8 |\n      cis4 a e'8 fis g cis, |\n      d8 e fis g a4 a, |\n      \\break\n\n      fis'4 d a' fis |\n      b8 a g fis e4. d8 |\n      cis8 d e fis g e cis e |\n      d4. fis8 d4. a'8 |\n    } \\break\n\n    \\repeat volta 2 {\n      b4 g d' b |\n      a8 g fis g a4 g8 fis |\n      e4 cis g' fis8 e |\n      d8 cis d e fis d fis a |\n      \\break\n\n      b4 g d' b |\n      a8 g fis e dis cis' b a |\n      g8 fis e d cis d e cis |\n    } \\alternative { {\n      d4 fis d a' |\n    } {\n      d,4 fis d\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      d2 d/fis | g e:7 | a a/cis | d a |\n      d2 d/fis | g e:7/gis | a a:7/cis | d1 |\n\n      g2 g/b | d d/fis | a:7 a/cis | d d/fis |\n      g2 gis:dim | d/a b:7 | e:m a | d1 | d2.\n    }\n  }\n>>\n"
+    },
+    "sybille-spaegele": {
+      "name": "Sybille Spaegele",
+      "author": "Mikael Georgii",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2015",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key e \\major\n\n    \\repeat volta 2 {\n      \\partial 4 b4 |\n      e4 dis16 e8. cis e16 dis8. cis16 |\n      b8. gis16 fis8. gis16 e8. fis16 e b8. |\n      cis4 cis'8. b16 cis8. b16 gis b8. |\n      a8. gis16 fis e8. fis8. b16 cis8. dis16 |\n      \\break\n\n      e4 dis8. e16 cis8. e16 dis8. cis16 |\n      b8. gis16 fis gis8. e8. fis16 e b8. |\n      cis4 cis'8. b16 gis8. fis16 e b8. |\n      cis8. e16 dis fis8. e4\n    } \\break\n\n    \\repeat volta 2 {\n      b'4 |\n      cis8. b16 cis b8. gis a16 b e,8. |\n      fis8. e16 e8. fis16 gis8. a16 b e8. |\n      cis8. b16 cis8. b16 gis8. a16 b e,8. |\n      fis8. gis16 ais cis8. b16 c8. cis dis16 |\n      \\break\n\n      e4 dis8. e16 cis e8. dis cis16 |\n      b8. gis16 fis gis8. e fis16 e b8. |\n      cis4 cis'8. b16 gis8. fis16 e b8. |\n      cis8. e16 dis8. fis16 e4\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      e2 a4 b | gis2:m e/gis | a2 gis4:m e | fis2:m b |\n      e2 a | gis:m e/gis | a e/gis | a4 b e\n\n      s4 |\n      a4 b e2 | fis2/a e | a1 | fis2 b:7 |\n      e2 a | gis1:m | a2 e/gis | a4 b e\n    }\n  }\n>>\n"
     },
     "the-beach-ballroom": {
       "name": "The Beach Ballroom",
@@ -508,6 +579,14 @@
       ],
       "content": "<<\n  \\relative c'' {\n    \\clef treble\n    \\key b \\minor\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\repeat volta 2 {\n        \\partial 8 g'8 |\n        fis8 b, b4 d8 b fis' b, |\n        d8 b fis' b, a cis e g |\n        fis8 b, b4 d8 b fis' b, |\n        a8 b cis d cis d e g |\n      } \\break\n\n      fis8 d b fis b fis d' fis, |\n      e'8 a, cis a e' a, g' a, |\n      fis'8 d b a fis g a b |\n      a8 b cis d cis d e g |\n      \\break\n\n      fis8 d b fis b fis d' fis, |\n      e'8 a, cis a e' a, g' a, |\n      fis'8 b, b4 d8 b fis' b, |\n    } \\alternative { {\n      a8 b cis d cis d e g |\n    } {\n      g8 e cis fis, b4.\n    } } \\bar \"|.\"\n  }\n\n  \\chords {\n    s8 |\n    b1:m | b2:m a:7 | b1:m | a2 a:7 |\n\n    b1:m | a2 a:7 | b1:m | a2 a:7 |\n    b1:m | a2 a:7 | b1:m | a2 a:7 | a2:7 b4.:m\n  }\n>>\n"
     },
+    "the-kindergarten-strathspey": {
+      "name": "The Kindergarten Strathspey",
+      "author": "Mikael Georgii",
+      "kind": "32-bar strathspey",
+      "short-kind": "S32",
+      "date": "2016",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key a \\major\n\n    \\repeat volta 2 {\n      \\partial 4 e4 |\n      a4. cis8 b8. gis16 cis8. b16 |\n      a8. fis16 d fis8. e4. g8 |\n      fis4. d8 e8. a16 cis a8. |\n      b8. fis16 gis8. a16 b4. e,8 |\n      \\break\n\n      a4. cis8 b8. gis16 cis8. b16 |\n      a8. fis16 d8. fis16 e4. g8 |\n      fis4. a8 e8. a16 cis e8. |\n      d8. b16 gis b8. a4\n    } \\break\n\n    gis4 |\n    \\repeat volta 2 {\n      fis4. a8 gis8. cis,16 f8. gis16 |\n      cis8. b16 a gis8. a4 b8. cis16 |\n      d8. cis16 b8. a16 b8. a16 gis8. fis16 |\n      f8. cis16 f16 gis8. cis8. b16 a8. gis16 |\n      \\break\n\n      fis4. a8 gis8. cis,16 f8. gis16 |\n      cis8. b16 a8. gis16 a4 b8. cis16 |\n      d8. cis16 b8. a16 gis8. fis16 f gis8. |\n    } \\alternative { {\n      fis4 fis fis f |\n    } {\n      fis4 fis fis\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a2 e4 cis/f | d2/fis a4 a:7 | d2 a/cis | b e:7 |\n      a2 e4 cis/f | d2 a4 a:7 | d2 a | b4:m e a\n\n      cis4:7 |\n      fis2:m cis | c/f fis:m | b:m c:dim | cis cis:7/f |\n      fis2:m c | cis/f e4:m7 a:7 | d2 cis | fis4 b/fis fis cis:7 | fis:m b:m/fis fis:m\n    }\n  }\n>>\n"
+    },
     "the-mall-in-st-james-s-park": {
       "name": "The Mall in St. James's Park",
       "author": "Nicolas “Niols” Jeannerod",
@@ -522,6 +601,14 @@
         }
       ],
       "content": "\\relative f' <<\n  {\n    \\clef treble\n    \\key d \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      a16 a8. a'8 a, fis'16 d8. d4 |\n      cis8. cis16 cis8 d cis4 cis |\n      b8. b16 b8 cis d e fis g |\n      a,8. a16 a8 b a4 a |\n      \\break\n\n      a16 a8. a'8 a, fis'16 d8. d4 |\n      cis8. cis16 cis8 d cis4 cis |\n      \\tuplet 3/2 { b4 d g } \\tuplet 3/2 { a,4 cis e } |\n      d2 d4 d |\n      \\bar \"||\" \\break\n\n      fis,16 fis8. fis'8 fis, ais cis fis fis, |\n      fis16 fis8. fis'8 fis, b d fis fis, |\n      e'16 e8. g8 e \\tuplet 3/2 { e b g } e d |\n      cis d e fis g a b cis |\n      \\break\n\n      fis,16 fis8. fis'8 fis, ais cis fis fis, |\n      fis16 fis8. fis'8 fis, b d fis fis, |\n      e'16 e8. g8 e \\tuplet 3/2 { e b g } e d |\n      cis8. a16 b8 cis d4 d |\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      d1 | fis:m/cis | g | a |\n      d1 | fis:m/cis | g2 a | d1 |\n\n      fis1 | b:m | e:m | a |\n      fis1 | b:m | e:m | a2 d |\n    }\n  }\n>>\n"
+    },
+    "the-moth": {
+      "name": "The Moth",
+      "author": "Mikael Georgii",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2016",
+      "content": "\\relative f' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key g \\minor\n\n    \\repeat volta 2 {\n      \\partial 4 d4 |\n      d'8 c bes a g a bes c |\n      d8 g, ees' g, d' c bes c |\n      d8 c bes a g fis g bes |\n      a8 d, bes' d, c' a fis a |\n      \\break\n\n      d8 c bes a g a bes c |\n      d8 g, ees' g, d' c bes c |\n      d8 c bes a g fis g bes |\n    } \\alternative { {\n      \\set Timing.measureLength = #(ly:make-moment 3/4)\n      a8 d, e fis g4 |\n    } {\n      \\set Timing.measureLength = #(ly:make-moment 4/4)\n      a8 d, e fis g4 a4 |\n    } } \\break\n\n    \\repeat volta 2 {\n      g8 d g a bes d, a' d, |\n      g8 d g a bes d, a' d, |\n      g8 d g a bes a bes c |\n      d8 cis d ees d c bes a |\n      \\break\n\n      g8 d g a bes d, a' d, |\n      g8 d g a bes d, a' d, |\n      g8 a bes c d ees d c |\n    } \\alternative { {\n      bes8 a g fis g4 d |\n    } {\n      bes'8 a g fis g4\n    } } \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      g1:m | g2:m d:7 | g1:m | d:7 |\n      g1:m | s | d2:7 g:m | d:7 g4:m | d2:7 g:m |\n\n      g2:m d:7 | g:m d:7 | g1:m | d2:7 g:7/fis |\n      g2:m d:7 | g:m d:7 | g:m c:m7 | d:7 g:m | d:7 g4:m\n    }\n  }\n>>\n"
     },
     "the-necromancer-got-me-my-mojo-back": {
       "name": "The Necromancer Got Me My Mojo Back",
@@ -561,6 +648,15 @@
         }
       ],
       "content": "\\relative a <<\n  {\n    \\clef treble\n    \\key a' \\major\n    \\time 4/4\n\n    \\repeat volta 2 {\n      \\partial 4 e''4 |\n      a,4 a8 cis e4 e8 fis |\n      e8 fis a fis fis4 d |\n      d, d8 fis a4 a8 b |\n      a cis e cis d4 fis |\n      \\break\n\n      a, a8 cis e4 e8 fis\n      e8 fis a fis e4 cis |\n      d e8 fis e fis e d |\n      cis4 a a\n    } \\break\n\n    e' |\n    a4. cis,8 e4 a, |\n    d8 cis b cis a4 cis4 |\n    d,4 d8 fis a4 b |\n    a8 cis e cis d4 fis |\n    \\break\n\n    a4. cis,8 e4 a, |\n    d8 cis b cis a4 cis4 |\n    d e8 fis e fis e d |\n    cis4 a a  e' |\n    \\bar \"||\" \\break\n\n    a4. cis,8 e4 a, |\n    d8 cis b cis a4 cis4 |\n    d,4 d8 fis a4 b |\n    a8 cis e cis d4 fis |\n    \\break\n\n    a,4 a8 cis e4 e8 fis |\n    e fis a fis e4 cis |\n    d e8 fis e fis e d |\n    cis4 a a\n    \\bar \"|.\"\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      s4 |\n      a1 | a | d | d | a | a | d | a |\n\n      a1 | a | d | d | a | a | d | a |\n      a1 | a | d | d | fis:m | fis:m | b:m | a2.\n    }\n  }\n>>\n"
+    },
+    "the-three-maestros-in-the-partyroom": {
+      "name": "The Three Maestros in the Partyroom",
+      "author": "Mikael Georgii",
+      "kind": "32-bar reel",
+      "short-kind": "R32",
+      "date": "2005",
+      "content": "\\relative f'' <<\n  \\new Voice {\n    \\clef treble\n    \\time 4/4\n    \\key g \\minor\n\n    \\repeat volta 2 {\n      \\partial 4 d4 |\n      g,8 a bes c d4 g,8 a |\n      bes8 c d4 g,8 a bes d |\n      ees8 aes, c ees aes c, ees aes |\n      a8 g fis ees d c bes a |\n      \\break\n\n      g8 a bes c d4 g,8 a |\n      bes8 c d4 g,8 a bes d |\n      ees8 aes, c ees aes c, ees aes |\n      fis8 d c a g4\n    } \\break\n\n    \\repeat volta 2 {\n      d'8 c |\n      bes8 c bes a g4 g8 a |\n      bes8 c d c bes a g bes |\n      a8 bes a g f4 f8 g |\n      a8 f a c f c a f |\n      \\break\n\n      bes8 c bes a g4 g8 a |\n      bes8 g bes d g f ees d |\n      fis8 ees d c bes a g f |\n      g4 g g\n    }\n  }\n\n  \\new ChordNames {\n    \\chordmode {\n      d4:7 |\n      g2:m g:m/d | g:m bes:m/d | aes aes/c | d d:7/fis |\n      g2:m g:m/d | g:m g:m/bes | aes aes/c | d:7 g4:m\n\n      s4 |\n      g2:m g:m/d | g:m c:7 | f f/a | f f/a |\n      g2:m g:m/d | g:m g:m/bes | d:7/a d:7 | g2.:m\n    }\n  }\n>>\n",
+      "editor-details": "Revised in 2015.\n"
     },
     "the-translator": {
       "name": "The Translator",
