@@ -64,7 +64,7 @@
     },
     "butter-but-salted": {
       "name": "Butter, but Salted",
-      "author": "Aymeric Fromherz",
+      "author": "Aymeric Fromherz and Nicolas “Niols” Jeannerod",
       "kind": "32-bar reel for three couples in a three-couple longwise set",
       "short-kind": "32R 3/3L",
       "date": "2025-03",
@@ -103,6 +103,9 @@
           "type": "repeat",
           "kind": "custom",
           "text": "Repeat from new positions. After six times through, all dancers should be\nback to original places.\n"
+        },
+        {
+          "type": "devised by"
         }
       ]
     },
@@ -463,8 +466,12 @@
           "type": "repeat",
           "kind": "custom",
           "text": "Repeat from new positions, with 1st couple inverted.\n"
+        },
+        {
+          "type": "devised by"
         }
-      ]
+      ],
+      "deviser-details": "The name has been suggested by Angelika Schmidkonz; thank you!\n"
     },
     "hello-goodb": {
       "name": "Hello, Goodb",

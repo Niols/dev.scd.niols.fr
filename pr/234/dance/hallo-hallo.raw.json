@@ -74,8 +74,12 @@
         "type": "repeat",
         "kind": "custom",
         "text": "Repeat from new positions, with 1st couple inverted.\n"
+      },
+      {
+        "type": "devised by"
       }
-    ]
+    ],
+    "deviser-details": "The name has been suggested by Angelika Schmidkonz; thank you!\n"
   },
   "slug": "hallo-hallo"
 }
