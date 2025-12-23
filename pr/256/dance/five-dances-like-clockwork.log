@@ -2,8 +2,8 @@ This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025/nixos.org) (prelo
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**hello-goodb.tex
-(./hello-goodb.tex
+**five-dances-like-clockwork.tex
+(./five-dances-like-clockwork.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-06-09>
 
@@ -1363,8 +1363,8 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \WF@everypar=\toks47
 Package: wrapfig 2003/01/31  v 3.6
 )
-No file hello-goodb.aux.
-\openout1 = `hello-goodb.aux'.
+No file five-dances-like-clockwork.aux.
+\openout1 = `five-dances-like-clockwork.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 246.
 LaTeX Font Info:    ... okay on input line 246.
@@ -1498,7 +1498,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 246.
 Package hyperref Info: Link coloring OFF on input line 246.
 \@outlinefile=\write5
-\openout5 = `hello-goodb.out'.
+\openout5 = `five-dances-like-clockwork.out'.
 
 
 Package hyperref Warning: Rerun to get /PageLabels entry.
@@ -1526,58 +1526,99 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/n' will be
 (Font)              scaled to size 19.51016pt on input line 250.
 
-Overfull \hbox (0.85155pt too wide) in paragraph at lines 281--281
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 352--352
+[]\TU/SourceSansPro(0)/m/n/10.95 16  
+ []
+
+
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 352--352
+[]\TU/SourceSansPro(0)/m/n/10.95 10  
+ []
+
+
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 352--352
+ []\TU/SourceSansPro(0)/m/n/10.95 11
+ []
+
+
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 352--352
 []\TU/SourceSansPro(0)/m/n/10.95 12  
  []
 
 
-Overfull \hbox (0.85155pt too wide) in paragraph at lines 298--298
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 352--352
  []\TU/SourceSansPro(0)/m/n/10.95 13
  []
 
 
-Overfull \hbox (0.85155pt too wide) in paragraph at lines 298--298
-[]\TU/SourceSansPro(0)/m/n/10.95 18  
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 352--352
+[]\TU/SourceSansPro(0)/m/n/10.95 14  
  []
 
 
-Overfull \hbox (0.85155pt too wide) in paragraph at lines 313--313
- []\TU/SourceSansPro(0)/m/n/10.95 19
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 352--352
+ []\TU/SourceSansPro(0)/m/n/10.95 15
  []
 
 
-Overfull \hbox (0.85155pt too wide) in paragraph at lines 313--313
+Overfull \hbox (1.73169pt too wide) in paragraph at lines 352--352
+[]\TU/SourceSansPro(0)/m/n/10.95 16  
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 371--371
+ []\TU/SourceSansPro(0)/m/n/10.95 17
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 371--371
 []\TU/SourceSansPro(0)/m/n/10.95 24  
  []
 
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 388--388
+ []\TU/SourceSansPro(0)/m/n/10.95 25
+ []
+
+
+Overfull \hbox (0.85155pt too wide) in paragraph at lines 388--388
+[]\TU/SourceSansPro(0)/m/n/10.95 32  
+ []
+
 LaTeX Font Info:    Font shape `TU/SourceSansPro(0)/m/it' will be
-(Font)              scaled to size 9.71072pt on input line 353.
+(Font)              scaled to size 9.71072pt on input line 419.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 
 [1
 
-] (./hello-goodb.aux)
+]
+
+[2] (./five-dances-like-clockwork.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
 
 
-Package rerunfilecheck Warning: File `hello-goodb.out' has changed.
+Package rerunfilecheck Warning: File `five-dances-like-clockwork.out' has chang
+ed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `hello-goodb.out':
+Package rerunfilecheck Info: Checksums for `five-dances-like-clockwork.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  34762 strings out of 468529
- 725663 string characters out of 5422471
- 1155477 words of memory out of 5000000
+ 725828 string characters out of 5422471
+ 1165507 words of memory out of 5000000
  62630 multiletter control sequences out of 15000+600000
  627345 words of font info for 61 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 87i,11n,113p,478b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87i,11n,113p,493b,331s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on hello-goodb.pdf (1 page).
+Output written on five-dances-like-clockwork.pdf (2 pages).
