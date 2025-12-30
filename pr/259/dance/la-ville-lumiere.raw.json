@@ -8,8 +8,10 @@
     "date": "2019-04",
     "tunes": [
       {
-        "type": "internal",
-        "slug": "la-ville-lumiere"
+        "name": "La Ville Lumière",
+        "composer": "Pascaline Latour",
+        "dancelor-id": "gfju-wkq4-hxbt",
+        "scddb-id": 14533
       }
     ],
     "instructions": [
