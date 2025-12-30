@@ -119,8 +119,9 @@
       "date": "2019-03",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "the-translator"
+          "name": "The Translator",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "288i-vb6o-o9il"
         }
       ],
       "instructions": [
@@ -174,12 +175,14 @@
       "short-kind": "M64 4/4L",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "matt-s-wedding"
+          "name": "Matt's Wedding",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "eymz-cr5l-uber"
         },
         {
-          "type": "internal",
-          "slug": "emmy-s-wedding"
+          "name": "Emmy's Wedding",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "e93x-vqxj-fdmy"
         }
       ],
       "instructions": [
@@ -283,8 +286,9 @@
       "short-kind": "R40 4/4L",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "emmy-s-wedding-40bars"
+          "name": "Emmy's Wedding",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "e93x-vqxj-fdmy"
         }
       ],
       "instructions": [
@@ -401,7 +405,6 @@
       "deviser-details": "I was one of Mervyn Short's musicians during Summer School 2025. As a trainee\nteacher, I was very impressed by the precision of his teaching: he invariably\ntook the class through five dances each morning, finishing perfectly on time.\nI wrote the tune \"Five Dances Like Clockwork\" during one of these classes, and\nthe dance followed naturally. Both are dedicated to Mervyn, whose example I\nhope to learn from.\n",
       "tunes": [
         {
-          "type": "external",
           "name": "Five Dances Like Clockwork",
           "composer": "Nicolas “Niols” Jeannerod",
           "dancelor-id": "lio6-5ufl-nbjn"
@@ -566,8 +569,9 @@
       "date": "2022-11-08",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "hello-goodb"
+          "name": "Hello, Goodb",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "r0e0-02kb-hj6s"
         }
       ],
       "instructions": [
@@ -617,16 +621,19 @@
       "deviser-details": "George Meikle played wonderfully for our Units 2 and 3, even if not always in\nthe tempo we wanted. This dance can be danced in your choice of tempo to\nreflect this.\n",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "a-strathspey-for-george"
+          "name": "A Strathspey for George",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "27in-1yy4-lvoh"
         },
         {
-          "type": "internal",
-          "slug": "a-strath-jig-for-george"
+          "name": "A Strath— Jig for George",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "okr1-6vko-m09w"
         },
         {
-          "type": "internal",
-          "slug": "a-strath-reel-for-george"
+          "name": "A Strath— Reel for George",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "lbl6-s7nm-up4i"
         }
       ],
       "instructions": [
@@ -685,8 +692,10 @@
       "date": "2019-04",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "la-ville-lumiere"
+          "name": "La Ville Lumière",
+          "composer": "Pascaline Latour",
+          "dancelor-id": "gfju-wkq4-hxbt",
+          "scddb-id": 14533
         }
       ],
       "instructions": [
@@ -740,8 +749,9 @@
       "short-kind": "S40 4/4L",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "matt-s-wedding-40bars"
+          "name": "Matt's Wedding",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "eymz-cr5l-uber"
         }
       ],
       "instructions": [
@@ -809,8 +819,9 @@
       "date": "2019-08",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "en-marchant-pour-aller-photocopier-des-trucs"
+          "name": "En marchant pour aller photocopier des trucs",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "fn4e-3oak-42j6"
         }
       ],
       "deviser-details": "During Summer School 2019, we talked over lunch about the story of Niols\nwriting his tune “En marchant pour aller photocopier des trucs”. This led to\nus devising this dance together to go along with it.\n",
@@ -861,8 +872,9 @@
       "editor-details": "This dance is a three-couple version of “Two Blue Clouds in the Grey Sky”.\n",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "forty-bars-of-clouds"
+          "name": "Forty Bars of Clouds",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "vndo-hypi-7l21"
         }
       ],
       "instructions": [
@@ -1119,8 +1131,9 @@
       "editor-details": "The name was suggested by Christophe Schuwey in reference to the painting of\nthe same name by Thomas Gainsborough.\n",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "the-mall-in-st-james-s-park"
+          "name": "The Mall in St. James’s Park",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "zzw0-yi62-6cqa"
         }
       ],
       "instructions": [
@@ -1171,13 +1184,14 @@
       "editor-details": "This dance is a variation of one of the most popular Scottish country dances,\n“The Reel of the 51st Division”.\n",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "the-sober-piper"
+          "name": "The Sober Piper",
+          "composer": "Anne Lanvin",
+          "dancelor-id": "kwk6-0q6i-45vc"
         },
         {
-          "type": "external",
           "name": "The Drunken Piper",
           "composer": "Alexander McLeod",
+          "dancelor-id": "lnov-x94g-91cx",
           "scddb-id": 430
         }
       ],
@@ -1288,9 +1302,9 @@
       "deviser-details": "For Rachel Shankland and George Meikle, with heartfelt thanks for their\nkindness towards and patience with the Units 2/3 class of 2022.\n",
       "tunes": [
         {
-          "type": "external",
           "name": "Highland Whisky",
           "composer": "Niel Gow",
+          "dancelor-id": "hxzw-v3x9-5nal",
           "scddb-id": 692
         }
       ],
@@ -1353,8 +1367,9 @@
       "editor-details": "There exists a three-couple version of this dance, named “One Blue Cloud in\nthe Grey Sky”.\n",
       "tunes": [
         {
-          "type": "internal",
-          "slug": "forty-bars-of-clouds"
+          "name": "Forty Bars of Clouds",
+          "composer": "Nicolas “Niols” Jeannerod",
+          "dancelor-id": "vndo-hypi-7l21"
         }
       ],
       "instructions": [
